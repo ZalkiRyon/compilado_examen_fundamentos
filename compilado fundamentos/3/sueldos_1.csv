@@ -1,0 +1,2409 @@
+nombre,apellido,edad,rut,AFP,Cargo,antiguedad,Sueldo,Mes,Año,genero
+Maria,Lopez,38,23324353-2,Habitat,Ingeniero,9,1648506,Abril,2023,Femenino
+Maria,Lopez,38,23324353-2,Habitat,Ingeniero,9,1730931,Abril,2022,Femenino
+Maria,Lopez,38,23324353-2,Habitat,Ingeniero,9,1800168,Agosto,2023,Femenino
+Maria,Lopez,38,23324353-2,Habitat,Ingeniero,9,1890176,Agosto,2022,Femenino
+Maria,Lopez,38,23324353-2,Habitat,Ingeniero,9,1965783,Diciembre,2021,Femenino
+Maria,Lopez,38,23324353-2,Habitat,Ingeniero,9,2024756,Diciembre,2022,Femenino
+Maria,Lopez,38,23324353-2,Habitat,Ingeniero,9,2105746,Diciembre,2023,Femenino
+Maria,Lopez,38,23324353-2,Habitat,Ingeniero,9,2211033,Enero,2022,Femenino
+Maria,Lopez,38,23324353-2,Habitat,Ingeniero,9,2299474,Enero,2023,Femenino
+Maria,Lopez,38,23324353-2,Habitat,Ingeniero,9,2414447,Febrero,2022,Femenino
+Maria,Lopez,38,23324353-2,Habitat,Ingeniero,9,2511024,Febrero,2023,Femenino
+Maria,Lopez,38,23324353-2,Habitat,Ingeniero,9,2636575,Julio,2022,Femenino
+Maria,Lopez,38,23324353-2,Habitat,Ingeniero,9,2742038,Julio,2023,Femenino
+Maria,Lopez,38,23324353-2,Habitat,Ingeniero,9,2879139,Junio,2023,Femenino
+Maria,Lopez,38,23324353-2,Habitat,Ingeniero,9,3023095,Junio,2022,Femenino
+Maria,Lopez,38,23324353-2,Habitat,Ingeniero,9,3144018,Marzo,2022,Femenino
+Maria,Lopez,38,23324353-2,Habitat,Ingeniero,9,3269778,Marzo,2023,Femenino
+Maria,Lopez,38,23324353-2,Habitat,Ingeniero,9,3433266,Mayo,2022,Femenino
+Maria,Lopez,38,23324353-2,Habitat,Ingeniero,9,3570596,Mayo,2023,Femenino
+Maria,Lopez,38,23324353-2,Habitat,Ingeniero,9,3749125,Noviembre,2022,Femenino
+Maria,Lopez,38,23324353-2,Habitat,Ingeniero,9,3899090,Noviembre,2023,Femenino
+Maria,Lopez,38,23324353-2,Habitat,Ingeniero,9,4094044,Octubre,2022,Femenino
+Maria,Lopez,38,23324353-2,Habitat,Ingeniero,9,4257805,Octubre,2023,Femenino
+Maria,Lopez,38,23324353-2,Habitat,Ingeniero,9,4470695,Septiembre,2022,Femenino
+Maria,Lopez,38,23324353-2,Habitat,Ingeniero,9,4649522,Septiembre,2023,Femenino
+Pedro,Martinez,48,24735289-K,Modelo,Analista,1,977305,Abril,2023,Masculino
+Pedro,Martinez,48,24735289-K,Modelo,Analista,1,1026170,Agosto,2023,Masculino
+Pedro,Martinez,48,24735289-K,Modelo,Analista,1,1077478,Diciembre,2023,Masculino
+Pedro,Martinez,48,24735289-K,Modelo,Analista,1,1131351,Enero,2023,Masculino
+Pedro,Martinez,48,24735289-K,Modelo,Analista,1,1187918,Febrero,2023,Masculino
+Pedro,Martinez,48,24735289-K,Modelo,Analista,1,1247313,Julio,2023,Masculino
+Pedro,Martinez,48,24735289-K,Modelo,Analista,1,1309678,Junio,2023,Masculino
+Pedro,Martinez,48,24735289-K,Modelo,Analista,1,1375161,Marzo,2023,Masculino
+Pedro,Martinez,48,24735289-K,Modelo,Analista,1,1443919,Mayo,2023,Masculino
+Pedro,Martinez,48,24735289-K,Modelo,Analista,1,1516114,Noviembre,2023,Masculino
+Pedro,Martinez,48,24735289-K,Modelo,Analista,1,1591919,Octubre,2023,Masculino
+Pedro,Martinez,48,24735289-K,Modelo,Analista,1,1671514,Septiembre,2023,Masculino
+Lucia,Rodriguez,35,11317671-4,Provida,Técnico,16,1439513,Abril,2023,Femenino
+Lucia,Rodriguez,35,11317671-4,Provida,Técnico,16,1511488,Abril,2022,Femenino
+Lucia,Rodriguez,35,11317671-4,Provida,Técnico,16,1571947,Agosto,2023,Femenino
+Lucia,Rodriguez,35,11317671-4,Provida,Técnico,16,1650544,Agosto,2022,Femenino
+Lucia,Rodriguez,35,11317671-4,Provida,Técnico,16,1716565,Diciembre,2021,Femenino
+Lucia,Rodriguez,35,11317671-4,Provida,Técnico,16,1768061,Diciembre,2022,Femenino
+Lucia,Rodriguez,35,11317671-4,Provida,Técnico,16,1838783,Diciembre,2023,Femenino
+Lucia,Rodriguez,35,11317671-4,Provida,Técnico,16,1930722,Enero,2022,Femenino
+Lucia,Rodriguez,35,11317671-4,Provida,Técnico,16,2007950,Enero,2023,Femenino
+Lucia,Rodriguez,35,11317671-4,Provida,Técnico,16,2108347,Febrero,2022,Femenino
+Lucia,Rodriguez,35,11317671-4,Provida,Técnico,16,2192680,Febrero,2023,Femenino
+Lucia,Rodriguez,35,11317671-4,Provida,Técnico,16,2302314,Julio,2022,Femenino
+Lucia,Rodriguez,35,11317671-4,Provida,Técnico,16,2394406,Julio,2023,Femenino
+Lucia,Rodriguez,35,11317671-4,Provida,Técnico,16,2514126,Junio,2023,Femenino
+Lucia,Rodriguez,35,11317671-4,Provida,Técnico,16,2639832,Junio,2022,Femenino
+Lucia,Rodriguez,35,11317671-4,Provida,Técnico,16,2745425,Marzo,2022,Femenino
+Lucia,Rodriguez,35,11317671-4,Provida,Técnico,16,2855242,Marzo,2023,Femenino
+Lucia,Rodriguez,35,11317671-4,Provida,Técnico,16,2998004,Mayo,2022,Femenino
+Lucia,Rodriguez,35,11317671-4,Provida,Técnico,16,3117924,Mayo,2023,Femenino
+Lucia,Rodriguez,35,11317671-4,Provida,Técnico,16,3273820,Noviembre,2022,Femenino
+Lucia,Rodriguez,35,11317671-4,Provida,Técnico,16,3404772,Noviembre,2023,Femenino
+Lucia,Rodriguez,35,11317671-4,Provida,Técnico,16,3575010,Octubre,2022,Femenino
+Lucia,Rodriguez,35,11317671-4,Provida,Técnico,16,3718010,Octubre,2023,Femenino
+Lucia,Rodriguez,35,11317671-4,Provida,Técnico,16,3903910,Septiembre,2022,Femenino
+Lucia,Rodriguez,35,11317671-4,Provida,Técnico,16,4060066,Septiembre,2023,Femenino
+Maria,Perez,51,19084210-2,Cuprum,Gerente,4,1082869,Abril,2023,Femenino
+Maria,Perez,51,19084210-2,Cuprum,Gerente,4,1137012,Abril,2022,Femenino
+Maria,Perez,51,19084210-2,Cuprum,Gerente,4,1182492,Agosto,2023,Femenino
+Maria,Perez,51,19084210-2,Cuprum,Gerente,4,1241616,Agosto,2022,Femenino
+Maria,Perez,51,19084210-2,Cuprum,Gerente,4,1291280,Diciembre,2021,Femenino
+Maria,Perez,51,19084210-2,Cuprum,Gerente,4,1330018,Diciembre,2022,Femenino
+Maria,Perez,51,19084210-2,Cuprum,Gerente,4,1383218,Diciembre,2023,Femenino
+Maria,Perez,51,19084210-2,Cuprum,Gerente,4,1452378,Enero,2022,Femenino
+Maria,Perez,51,19084210-2,Cuprum,Gerente,4,1510473,Enero,2023,Femenino
+Maria,Perez,51,19084210-2,Cuprum,Gerente,4,1585996,Febrero,2022,Femenino
+Maria,Perez,51,19084210-2,Cuprum,Gerente,4,1649435,Febrero,2023,Femenino
+Maria,Perez,51,19084210-2,Cuprum,Gerente,4,1731906,Julio,2022,Femenino
+Maria,Perez,51,19084210-2,Cuprum,Gerente,4,1801182,Julio,2023,Femenino
+Maria,Perez,51,19084210-2,Cuprum,Gerente,4,1891241,Junio,2023,Femenino
+Maria,Perez,51,19084210-2,Cuprum,Gerente,4,1985803,Junio,2022,Femenino
+Maria,Perez,51,19084210-2,Cuprum,Gerente,4,2065235,Marzo,2022,Femenino
+Maria,Perez,51,19084210-2,Cuprum,Gerente,4,2147844,Marzo,2023,Femenino
+Maria,Perez,51,19084210-2,Cuprum,Gerente,4,2255236,Mayo,2022,Femenino
+Maria,Perez,51,19084210-2,Cuprum,Gerente,4,2345445,Mayo,2023,Femenino
+Maria,Perez,51,19084210-2,Cuprum,Gerente,4,2462717,Noviembre,2022,Femenino
+Maria,Perez,51,19084210-2,Cuprum,Gerente,4,2561225,Noviembre,2023,Femenino
+Maria,Perez,51,19084210-2,Cuprum,Gerente,4,2689286,Octubre,2022,Femenino
+Maria,Perez,51,19084210-2,Cuprum,Gerente,4,2796857,Octubre,2023,Femenino
+Maria,Perez,51,19084210-2,Cuprum,Gerente,4,2936699,Septiembre,2022,Femenino
+Maria,Perez,51,19084210-2,Cuprum,Gerente,4,3054166,Septiembre,2023,Femenino
+Ana,Lopez,28,20045217-1,Cuprum,Contador,13,1698985,Abril,2023,Femenino
+Ana,Lopez,28,20045217-1,Cuprum,Contador,13,1783934,Abril,2022,Femenino
+Ana,Lopez,28,20045217-1,Cuprum,Contador,13,1855291,Agosto,2023,Femenino
+Ana,Lopez,28,20045217-1,Cuprum,Contador,13,1948055,Agosto,2022,Femenino
+Ana,Lopez,28,20045217-1,Cuprum,Contador,13,2025977,Diciembre,2021,Femenino
+Ana,Lopez,28,20045217-1,Cuprum,Contador,13,2086756,Diciembre,2022,Femenino
+Ana,Lopez,28,20045217-1,Cuprum,Contador,13,2170226,Diciembre,2023,Femenino
+Ana,Lopez,28,20045217-1,Cuprum,Contador,13,2278737,Enero,2022,Femenino
+Ana,Lopez,28,20045217-1,Cuprum,Contador,13,2369886,Enero,2023,Femenino
+Ana,Lopez,28,20045217-1,Cuprum,Contador,13,2488380,Febrero,2022,Femenino
+Ana,Lopez,28,20045217-1,Cuprum,Contador,13,2587915,Febrero,2023,Femenino
+Ana,Lopez,28,20045217-1,Cuprum,Contador,13,2717310,Julio,2022,Femenino
+Ana,Lopez,28,20045217-1,Cuprum,Contador,13,2826002,Julio,2023,Femenino
+Ana,Lopez,28,20045217-1,Cuprum,Contador,13,2967302,Junio,2023,Femenino
+Ana,Lopez,28,20045217-1,Cuprum,Contador,13,3115667,Junio,2022,Femenino
+Ana,Lopez,28,20045217-1,Cuprum,Contador,13,3240293,Marzo,2022,Femenino
+Ana,Lopez,28,20045217-1,Cuprum,Contador,13,3369904,Marzo,2023,Femenino
+Ana,Lopez,28,20045217-1,Cuprum,Contador,13,3538399,Mayo,2022,Femenino
+Ana,Lopez,28,20045217-1,Cuprum,Contador,13,3679934,Mayo,2023,Femenino
+Ana,Lopez,28,20045217-1,Cuprum,Contador,13,3863930,Noviembre,2022,Femenino
+Ana,Lopez,28,20045217-1,Cuprum,Contador,13,4018487,Noviembre,2023,Femenino
+Ana,Lopez,28,20045217-1,Cuprum,Contador,13,4219411,Octubre,2022,Femenino
+Ana,Lopez,28,20045217-1,Cuprum,Contador,13,4388187,Octubre,2023,Femenino
+Ana,Lopez,28,20045217-1,Cuprum,Contador,13,4607596,Septiembre,2022,Femenino
+Ana,Lopez,28,20045217-1,Cuprum,Contador,13,4791899,Septiembre,2023,Femenino
+Clara,Rodriguez,40,18991148-2,Modelo,Desarrollador,9,1006552,Abril,2023,Femenino
+Clara,Rodriguez,40,18991148-2,Modelo,Desarrollador,9,1056879,Abril,2022,Femenino
+Clara,Rodriguez,40,18991148-2,Modelo,Desarrollador,9,1099154,Agosto,2023,Femenino
+Clara,Rodriguez,40,18991148-2,Modelo,Desarrollador,9,1154111,Agosto,2022,Femenino
+Clara,Rodriguez,40,18991148-2,Modelo,Desarrollador,9,1200275,Diciembre,2021,Femenino
+Clara,Rodriguez,40,18991148-2,Modelo,Desarrollador,9,1236283,Diciembre,2022,Femenino
+Clara,Rodriguez,40,18991148-2,Modelo,Desarrollador,9,1285734,Diciembre,2023,Femenino
+Clara,Rodriguez,40,18991148-2,Modelo,Desarrollador,9,1350020,Enero,2022,Femenino
+Clara,Rodriguez,40,18991148-2,Modelo,Desarrollador,9,1404020,Enero,2023,Femenino
+Clara,Rodriguez,40,18991148-2,Modelo,Desarrollador,9,1474221,Febrero,2022,Femenino
+Clara,Rodriguez,40,18991148-2,Modelo,Desarrollador,9,1533189,Febrero,2023,Femenino
+Clara,Rodriguez,40,18991148-2,Modelo,Desarrollador,9,1609848,Julio,2022,Femenino
+Clara,Rodriguez,40,18991148-2,Modelo,Desarrollador,9,1674241,Julio,2023,Femenino
+Clara,Rodriguez,40,18991148-2,Modelo,Desarrollador,9,1757953,Junio,2023,Femenino
+Clara,Rodriguez,40,18991148-2,Modelo,Desarrollador,9,1845850,Junio,2022,Femenino
+Clara,Rodriguez,40,18991148-2,Modelo,Desarrollador,9,1919684,Marzo,2022,Femenino
+Clara,Rodriguez,40,18991148-2,Modelo,Desarrollador,9,1996471,Marzo,2023,Femenino
+Clara,Rodriguez,40,18991148-2,Modelo,Desarrollador,9,2096294,Mayo,2022,Femenino
+Clara,Rodriguez,40,18991148-2,Modelo,Desarrollador,9,2180145,Mayo,2023,Femenino
+Clara,Rodriguez,40,18991148-2,Modelo,Desarrollador,9,2289152,Noviembre,2022,Femenino
+Clara,Rodriguez,40,18991148-2,Modelo,Desarrollador,9,2380718,Noviembre,2023,Femenino
+Clara,Rodriguez,40,18991148-2,Modelo,Desarrollador,9,2499753,Octubre,2022,Femenino
+Clara,Rodriguez,40,18991148-2,Modelo,Desarrollador,9,2599743,Octubre,2023,Femenino
+Clara,Rodriguez,40,18991148-2,Modelo,Desarrollador,9,2729730,Septiembre,2022,Femenino
+Clara,Rodriguez,40,18991148-2,Modelo,Desarrollador,9,2838919,Septiembre,2023,Femenino
+Carlos,Rodriguez,43,15005655-6,PlanVital,Analista,15,1563465,Abril,2023,Masculino
+Carlos,Rodriguez,43,15005655-6,PlanVital,Analista,15,1641638,Abril,2022,Masculino
+Carlos,Rodriguez,43,15005655-6,PlanVital,Analista,15,1707303,Agosto,2023,Masculino
+Carlos,Rodriguez,43,15005655-6,PlanVital,Analista,15,1792668,Agosto,2022,Masculino
+Carlos,Rodriguez,43,15005655-6,PlanVital,Analista,15,1864374,Diciembre,2021,Masculino
+Carlos,Rodriguez,43,15005655-6,PlanVital,Analista,15,1920305,Diciembre,2022,Masculino
+Carlos,Rodriguez,43,15005655-6,PlanVital,Analista,15,1997117,Diciembre,2023,Masculino
+Carlos,Rodriguez,43,15005655-6,PlanVital,Analista,15,2096972,Enero,2022,Masculino
+Carlos,Rodriguez,43,15005655-6,PlanVital,Analista,15,2180850,Enero,2023,Masculino
+Carlos,Rodriguez,43,15005655-6,PlanVital,Analista,15,2289892,Febrero,2022,Masculino
+Carlos,Rodriguez,43,15005655-6,PlanVital,Analista,15,2381487,Febrero,2023,Masculino
+Carlos,Rodriguez,43,15005655-6,PlanVital,Analista,15,2500561,Julio,2022,Masculino
+Carlos,Rodriguez,43,15005655-6,PlanVital,Analista,15,2600583,Julio,2023,Masculino
+Carlos,Rodriguez,43,15005655-6,PlanVital,Analista,15,2730612,Junio,2023,Masculino
+Carlos,Rodriguez,43,15005655-6,PlanVital,Analista,15,2867142,Junio,2022,Masculino
+Carlos,Rodriguez,43,15005655-6,PlanVital,Analista,15,2981827,Marzo,2022,Masculino
+Carlos,Rodriguez,43,15005655-6,PlanVital,Analista,15,3101100,Marzo,2023,Masculino
+Carlos,Rodriguez,43,15005655-6,PlanVital,Analista,15,3256155,Mayo,2022,Masculino
+Carlos,Rodriguez,43,15005655-6,PlanVital,Analista,15,3386401,Mayo,2023,Masculino
+Carlos,Rodriguez,43,15005655-6,PlanVital,Analista,15,3555721,Noviembre,2022,Masculino
+Carlos,Rodriguez,43,15005655-6,PlanVital,Analista,15,3697949,Noviembre,2023,Masculino
+Carlos,Rodriguez,43,15005655-6,PlanVital,Analista,15,3882846,Octubre,2022,Masculino
+Carlos,Rodriguez,43,15005655-6,PlanVital,Analista,15,4038159,Octubre,2023,Masculino
+Carlos,Rodriguez,43,15005655-6,PlanVital,Analista,15,4240066,Septiembre,2022,Masculino
+Carlos,Rodriguez,43,15005655-6,PlanVital,Analista,15,4409668,Septiembre,2023,Masculino
+Clara,Diaz,26,13981136-7,PlanVital,Analista,3,887429,Abril,2023,Femenino
+Clara,Diaz,26,13981136-7,PlanVital,Analista,3,931800,Abril,2022,Femenino
+Clara,Diaz,26,13981136-7,PlanVital,Analista,3,969072,Agosto,2023,Femenino
+Clara,Diaz,26,13981136-7,PlanVital,Analista,3,1017525,Agosto,2022,Femenino
+Clara,Diaz,26,13981136-7,PlanVital,Analista,3,1058226,Diciembre,2021,Femenino
+Clara,Diaz,26,13981136-7,PlanVital,Analista,3,1089972,Diciembre,2022,Femenino
+Clara,Diaz,26,13981136-7,PlanVital,Analista,3,1133570,Diciembre,2023,Femenino
+Clara,Diaz,26,13981136-7,PlanVital,Analista,3,1190248,Enero,2022,Femenino
+Clara,Diaz,26,13981136-7,PlanVital,Analista,3,1237857,Enero,2023,Femenino
+Clara,Diaz,26,13981136-7,PlanVital,Analista,3,1299749,Febrero,2022,Femenino
+Clara,Diaz,26,13981136-7,PlanVital,Analista,3,1351738,Febrero,2023,Femenino
+Clara,Diaz,26,13981136-7,PlanVital,Analista,3,1419324,Julio,2022,Femenino
+Clara,Diaz,26,13981136-7,PlanVital,Analista,3,1476096,Julio,2023,Femenino
+Clara,Diaz,26,13981136-7,PlanVital,Analista,3,1549900,Junio,2023,Femenino
+Clara,Diaz,26,13981136-7,PlanVital,Analista,3,1627395,Junio,2022,Femenino
+Clara,Diaz,26,13981136-7,PlanVital,Analista,3,1692490,Marzo,2022,Femenino
+Clara,Diaz,26,13981136-7,PlanVital,Analista,3,1760189,Marzo,2023,Femenino
+Clara,Diaz,26,13981136-7,PlanVital,Analista,3,1848198,Mayo,2022,Femenino
+Clara,Diaz,26,13981136-7,PlanVital,Analista,3,1922125,Mayo,2023,Femenino
+Clara,Diaz,26,13981136-7,PlanVital,Analista,3,2018231,Noviembre,2022,Femenino
+Clara,Diaz,26,13981136-7,PlanVital,Analista,3,2098960,Noviembre,2023,Femenino
+Clara,Diaz,26,13981136-7,PlanVital,Analista,3,2203908,Octubre,2022,Femenino
+Clara,Diaz,26,13981136-7,PlanVital,Analista,3,2292064,Octubre,2023,Femenino
+Clara,Diaz,26,13981136-7,PlanVital,Analista,3,2406667,Septiembre,2022,Femenino
+Clara,Diaz,26,13981136-7,PlanVital,Analista,3,2502933,Septiembre,2023,Femenino
+Clara,Gonzalez,46,15658173-4,Cuprum,Técnico,15,1584980,Abril,2023,Femenino
+Clara,Gonzalez,46,15658173-4,Cuprum,Técnico,15,1664229,Abril,2022,Femenino
+Clara,Gonzalez,46,15658173-4,Cuprum,Técnico,15,1730798,Agosto,2023,Femenino
+Clara,Gonzalez,46,15658173-4,Cuprum,Técnico,15,1817337,Agosto,2022,Femenino
+Clara,Gonzalez,46,15658173-4,Cuprum,Técnico,15,1890030,Diciembre,2021,Femenino
+Clara,Gonzalez,46,15658173-4,Cuprum,Técnico,15,1946730,Diciembre,2022,Femenino
+Clara,Gonzalez,46,15658173-4,Cuprum,Técnico,15,2024599,Diciembre,2023,Femenino
+Clara,Gonzalez,46,15658173-4,Cuprum,Técnico,15,2125828,Enero,2022,Femenino
+Clara,Gonzalez,46,15658173-4,Cuprum,Técnico,15,2210861,Enero,2023,Femenino
+Clara,Gonzalez,46,15658173-4,Cuprum,Técnico,15,2321404,Febrero,2022,Femenino
+Clara,Gonzalez,46,15658173-4,Cuprum,Técnico,15,2414260,Febrero,2023,Femenino
+Clara,Gonzalez,46,15658173-4,Cuprum,Técnico,15,2534973,Julio,2022,Femenino
+Clara,Gonzalez,46,15658173-4,Cuprum,Técnico,15,2636371,Julio,2023,Femenino
+Clara,Gonzalez,46,15658173-4,Cuprum,Técnico,15,2768189,Junio,2023,Femenino
+Clara,Gonzalez,46,15658173-4,Cuprum,Técnico,15,2906598,Junio,2022,Femenino
+Clara,Gonzalez,46,15658173-4,Cuprum,Técnico,15,3022861,Marzo,2022,Femenino
+Clara,Gonzalez,46,15658173-4,Cuprum,Técnico,15,3143775,Marzo,2023,Femenino
+Clara,Gonzalez,46,15658173-4,Cuprum,Técnico,15,3300963,Mayo,2022,Femenino
+Clara,Gonzalez,46,15658173-4,Cuprum,Técnico,15,3433001,Mayo,2023,Femenino
+Clara,Gonzalez,46,15658173-4,Cuprum,Técnico,15,3604651,Noviembre,2022,Femenino
+Clara,Gonzalez,46,15658173-4,Cuprum,Técnico,15,3748837,Noviembre,2023,Femenino
+Clara,Gonzalez,46,15658173-4,Cuprum,Técnico,15,3936278,Octubre,2022,Femenino
+Clara,Gonzalez,46,15658173-4,Cuprum,Técnico,15,4093729,Octubre,2023,Femenino
+Clara,Gonzalez,46,15658173-4,Cuprum,Técnico,15,4298415,Septiembre,2022,Femenino
+Clara,Gonzalez,46,15658173-4,Cuprum,Técnico,15,4470351,Septiembre,2023,Femenino
+Pedro,Martinez,28,2360293-9,PlanVital,Analista,13,1568064,Abril,2023,Masculino
+Pedro,Martinez,28,2360293-9,PlanVital,Analista,13,1646467,Abril,2022,Masculino
+Pedro,Martinez,28,2360293-9,PlanVital,Analista,13,1712325,Agosto,2023,Masculino
+Pedro,Martinez,28,2360293-9,PlanVital,Analista,13,1797941,Agosto,2022,Masculino
+Pedro,Martinez,28,2360293-9,PlanVital,Analista,13,1869858,Diciembre,2021,Masculino
+Pedro,Martinez,28,2360293-9,PlanVital,Analista,13,1925953,Diciembre,2022,Masculino
+Pedro,Martinez,28,2360293-9,PlanVital,Analista,13,2002991,Diciembre,2023,Masculino
+Pedro,Martinez,28,2360293-9,PlanVital,Analista,13,2103140,Enero,2022,Masculino
+Pedro,Martinez,28,2360293-9,PlanVital,Analista,13,2187265,Enero,2023,Masculino
+Pedro,Martinez,28,2360293-9,PlanVital,Analista,13,2296628,Febrero,2022,Masculino
+Pedro,Martinez,28,2360293-9,PlanVital,Analista,13,2388493,Febrero,2023,Masculino
+Pedro,Martinez,28,2360293-9,PlanVital,Analista,13,2507917,Julio,2022,Masculino
+Pedro,Martinez,28,2360293-9,PlanVital,Analista,13,2608233,Julio,2023,Masculino
+Pedro,Martinez,28,2360293-9,PlanVital,Analista,13,2738644,Junio,2023,Masculino
+Pedro,Martinez,28,2360293-9,PlanVital,Analista,13,2875576,Junio,2022,Masculino
+Pedro,Martinez,28,2360293-9,PlanVital,Analista,13,2990599,Marzo,2022,Masculino
+Pedro,Martinez,28,2360293-9,PlanVital,Analista,13,3110222,Marzo,2023,Masculino
+Pedro,Martinez,28,2360293-9,PlanVital,Analista,13,3265733,Mayo,2022,Masculino
+Pedro,Martinez,28,2360293-9,PlanVital,Analista,13,3396362,Mayo,2023,Masculino
+Pedro,Martinez,28,2360293-9,PlanVital,Analista,13,3566180,Noviembre,2022,Masculino
+Pedro,Martinez,28,2360293-9,PlanVital,Analista,13,3708827,Noviembre,2023,Masculino
+Pedro,Martinez,28,2360293-9,PlanVital,Analista,13,3894268,Octubre,2022,Masculino
+Pedro,Martinez,28,2360293-9,PlanVital,Analista,13,4050038,Octubre,2023,Masculino
+Pedro,Martinez,28,2360293-9,PlanVital,Analista,13,4252539,Septiembre,2022,Masculino
+Pedro,Martinez,28,2360293-9,PlanVital,Analista,13,4422640,Septiembre,2023,Masculino
+Maria,Sanchez,54,12148658-2,PlanVital,Gerente,13,892869,Abril,2023,Femenino
+Maria,Sanchez,54,12148658-2,PlanVital,Gerente,13,937512,Abril,2022,Femenino
+Maria,Sanchez,54,12148658-2,PlanVital,Gerente,13,975012,Agosto,2023,Femenino
+Maria,Sanchez,54,12148658-2,PlanVital,Gerente,13,1023762,Agosto,2022,Femenino
+Maria,Sanchez,54,12148658-2,PlanVital,Gerente,13,1064712,Diciembre,2021,Femenino
+Maria,Sanchez,54,12148658-2,PlanVital,Gerente,13,1096653,Diciembre,2022,Femenino
+Maria,Sanchez,54,12148658-2,PlanVital,Gerente,13,1140519,Diciembre,2023,Femenino
+Maria,Sanchez,54,12148658-2,PlanVital,Gerente,13,1197544,Enero,2022,Femenino
+Maria,Sanchez,54,12148658-2,PlanVital,Gerente,13,1245445,Enero,2023,Femenino
+Maria,Sanchez,54,12148658-2,PlanVital,Gerente,13,1307717,Febrero,2022,Femenino
+Maria,Sanchez,54,12148658-2,PlanVital,Gerente,13,1360025,Febrero,2023,Femenino
+Maria,Sanchez,54,12148658-2,PlanVital,Gerente,13,1428026,Julio,2022,Femenino
+Maria,Sanchez,54,12148658-2,PlanVital,Gerente,13,1485147,Julio,2023,Femenino
+Maria,Sanchez,54,12148658-2,PlanVital,Gerente,13,1559404,Junio,2023,Femenino
+Maria,Sanchez,54,12148658-2,PlanVital,Gerente,13,1637374,Junio,2022,Femenino
+Maria,Sanchez,54,12148658-2,PlanVital,Gerente,13,1702868,Marzo,2022,Femenino
+Maria,Sanchez,54,12148658-2,PlanVital,Gerente,13,1770982,Marzo,2023,Femenino
+Maria,Sanchez,54,12148658-2,PlanVital,Gerente,13,1859531,Mayo,2022,Femenino
+Maria,Sanchez,54,12148658-2,PlanVital,Gerente,13,1933912,Mayo,2023,Femenino
+Maria,Sanchez,54,12148658-2,PlanVital,Gerente,13,2030607,Noviembre,2022,Femenino
+Maria,Sanchez,54,12148658-2,PlanVital,Gerente,13,2111831,Noviembre,2023,Femenino
+Maria,Sanchez,54,12148658-2,PlanVital,Gerente,13,2217422,Octubre,2022,Femenino
+Maria,Sanchez,54,12148658-2,PlanVital,Gerente,13,2306118,Octubre,2023,Femenino
+Maria,Sanchez,54,12148658-2,PlanVital,Gerente,13,2421423,Septiembre,2022,Femenino
+Maria,Sanchez,54,12148658-2,PlanVital,Gerente,13,2518279,Septiembre,2023,Femenino
+Ana,Gonzalez,26,8730044-2,Habitat,Analista,10,1552419,Abril,2023,Femenino
+Ana,Gonzalez,26,8730044-2,Habitat,Analista,10,1630039,Abril,2022,Femenino
+Ana,Gonzalez,26,8730044-2,Habitat,Analista,10,1695240,Agosto,2023,Femenino
+Ana,Gonzalez,26,8730044-2,Habitat,Analista,10,1780002,Agosto,2022,Femenino
+Ana,Gonzalez,26,8730044-2,Habitat,Analista,10,1851202,Diciembre,2021,Femenino
+Ana,Gonzalez,26,8730044-2,Habitat,Analista,10,1906738,Diciembre,2022,Femenino
+Ana,Gonzalez,26,8730044-2,Habitat,Analista,10,1983007,Diciembre,2023,Femenino
+Ana,Gonzalez,26,8730044-2,Habitat,Analista,10,2082157,Enero,2022,Femenino
+Ana,Gonzalez,26,8730044-2,Habitat,Analista,10,2165443,Enero,2023,Femenino
+Ana,Gonzalez,26,8730044-2,Habitat,Analista,10,2273715,Febrero,2022,Femenino
+Ana,Gonzalez,26,8730044-2,Habitat,Analista,10,2364663,Febrero,2023,Femenino
+Ana,Gonzalez,26,8730044-2,Habitat,Analista,10,2482896,Julio,2022,Femenino
+Ana,Gonzalez,26,8730044-2,Habitat,Analista,10,2582211,Julio,2023,Femenino
+Ana,Gonzalez,26,8730044-2,Habitat,Analista,10,2711321,Junio,2023,Femenino
+Ana,Gonzalez,26,8730044-2,Habitat,Analista,10,2846887,Junio,2022,Femenino
+Ana,Gonzalez,26,8730044-2,Habitat,Analista,10,2960762,Marzo,2022,Femenino
+Ana,Gonzalez,26,8730044-2,Habitat,Analista,10,3079192,Marzo,2023,Femenino
+Ana,Gonzalez,26,8730044-2,Habitat,Analista,10,3233151,Mayo,2022,Femenino
+Ana,Gonzalez,26,8730044-2,Habitat,Analista,10,3362477,Mayo,2023,Femenino
+Ana,Gonzalez,26,8730044-2,Habitat,Analista,10,3530600,Noviembre,2022,Femenino
+Ana,Gonzalez,26,8730044-2,Habitat,Analista,10,3671824,Noviembre,2023,Femenino
+Ana,Gonzalez,26,8730044-2,Habitat,Analista,10,3855415,Octubre,2022,Femenino
+Ana,Gonzalez,26,8730044-2,Habitat,Analista,10,4009631,Octubre,2023,Femenino
+Ana,Gonzalez,26,8730044-2,Habitat,Analista,10,4210112,Septiembre,2022,Femenino
+Ana,Gonzalez,26,8730044-2,Habitat,Analista,10,4378516,Septiembre,2023,Femenino
+Ana,Martinez,25,16997703-8,Modelo,Gerente,19,1264422,Abril,2023,Femenino
+Ana,Martinez,25,16997703-8,Modelo,Gerente,19,1327643,Abril,2022,Femenino
+Ana,Martinez,25,16997703-8,Modelo,Gerente,19,1380748,Agosto,2023,Femenino
+Ana,Martinez,25,16997703-8,Modelo,Gerente,19,1449785,Agosto,2022,Femenino
+Ana,Martinez,25,16997703-8,Modelo,Gerente,19,1507776,Diciembre,2021,Femenino
+Ana,Martinez,25,16997703-8,Modelo,Gerente,19,1553009,Diciembre,2022,Femenino
+Ana,Martinez,25,16997703-8,Modelo,Gerente,19,1615129,Diciembre,2023,Femenino
+Ana,Martinez,25,16997703-8,Modelo,Gerente,19,1695885,Enero,2022,Femenino
+Ana,Martinez,25,16997703-8,Modelo,Gerente,19,1763720,Enero,2023,Femenino
+Ana,Martinez,25,16997703-8,Modelo,Gerente,19,1851906,Febrero,2022,Femenino
+Ana,Martinez,25,16997703-8,Modelo,Gerente,19,1925982,Febrero,2023,Femenino
+Ana,Martinez,25,16997703-8,Modelo,Gerente,19,2022281,Julio,2022,Femenino
+Ana,Martinez,25,16997703-8,Modelo,Gerente,19,2103172,Julio,2023,Femenino
+Ana,Martinez,25,16997703-8,Modelo,Gerente,19,2208330,Junio,2023,Femenino
+Ana,Martinez,25,16997703-8,Modelo,Gerente,19,2318746,Junio,2022,Femenino
+Ana,Martinez,25,16997703-8,Modelo,Gerente,19,2411495,Marzo,2022,Femenino
+Ana,Martinez,25,16997703-8,Modelo,Gerente,19,2507954,Marzo,2023,Femenino
+Ana,Martinez,25,16997703-8,Modelo,Gerente,19,2633351,Mayo,2022,Femenino
+Ana,Martinez,25,16997703-8,Modelo,Gerente,19,2738685,Mayo,2023,Femenino
+Ana,Martinez,25,16997703-8,Modelo,Gerente,19,2875619,Noviembre,2022,Femenino
+Ana,Martinez,25,16997703-8,Modelo,Gerente,19,2990643,Noviembre,2023,Femenino
+Ana,Martinez,25,16997703-8,Modelo,Gerente,19,3140175,Octubre,2022,Femenino
+Ana,Martinez,25,16997703-8,Modelo,Gerente,19,3265782,Octubre,2023,Femenino
+Ana,Martinez,25,16997703-8,Modelo,Gerente,19,3429071,Septiembre,2022,Femenino
+Ana,Martinez,25,16997703-8,Modelo,Gerente,19,3566233,Septiembre,2023,Femenino
+Pedro,Ramirez,32,23762537-8,Capital,Jefe de Proyectos,13,1409696,Abril,2023,Masculino
+Pedro,Ramirez,32,23762537-8,Capital,Jefe de Proyectos,13,1480180,Abril,2022,Masculino
+Pedro,Ramirez,32,23762537-8,Capital,Jefe de Proyectos,13,1539387,Agosto,2023,Masculino
+Pedro,Ramirez,32,23762537-8,Capital,Jefe de Proyectos,13,1616356,Agosto,2022,Masculino
+Pedro,Ramirez,32,23762537-8,Capital,Jefe de Proyectos,13,1681010,Diciembre,2021,Masculino
+Pedro,Ramirez,32,23762537-8,Capital,Jefe de Proyectos,13,1731440,Diciembre,2022,Masculino
+Pedro,Ramirez,32,23762537-8,Capital,Jefe de Proyectos,13,1800697,Diciembre,2023,Masculino
+Pedro,Ramirez,32,23762537-8,Capital,Jefe de Proyectos,13,1890731,Enero,2022,Masculino
+Pedro,Ramirez,32,23762537-8,Capital,Jefe de Proyectos,13,1966360,Enero,2023,Masculino
+Pedro,Ramirez,32,23762537-8,Capital,Jefe de Proyectos,13,2064678,Febrero,2022,Masculino
+Pedro,Ramirez,32,23762537-8,Capital,Jefe de Proyectos,13,2147265,Febrero,2023,Masculino
+Pedro,Ramirez,32,23762537-8,Capital,Jefe de Proyectos,13,2254628,Julio,2022,Masculino
+Pedro,Ramirez,32,23762537-8,Capital,Jefe de Proyectos,13,2344813,Julio,2023,Masculino
+Pedro,Ramirez,32,23762537-8,Capital,Jefe de Proyectos,13,2462053,Junio,2023,Masculino
+Pedro,Ramirez,32,23762537-8,Capital,Jefe de Proyectos,13,2585155,Junio,2022,Masculino
+Pedro,Ramirez,32,23762537-8,Capital,Jefe de Proyectos,13,2688561,Marzo,2022,Masculino
+Pedro,Ramirez,32,23762537-8,Capital,Jefe de Proyectos,13,2796103,Marzo,2023,Masculino
+Pedro,Ramirez,32,23762537-8,Capital,Jefe de Proyectos,13,2935908,Mayo,2022,Masculino
+Pedro,Ramirez,32,23762537-8,Capital,Jefe de Proyectos,13,3053344,Mayo,2023,Masculino
+Pedro,Ramirez,32,23762537-8,Capital,Jefe de Proyectos,13,3206011,Noviembre,2022,Masculino
+Pedro,Ramirez,32,23762537-8,Capital,Jefe de Proyectos,13,3334251,Noviembre,2023,Masculino
+Pedro,Ramirez,32,23762537-8,Capital,Jefe de Proyectos,13,3500963,Octubre,2022,Masculino
+Pedro,Ramirez,32,23762537-8,Capital,Jefe de Proyectos,13,3641001,Octubre,2023,Masculino
+Pedro,Ramirez,32,23762537-8,Capital,Jefe de Proyectos,13,3823051,Septiembre,2022,Masculino
+Pedro,Ramirez,32,23762537-8,Capital,Jefe de Proyectos,13,3975973,Septiembre,2023,Masculino
+Clara,Gonzalez,59,3057862-9,Modelo,Analista,1,1786380,Abril,2023,Femenino
+Clara,Gonzalez,59,3057862-9,Modelo,Analista,1,1875699,Agosto,2023,Femenino
+Clara,Gonzalez,59,3057862-9,Modelo,Analista,1,1969483,Diciembre,2023,Femenino
+Clara,Gonzalez,59,3057862-9,Modelo,Analista,1,2067957,Enero,2023,Femenino
+Clara,Gonzalez,59,3057862-9,Modelo,Analista,1,2171354,Febrero,2023,Femenino
+Clara,Gonzalez,59,3057862-9,Modelo,Analista,1,2279921,Julio,2023,Femenino
+Clara,Gonzalez,59,3057862-9,Modelo,Analista,1,2393917,Junio,2023,Femenino
+Clara,Gonzalez,59,3057862-9,Modelo,Analista,1,2513612,Marzo,2023,Femenino
+Clara,Gonzalez,59,3057862-9,Modelo,Analista,1,2639292,Mayo,2023,Femenino
+Clara,Gonzalez,59,3057862-9,Modelo,Analista,1,2771256,Noviembre,2023,Femenino
+Clara,Gonzalez,59,3057862-9,Modelo,Analista,1,2909818,Octubre,2023,Femenino
+Clara,Gonzalez,59,3057862-9,Modelo,Analista,1,3055308,Septiembre,2023,Femenino
+Jorge,Rodriguez,52,4891950-4,Habitat,Gerente,19,1442571,Abril,2023,Masculino
+Jorge,Rodriguez,52,4891950-4,Habitat,Gerente,19,1514699,Abril,2022,Masculino
+Jorge,Rodriguez,52,4891950-4,Habitat,Gerente,19,1575286,Agosto,2023,Masculino
+Jorge,Rodriguez,52,4891950-4,Habitat,Gerente,19,1654050,Agosto,2022,Masculino
+Jorge,Rodriguez,52,4891950-4,Habitat,Gerente,19,1720212,Diciembre,2021,Masculino
+Jorge,Rodriguez,52,4891950-4,Habitat,Gerente,19,1771818,Diciembre,2022,Masculino
+Jorge,Rodriguez,52,4891950-4,Habitat,Gerente,19,1842690,Diciembre,2023,Masculino
+Jorge,Rodriguez,52,4891950-4,Habitat,Gerente,19,1934824,Enero,2022,Masculino
+Jorge,Rodriguez,52,4891950-4,Habitat,Gerente,19,2012216,Enero,2023,Masculino
+Jorge,Rodriguez,52,4891950-4,Habitat,Gerente,19,2112826,Febrero,2022,Masculino
+Jorge,Rodriguez,52,4891950-4,Habitat,Gerente,19,2197339,Febrero,2023,Masculino
+Jorge,Rodriguez,52,4891950-4,Habitat,Gerente,19,2307205,Julio,2022,Masculino
+Jorge,Rodriguez,52,4891950-4,Habitat,Gerente,19,2399493,Julio,2023,Masculino
+Jorge,Rodriguez,52,4891950-4,Habitat,Gerente,19,2519467,Junio,2023,Masculino
+Jorge,Rodriguez,52,4891950-4,Habitat,Gerente,19,2645440,Junio,2022,Masculino
+Jorge,Rodriguez,52,4891950-4,Habitat,Gerente,19,2751257,Marzo,2022,Masculino
+Jorge,Rodriguez,52,4891950-4,Habitat,Gerente,19,2861307,Marzo,2023,Masculino
+Jorge,Rodriguez,52,4891950-4,Habitat,Gerente,19,3004372,Mayo,2022,Masculino
+Jorge,Rodriguez,52,4891950-4,Habitat,Gerente,19,3124546,Mayo,2023,Masculino
+Jorge,Rodriguez,52,4891950-4,Habitat,Gerente,19,3280773,Noviembre,2022,Masculino
+Jorge,Rodriguez,52,4891950-4,Habitat,Gerente,19,3412003,Noviembre,2023,Masculino
+Jorge,Rodriguez,52,4891950-4,Habitat,Gerente,19,3582603,Octubre,2022,Masculino
+Jorge,Rodriguez,52,4891950-4,Habitat,Gerente,19,3725907,Octubre,2023,Masculino
+Jorge,Rodriguez,52,4891950-4,Habitat,Gerente,19,3912202,Septiembre,2022,Masculino
+Jorge,Rodriguez,52,4891950-4,Habitat,Gerente,19,4068690,Septiembre,2023,Masculino
+Jorge,Diaz,39,14828309-8,Modelo,Jefe de Proyectos,4,1344746,Abril,2023,Masculino
+Jorge,Diaz,39,14828309-8,Modelo,Jefe de Proyectos,4,1411983,Abril,2022,Masculino
+Jorge,Diaz,39,14828309-8,Modelo,Jefe de Proyectos,4,1468462,Agosto,2023,Masculino
+Jorge,Diaz,39,14828309-8,Modelo,Jefe de Proyectos,4,1541885,Agosto,2022,Masculino
+Jorge,Diaz,39,14828309-8,Modelo,Jefe de Proyectos,4,1603560,Diciembre,2021,Masculino
+Jorge,Diaz,39,14828309-8,Modelo,Jefe de Proyectos,4,1651666,Diciembre,2022,Masculino
+Jorge,Diaz,39,14828309-8,Modelo,Jefe de Proyectos,4,1717732,Diciembre,2023,Masculino
+Jorge,Diaz,39,14828309-8,Modelo,Jefe de Proyectos,4,1803618,Enero,2022,Masculino
+Jorge,Diaz,39,14828309-8,Modelo,Jefe de Proyectos,4,1875762,Enero,2023,Masculino
+Jorge,Diaz,39,14828309-8,Modelo,Jefe de Proyectos,4,1969550,Febrero,2022,Masculino
+Jorge,Diaz,39,14828309-8,Modelo,Jefe de Proyectos,4,2048332,Febrero,2023,Masculino
+Jorge,Diaz,39,14828309-8,Modelo,Jefe de Proyectos,4,2150748,Julio,2022,Masculino
+Jorge,Diaz,39,14828309-8,Modelo,Jefe de Proyectos,4,2236777,Julio,2023,Masculino
+Jorge,Diaz,39,14828309-8,Modelo,Jefe de Proyectos,4,2348615,Junio,2023,Masculino
+Jorge,Diaz,39,14828309-8,Modelo,Jefe de Proyectos,4,2466045,Junio,2022,Masculino
+Jorge,Diaz,39,14828309-8,Modelo,Jefe de Proyectos,4,2564686,Marzo,2022,Masculino
+Jorge,Diaz,39,14828309-8,Modelo,Jefe de Proyectos,4,2667273,Marzo,2023,Masculino
+Jorge,Diaz,39,14828309-8,Modelo,Jefe de Proyectos,4,2800636,Mayo,2022,Masculino
+Jorge,Diaz,39,14828309-8,Modelo,Jefe de Proyectos,4,2912661,Mayo,2023,Masculino
+Jorge,Diaz,39,14828309-8,Modelo,Jefe de Proyectos,4,3058294,Noviembre,2022,Masculino
+Jorge,Diaz,39,14828309-8,Modelo,Jefe de Proyectos,4,3180625,Noviembre,2023,Masculino
+Jorge,Diaz,39,14828309-8,Modelo,Jefe de Proyectos,4,3339656,Octubre,2022,Masculino
+Jorge,Diaz,39,14828309-8,Modelo,Jefe de Proyectos,4,3473242,Octubre,2023,Masculino
+Jorge,Diaz,39,14828309-8,Modelo,Jefe de Proyectos,4,3646904,Septiembre,2022,Masculino
+Jorge,Diaz,39,14828309-8,Modelo,Jefe de Proyectos,4,3792780,Septiembre,2023,Masculino
+Pedro,Sanchez,53,21809322-1,PlanVital,Técnico,9,1660397,Abril,2023,Masculino
+Pedro,Sanchez,53,21809322-1,PlanVital,Técnico,9,1743416,Abril,2022,Masculino
+Pedro,Sanchez,53,21809322-1,PlanVital,Técnico,9,1813152,Agosto,2023,Masculino
+Pedro,Sanchez,53,21809322-1,PlanVital,Técnico,9,1903809,Agosto,2022,Masculino
+Pedro,Sanchez,53,21809322-1,PlanVital,Técnico,9,1979961,Diciembre,2021,Masculino
+Pedro,Sanchez,53,21809322-1,PlanVital,Técnico,9,2039359,Diciembre,2022,Masculino
+Pedro,Sanchez,53,21809322-1,PlanVital,Técnico,9,2120933,Diciembre,2023,Masculino
+Pedro,Sanchez,53,21809322-1,PlanVital,Técnico,9,2226979,Enero,2022,Masculino
+Pedro,Sanchez,53,21809322-1,PlanVital,Técnico,9,2316058,Enero,2023,Masculino
+Pedro,Sanchez,53,21809322-1,PlanVital,Técnico,9,2431860,Febrero,2022,Masculino
+Pedro,Sanchez,53,21809322-1,PlanVital,Técnico,9,2529134,Febrero,2023,Masculino
+Pedro,Sanchez,53,21809322-1,PlanVital,Técnico,9,2655590,Julio,2022,Masculino
+Pedro,Sanchez,53,21809322-1,PlanVital,Técnico,9,2761813,Julio,2023,Masculino
+Pedro,Sanchez,53,21809322-1,PlanVital,Técnico,9,2899903,Junio,2023,Masculino
+Pedro,Sanchez,53,21809322-1,PlanVital,Técnico,9,3044898,Junio,2022,Masculino
+Pedro,Sanchez,53,21809322-1,PlanVital,Técnico,9,3166693,Marzo,2022,Masculino
+Pedro,Sanchez,53,21809322-1,PlanVital,Técnico,9,3293360,Marzo,2023,Masculino
+Pedro,Sanchez,53,21809322-1,PlanVital,Técnico,9,3458028,Mayo,2022,Masculino
+Pedro,Sanchez,53,21809322-1,PlanVital,Técnico,9,3596349,Mayo,2023,Masculino
+Pedro,Sanchez,53,21809322-1,PlanVital,Técnico,9,3776166,Noviembre,2022,Masculino
+Pedro,Sanchez,53,21809322-1,PlanVital,Técnico,9,3927212,Noviembre,2023,Masculino
+Pedro,Sanchez,53,21809322-1,PlanVital,Técnico,9,4123572,Octubre,2022,Masculino
+Pedro,Sanchez,53,21809322-1,PlanVital,Técnico,9,4288514,Octubre,2023,Masculino
+Pedro,Sanchez,53,21809322-1,PlanVital,Técnico,9,4502939,Septiembre,2022,Masculino
+Pedro,Sanchez,53,21809322-1,PlanVital,Técnico,9,4683056,Septiembre,2023,Masculino
+Ana,Martinez,40,17518891-8,PlanVital,Ingeniero,18,1342968,Abril,2023,Femenino
+Ana,Martinez,40,17518891-8,PlanVital,Ingeniero,18,1410116,Abril,2022,Femenino
+Ana,Martinez,40,17518891-8,PlanVital,Ingeniero,18,1466520,Agosto,2023,Femenino
+Ana,Martinez,40,17518891-8,PlanVital,Ingeniero,18,1539846,Agosto,2022,Femenino
+Ana,Martinez,40,17518891-8,PlanVital,Ingeniero,18,1601439,Diciembre,2021,Femenino
+Ana,Martinez,40,17518891-8,PlanVital,Ingeniero,18,1649482,Diciembre,2022,Femenino
+Ana,Martinez,40,17518891-8,PlanVital,Ingeniero,18,1715461,Diciembre,2023,Femenino
+Ana,Martinez,40,17518891-8,PlanVital,Ingeniero,18,1801234,Enero,2022,Femenino
+Ana,Martinez,40,17518891-8,PlanVital,Ingeniero,18,1873283,Enero,2023,Femenino
+Ana,Martinez,40,17518891-8,PlanVital,Ingeniero,18,1966947,Febrero,2022,Femenino
+Ana,Martinez,40,17518891-8,PlanVital,Ingeniero,18,2045624,Febrero,2023,Femenino
+Ana,Martinez,40,17518891-8,PlanVital,Ingeniero,18,2147905,Julio,2022,Femenino
+Ana,Martinez,40,17518891-8,PlanVital,Ingeniero,18,2233821,Julio,2023,Femenino
+Ana,Martinez,40,17518891-8,PlanVital,Ingeniero,18,2345512,Junio,2023,Femenino
+Ana,Martinez,40,17518891-8,PlanVital,Ingeniero,18,2462787,Junio,2022,Femenino
+Ana,Martinez,40,17518891-8,PlanVital,Ingeniero,18,2561298,Marzo,2022,Femenino
+Ana,Martinez,40,17518891-8,PlanVital,Ingeniero,18,2663749,Marzo,2023,Femenino
+Ana,Martinez,40,17518891-8,PlanVital,Ingeniero,18,2796936,Mayo,2022,Femenino
+Ana,Martinez,40,17518891-8,PlanVital,Ingeniero,18,2908813,Mayo,2023,Femenino
+Ana,Martinez,40,17518891-8,PlanVital,Ingeniero,18,3054253,Noviembre,2022,Femenino
+Ana,Martinez,40,17518891-8,PlanVital,Ingeniero,18,3176423,Noviembre,2023,Femenino
+Ana,Martinez,40,17518891-8,PlanVital,Ingeniero,18,3335244,Octubre,2022,Femenino
+Ana,Martinez,40,17518891-8,PlanVital,Ingeniero,18,3468653,Octubre,2023,Femenino
+Ana,Martinez,40,17518891-8,PlanVital,Ingeniero,18,3642085,Septiembre,2022,Femenino
+Ana,Martinez,40,17518891-8,PlanVital,Ingeniero,18,3787768,Septiembre,2023,Femenino
+Ana,Perez,52,3433299-6,PlanVital,Ingeniero,17,1153962,Abril,2023,Femenino
+Ana,Perez,52,3433299-6,PlanVital,Ingeniero,17,1211660,Abril,2022,Femenino
+Ana,Perez,52,3433299-6,PlanVital,Ingeniero,17,1260126,Agosto,2023,Femenino
+Ana,Perez,52,3433299-6,PlanVital,Ingeniero,17,1323132,Agosto,2022,Femenino
+Ana,Perez,52,3433299-6,PlanVital,Ingeniero,17,1376057,Diciembre,2021,Femenino
+Ana,Perez,52,3433299-6,PlanVital,Ingeniero,17,1417338,Diciembre,2022,Femenino
+Ana,Perez,52,3433299-6,PlanVital,Ingeniero,17,1474031,Diciembre,2023,Femenino
+Ana,Perez,52,3433299-6,PlanVital,Ingeniero,17,1547732,Enero,2022,Femenino
+Ana,Perez,52,3433299-6,PlanVital,Ingeniero,17,1609641,Enero,2023,Femenino
+Ana,Perez,52,3433299-6,PlanVital,Ingeniero,17,1690123,Febrero,2022,Femenino
+Ana,Perez,52,3433299-6,PlanVital,Ingeniero,17,1757727,Febrero,2023,Femenino
+Ana,Perez,52,3433299-6,PlanVital,Ingeniero,17,1845613,Julio,2022,Femenino
+Ana,Perez,52,3433299-6,PlanVital,Ingeniero,17,1919437,Julio,2023,Femenino
+Ana,Perez,52,3433299-6,PlanVital,Ingeniero,17,2015408,Junio,2023,Femenino
+Ana,Perez,52,3433299-6,PlanVital,Ingeniero,17,2116178,Junio,2022,Femenino
+Ana,Perez,52,3433299-6,PlanVital,Ingeniero,17,2200825,Marzo,2022,Femenino
+Ana,Perez,52,3433299-6,PlanVital,Ingeniero,17,2288858,Marzo,2023,Femenino
+Ana,Perez,52,3433299-6,PlanVital,Ingeniero,17,2403300,Mayo,2022,Femenino
+Ana,Perez,52,3433299-6,PlanVital,Ingeniero,17,2499432,Mayo,2023,Femenino
+Ana,Perez,52,3433299-6,PlanVital,Ingeniero,17,2624403,Noviembre,2022,Femenino
+Ana,Perez,52,3433299-6,PlanVital,Ingeniero,17,2729379,Noviembre,2023,Femenino
+Ana,Perez,52,3433299-6,PlanVital,Ingeniero,17,2865847,Octubre,2022,Femenino
+Ana,Perez,52,3433299-6,PlanVital,Ingeniero,17,2980480,Octubre,2023,Femenino
+Ana,Perez,52,3433299-6,PlanVital,Ingeniero,17,3129504,Septiembre,2022,Femenino
+Ana,Perez,52,3433299-6,PlanVital,Ingeniero,17,3254684,Septiembre,2023,Femenino
+Luis,Sanchez,39,15456945-1,Habitat,Desarrollador,8,999661,Abril,2023,Masculino
+Luis,Sanchez,39,15456945-1,Habitat,Desarrollador,8,1049644,Abril,2022,Masculino
+Luis,Sanchez,39,15456945-1,Habitat,Desarrollador,8,1091629,Agosto,2023,Masculino
+Luis,Sanchez,39,15456945-1,Habitat,Desarrollador,8,1146210,Agosto,2022,Masculino
+Luis,Sanchez,39,15456945-1,Habitat,Desarrollador,8,1192058,Diciembre,2021,Masculino
+Luis,Sanchez,39,15456945-1,Habitat,Desarrollador,8,1227819,Diciembre,2022,Masculino
+Luis,Sanchez,39,15456945-1,Habitat,Desarrollador,8,1276931,Diciembre,2023,Masculino
+Luis,Sanchez,39,15456945-1,Habitat,Desarrollador,8,1340777,Enero,2022,Masculino
+Luis,Sanchez,39,15456945-1,Habitat,Desarrollador,8,1394408,Enero,2023,Masculino
+Luis,Sanchez,39,15456945-1,Habitat,Desarrollador,8,1464128,Febrero,2022,Masculino
+Luis,Sanchez,39,15456945-1,Habitat,Desarrollador,8,1522693,Febrero,2023,Masculino
+Luis,Sanchez,39,15456945-1,Habitat,Desarrollador,8,1598827,Julio,2022,Masculino
+Luis,Sanchez,39,15456945-1,Habitat,Desarrollador,8,1662780,Julio,2023,Masculino
+Luis,Sanchez,39,15456945-1,Habitat,Desarrollador,8,1745919,Junio,2023,Masculino
+Luis,Sanchez,39,15456945-1,Habitat,Desarrollador,8,1833214,Junio,2022,Masculino
+Luis,Sanchez,39,15456945-1,Habitat,Desarrollador,8,1906542,Marzo,2022,Masculino
+Luis,Sanchez,39,15456945-1,Habitat,Desarrollador,8,1982803,Marzo,2023,Masculino
+Luis,Sanchez,39,15456945-1,Habitat,Desarrollador,8,2081943,Mayo,2022,Masculino
+Luis,Sanchez,39,15456945-1,Habitat,Desarrollador,8,2165220,Mayo,2023,Masculino
+Luis,Sanchez,39,15456945-1,Habitat,Desarrollador,8,2273481,Noviembre,2022,Masculino
+Luis,Sanchez,39,15456945-1,Habitat,Desarrollador,8,2364420,Noviembre,2023,Masculino
+Luis,Sanchez,39,15456945-1,Habitat,Desarrollador,8,2482641,Octubre,2022,Masculino
+Luis,Sanchez,39,15456945-1,Habitat,Desarrollador,8,2581946,Octubre,2023,Masculino
+Luis,Sanchez,39,15456945-1,Habitat,Desarrollador,8,2711043,Septiembre,2022,Masculino
+Luis,Sanchez,39,15456945-1,Habitat,Desarrollador,8,2819484,Septiembre,2023,Masculino
+Pedro,Gonzalez,33,13192198-1,PlanVital,Contador,7,1102035,Abril,2023,Masculino
+Pedro,Gonzalez,33,13192198-1,PlanVital,Contador,7,1157136,Abril,2022,Masculino
+Pedro,Gonzalez,33,13192198-1,PlanVital,Contador,7,1203421,Agosto,2023,Masculino
+Pedro,Gonzalez,33,13192198-1,PlanVital,Contador,7,1263592,Agosto,2022,Masculino
+Pedro,Gonzalez,33,13192198-1,PlanVital,Contador,7,1314135,Diciembre,2021,Masculino
+Pedro,Gonzalez,33,13192198-1,PlanVital,Contador,7,1353559,Diciembre,2022,Masculino
+Pedro,Gonzalez,33,13192198-1,PlanVital,Contador,7,1407701,Diciembre,2023,Masculino
+Pedro,Gonzalez,33,13192198-1,PlanVital,Contador,7,1478086,Enero,2022,Masculino
+Pedro,Gonzalez,33,13192198-1,PlanVital,Contador,7,1537209,Enero,2023,Masculino
+Pedro,Gonzalez,33,13192198-1,PlanVital,Contador,7,1614069,Febrero,2022,Masculino
+Pedro,Gonzalez,33,13192198-1,PlanVital,Contador,7,1678631,Febrero,2023,Masculino
+Pedro,Gonzalez,33,13192198-1,PlanVital,Contador,7,1762562,Julio,2022,Masculino
+Pedro,Gonzalez,33,13192198-1,PlanVital,Contador,7,1833064,Julio,2023,Masculino
+Pedro,Gonzalez,33,13192198-1,PlanVital,Contador,7,1924717,Junio,2023,Masculino
+Pedro,Gonzalez,33,13192198-1,PlanVital,Contador,7,2020952,Junio,2022,Masculino
+Pedro,Gonzalez,33,13192198-1,PlanVital,Contador,7,2101790,Marzo,2022,Masculino
+Pedro,Gonzalez,33,13192198-1,PlanVital,Contador,7,2185861,Marzo,2023,Masculino
+Pedro,Gonzalez,33,13192198-1,PlanVital,Contador,7,2295154,Mayo,2022,Masculino
+Pedro,Gonzalez,33,13192198-1,PlanVital,Contador,7,2386960,Mayo,2023,Masculino
+Pedro,Gonzalez,33,13192198-1,PlanVital,Contador,7,2506308,Noviembre,2022,Masculino
+Pedro,Gonzalez,33,13192198-1,PlanVital,Contador,7,2606560,Noviembre,2023,Masculino
+Pedro,Gonzalez,33,13192198-1,PlanVital,Contador,7,2736888,Octubre,2022,Masculino
+Pedro,Gonzalez,33,13192198-1,PlanVital,Contador,7,2846363,Octubre,2023,Masculino
+Pedro,Gonzalez,33,13192198-1,PlanVital,Contador,7,2988681,Septiembre,2022,Masculino
+Pedro,Gonzalez,33,13192198-1,PlanVital,Contador,7,3108228,Septiembre,2023,Masculino
+Luis,Martinez,52,9302333-7,Modelo,Técnico,5,1283137,Abril,2023,Masculino
+Luis,Martinez,52,9302333-7,Modelo,Técnico,5,1347293,Abril,2022,Masculino
+Luis,Martinez,52,9302333-7,Modelo,Técnico,5,1401184,Agosto,2023,Masculino
+Luis,Martinez,52,9302333-7,Modelo,Técnico,5,1471243,Agosto,2022,Masculino
+Luis,Martinez,52,9302333-7,Modelo,Técnico,5,1530092,Diciembre,2021,Masculino
+Luis,Martinez,52,9302333-7,Modelo,Técnico,5,1575994,Diciembre,2022,Masculino
+Luis,Martinez,52,9302333-7,Modelo,Técnico,5,1639033,Diciembre,2023,Masculino
+Luis,Martinez,52,9302333-7,Modelo,Técnico,5,1720984,Enero,2022,Masculino
+Luis,Martinez,52,9302333-7,Modelo,Técnico,5,1789823,Enero,2023,Masculino
+Luis,Martinez,52,9302333-7,Modelo,Técnico,5,1879314,Febrero,2022,Masculino
+Luis,Martinez,52,9302333-7,Modelo,Técnico,5,1954486,Febrero,2023,Masculino
+Luis,Martinez,52,9302333-7,Modelo,Técnico,5,2052210,Julio,2022,Masculino
+Luis,Martinez,52,9302333-7,Modelo,Técnico,5,2134298,Julio,2023,Masculino
+Luis,Martinez,52,9302333-7,Modelo,Técnico,5,2241012,Junio,2023,Masculino
+Luis,Martinez,52,9302333-7,Modelo,Técnico,5,2353062,Junio,2022,Masculino
+Luis,Martinez,52,9302333-7,Modelo,Técnico,5,2447184,Marzo,2022,Masculino
+Luis,Martinez,52,9302333-7,Modelo,Técnico,5,2545071,Marzo,2023,Masculino
+Luis,Martinez,52,9302333-7,Modelo,Técnico,5,2672324,Mayo,2022,Masculino
+Luis,Martinez,52,9302333-7,Modelo,Técnico,5,2779216,Mayo,2023,Masculino
+Luis,Martinez,52,9302333-7,Modelo,Técnico,5,2918176,Noviembre,2022,Masculino
+Luis,Martinez,52,9302333-7,Modelo,Técnico,5,3034903,Noviembre,2023,Masculino
+Luis,Martinez,52,9302333-7,Modelo,Técnico,5,3186648,Octubre,2022,Masculino
+Luis,Martinez,52,9302333-7,Modelo,Técnico,5,3314113,Octubre,2023,Masculino
+Luis,Martinez,52,9302333-7,Modelo,Técnico,5,3479818,Septiembre,2022,Masculino
+Luis,Martinez,52,9302333-7,Modelo,Técnico,5,3619010,Septiembre,2023,Masculino
+Jorge,Martinez,60,16948213-K,Capital,Analista,15,1518876,Abril,2023,Masculino
+Jorge,Martinez,60,16948213-K,Capital,Analista,15,1594819,Abril,2022,Masculino
+Jorge,Martinez,60,16948213-K,Capital,Analista,15,1658611,Agosto,2023,Masculino
+Jorge,Martinez,60,16948213-K,Capital,Analista,15,1741541,Agosto,2022,Masculino
+Jorge,Martinez,60,16948213-K,Capital,Analista,15,1811202,Diciembre,2021,Masculino
+Jorge,Martinez,60,16948213-K,Capital,Analista,15,1865538,Diciembre,2022,Masculino
+Jorge,Martinez,60,16948213-K,Capital,Analista,15,1940159,Diciembre,2023,Masculino
+Jorge,Martinez,60,16948213-K,Capital,Analista,15,2037166,Enero,2022,Masculino
+Jorge,Martinez,60,16948213-K,Capital,Analista,15,2118652,Enero,2023,Masculino
+Jorge,Martinez,60,16948213-K,Capital,Analista,15,2224584,Febrero,2022,Masculino
+Jorge,Martinez,60,16948213-K,Capital,Analista,15,2313567,Febrero,2023,Masculino
+Jorge,Martinez,60,16948213-K,Capital,Analista,15,2429245,Julio,2022,Masculino
+Jorge,Martinez,60,16948213-K,Capital,Analista,15,2526414,Julio,2023,Masculino
+Jorge,Martinez,60,16948213-K,Capital,Analista,15,2652734,Junio,2023,Masculino
+Jorge,Martinez,60,16948213-K,Capital,Analista,15,2785370,Junio,2022,Masculino
+Jorge,Martinez,60,16948213-K,Capital,Analista,15,2896784,Marzo,2022,Masculino
+Jorge,Martinez,60,16948213-K,Capital,Analista,15,3012655,Marzo,2023,Masculino
+Jorge,Martinez,60,16948213-K,Capital,Analista,15,3163287,Mayo,2022,Masculino
+Jorge,Martinez,60,16948213-K,Capital,Analista,15,3289818,Mayo,2023,Masculino
+Jorge,Martinez,60,16948213-K,Capital,Analista,15,3454308,Noviembre,2022,Masculino
+Jorge,Martinez,60,16948213-K,Capital,Analista,15,3592480,Noviembre,2023,Masculino
+Jorge,Martinez,60,16948213-K,Capital,Analista,15,3772104,Octubre,2022,Masculino
+Jorge,Martinez,60,16948213-K,Capital,Analista,15,3922988,Octubre,2023,Masculino
+Jorge,Martinez,60,16948213-K,Capital,Analista,15,4119137,Septiembre,2022,Masculino
+Jorge,Martinez,60,16948213-K,Capital,Analista,15,4283902,Septiembre,2023,Masculino
+Pedro,Ramirez,54,5877082-3,Modelo,Desarrollador,13,1482624,Abril,2023,Masculino
+Pedro,Ramirez,54,5877082-3,Modelo,Desarrollador,13,1556755,Abril,2022,Masculino
+Pedro,Ramirez,54,5877082-3,Modelo,Desarrollador,13,1619025,Agosto,2023,Masculino
+Pedro,Ramirez,54,5877082-3,Modelo,Desarrollador,13,1699976,Agosto,2022,Masculino
+Pedro,Ramirez,54,5877082-3,Modelo,Desarrollador,13,1767975,Diciembre,2021,Masculino
+Pedro,Ramirez,54,5877082-3,Modelo,Desarrollador,13,1821014,Diciembre,2022,Masculino
+Pedro,Ramirez,54,5877082-3,Modelo,Desarrollador,13,1893854,Diciembre,2023,Masculino
+Pedro,Ramirez,54,5877082-3,Modelo,Desarrollador,13,1988546,Enero,2022,Masculino
+Pedro,Ramirez,54,5877082-3,Modelo,Desarrollador,13,2068087,Enero,2023,Masculino
+Pedro,Ramirez,54,5877082-3,Modelo,Desarrollador,13,2171491,Febrero,2022,Masculino
+Pedro,Ramirez,54,5877082-3,Modelo,Desarrollador,13,2258350,Febrero,2023,Masculino
+Pedro,Ramirez,54,5877082-3,Modelo,Desarrollador,13,2371267,Julio,2022,Masculino
+Pedro,Ramirez,54,5877082-3,Modelo,Desarrollador,13,2466117,Julio,2023,Masculino
+Pedro,Ramirez,54,5877082-3,Modelo,Desarrollador,13,2589422,Junio,2023,Masculino
+Pedro,Ramirez,54,5877082-3,Modelo,Desarrollador,13,2718893,Junio,2022,Masculino
+Pedro,Ramirez,54,5877082-3,Modelo,Desarrollador,13,2827648,Marzo,2022,Masculino
+Pedro,Ramirez,54,5877082-3,Modelo,Desarrollador,13,2940753,Marzo,2023,Masculino
+Pedro,Ramirez,54,5877082-3,Modelo,Desarrollador,13,3087790,Mayo,2022,Masculino
+Pedro,Ramirez,54,5877082-3,Modelo,Desarrollador,13,3211301,Mayo,2023,Masculino
+Pedro,Ramirez,54,5877082-3,Modelo,Desarrollador,13,3371866,Noviembre,2022,Masculino
+Pedro,Ramirez,54,5877082-3,Modelo,Desarrollador,13,3506740,Noviembre,2023,Masculino
+Pedro,Ramirez,54,5877082-3,Modelo,Desarrollador,13,3682077,Octubre,2022,Masculino
+Pedro,Ramirez,54,5877082-3,Modelo,Desarrollador,13,3829360,Octubre,2023,Masculino
+Pedro,Ramirez,54,5877082-3,Modelo,Desarrollador,13,4020828,Septiembre,2022,Masculino
+Pedro,Ramirez,54,5877082-3,Modelo,Desarrollador,13,4181661,Septiembre,2023,Masculino
+Lucia,Ramirez,39,16806890-2,Modelo,Jefe de Proyectos,15,1734279,Abril,2023,Femenino
+Lucia,Ramirez,39,16806890-2,Modelo,Jefe de Proyectos,15,1820992,Abril,2022,Femenino
+Lucia,Ramirez,39,16806890-2,Modelo,Jefe de Proyectos,15,1893831,Agosto,2023,Femenino
+Lucia,Ramirez,39,16806890-2,Modelo,Jefe de Proyectos,15,1988522,Agosto,2022,Femenino
+Lucia,Ramirez,39,16806890-2,Modelo,Jefe de Proyectos,15,2068062,Diciembre,2021,Femenino
+Lucia,Ramirez,39,16806890-2,Modelo,Jefe de Proyectos,15,2130103,Diciembre,2022,Femenino
+Lucia,Ramirez,39,16806890-2,Modelo,Jefe de Proyectos,15,2215307,Diciembre,2023,Femenino
+Lucia,Ramirez,39,16806890-2,Modelo,Jefe de Proyectos,15,2326072,Enero,2022,Femenino
+Lucia,Ramirez,39,16806890-2,Modelo,Jefe de Proyectos,15,2419114,Enero,2023,Femenino
+Lucia,Ramirez,39,16806890-2,Modelo,Jefe de Proyectos,15,2540069,Febrero,2022,Femenino
+Lucia,Ramirez,39,16806890-2,Modelo,Jefe de Proyectos,15,2641671,Febrero,2023,Femenino
+Lucia,Ramirez,39,16806890-2,Modelo,Jefe de Proyectos,15,2773754,Julio,2022,Femenino
+Lucia,Ramirez,39,16806890-2,Modelo,Jefe de Proyectos,15,2884704,Julio,2023,Femenino
+Lucia,Ramirez,39,16806890-2,Modelo,Jefe de Proyectos,15,3028939,Junio,2023,Femenino
+Lucia,Ramirez,39,16806890-2,Modelo,Jefe de Proyectos,15,3180385,Junio,2022,Femenino
+Lucia,Ramirez,39,16806890-2,Modelo,Jefe de Proyectos,15,3307600,Marzo,2022,Femenino
+Lucia,Ramirez,39,16806890-2,Modelo,Jefe de Proyectos,15,3439904,Marzo,2023,Femenino
+Lucia,Ramirez,39,16806890-2,Modelo,Jefe de Proyectos,15,3611899,Mayo,2022,Femenino
+Lucia,Ramirez,39,16806890-2,Modelo,Jefe de Proyectos,15,3756374,Mayo,2023,Femenino
+Lucia,Ramirez,39,16806890-2,Modelo,Jefe de Proyectos,15,3944192,Noviembre,2022,Femenino
+Lucia,Ramirez,39,16806890-2,Modelo,Jefe de Proyectos,15,4101959,Noviembre,2023,Femenino
+Lucia,Ramirez,39,16806890-2,Modelo,Jefe de Proyectos,15,4307056,Octubre,2022,Femenino
+Lucia,Ramirez,39,16806890-2,Modelo,Jefe de Proyectos,15,4479338,Octubre,2023,Femenino
+Lucia,Ramirez,39,16806890-2,Modelo,Jefe de Proyectos,15,4703304,Septiembre,2022,Femenino
+Lucia,Ramirez,39,16806890-2,Modelo,Jefe de Proyectos,15,4891436,Septiembre,2023,Femenino
+Carlos,Rodriguez,47,13575007-K,Habitat,Gerente,1,1851162,Abril,2023,Masculino
+Carlos,Rodriguez,47,13575007-K,Habitat,Gerente,1,1943720,Agosto,2023,Masculino
+Carlos,Rodriguez,47,13575007-K,Habitat,Gerente,1,2040906,Diciembre,2023,Masculino
+Carlos,Rodriguez,47,13575007-K,Habitat,Gerente,1,2142951,Enero,2023,Masculino
+Carlos,Rodriguez,47,13575007-K,Habitat,Gerente,1,2250098,Febrero,2023,Masculino
+Carlos,Rodriguez,47,13575007-K,Habitat,Gerente,1,2362602,Julio,2023,Masculino
+Carlos,Rodriguez,47,13575007-K,Habitat,Gerente,1,2480732,Junio,2023,Masculino
+Carlos,Rodriguez,47,13575007-K,Habitat,Gerente,1,2604768,Marzo,2023,Masculino
+Carlos,Rodriguez,47,13575007-K,Habitat,Gerente,1,2735006,Mayo,2023,Masculino
+Carlos,Rodriguez,47,13575007-K,Habitat,Gerente,1,2871756,Noviembre,2023,Masculino
+Carlos,Rodriguez,47,13575007-K,Habitat,Gerente,1,3015343,Octubre,2023,Masculino
+Carlos,Rodriguez,47,13575007-K,Habitat,Gerente,1,3166110,Septiembre,2023,Masculino
+Maria,Lopez,32,14943692-2,Provida,Analista,18,1000695,Abril,2023,Femenino
+Maria,Lopez,32,14943692-2,Provida,Analista,18,1050729,Abril,2022,Femenino
+Maria,Lopez,32,14943692-2,Provida,Analista,18,1092758,Agosto,2023,Femenino
+Maria,Lopez,32,14943692-2,Provida,Analista,18,1147395,Agosto,2022,Femenino
+Maria,Lopez,32,14943692-2,Provida,Analista,18,1193290,Diciembre,2021,Femenino
+Maria,Lopez,32,14943692-2,Provida,Analista,18,1229088,Diciembre,2022,Femenino
+Maria,Lopez,32,14943692-2,Provida,Analista,18,1278251,Diciembre,2023,Femenino
+Maria,Lopez,32,14943692-2,Provida,Analista,18,1342163,Enero,2022,Femenino
+Maria,Lopez,32,14943692-2,Provida,Analista,18,1395849,Enero,2023,Femenino
+Maria,Lopez,32,14943692-2,Provida,Analista,18,1465641,Febrero,2022,Femenino
+Maria,Lopez,32,14943692-2,Provida,Analista,18,1524266,Febrero,2023,Femenino
+Maria,Lopez,32,14943692-2,Provida,Analista,18,1600479,Julio,2022,Femenino
+Maria,Lopez,32,14943692-2,Provida,Analista,18,1664498,Julio,2023,Femenino
+Maria,Lopez,32,14943692-2,Provida,Analista,18,1747722,Junio,2023,Femenino
+Maria,Lopez,32,14943692-2,Provida,Analista,18,1835108,Junio,2022,Femenino
+Maria,Lopez,32,14943692-2,Provida,Analista,18,1908512,Marzo,2022,Femenino
+Maria,Lopez,32,14943692-2,Provida,Analista,18,1984852,Marzo,2023,Femenino
+Maria,Lopez,32,14943692-2,Provida,Analista,18,2084094,Mayo,2022,Femenino
+Maria,Lopez,32,14943692-2,Provida,Analista,18,2167457,Mayo,2023,Femenino
+Maria,Lopez,32,14943692-2,Provida,Analista,18,2275829,Noviembre,2022,Femenino
+Maria,Lopez,32,14943692-2,Provida,Analista,18,2366862,Noviembre,2023,Femenino
+Maria,Lopez,32,14943692-2,Provida,Analista,18,2485205,Octubre,2022,Femenino
+Maria,Lopez,32,14943692-2,Provida,Analista,18,2584613,Octubre,2023,Femenino
+Maria,Lopez,32,14943692-2,Provida,Analista,18,2713843,Septiembre,2022,Femenino
+Maria,Lopez,32,14943692-2,Provida,Analista,18,2822396,Septiembre,2023,Femenino
+Clara,Gonzalez,39,19395137-8,Provida,Técnico,17,1466562,Abril,2023,Femenino
+Clara,Gonzalez,39,19395137-8,Provida,Técnico,17,1539890,Abril,2022,Femenino
+Clara,Gonzalez,39,19395137-8,Provida,Técnico,17,1601485,Agosto,2023,Femenino
+Clara,Gonzalez,39,19395137-8,Provida,Técnico,17,1681559,Agosto,2022,Femenino
+Clara,Gonzalez,39,19395137-8,Provida,Técnico,17,1748821,Diciembre,2021,Femenino
+Clara,Gonzalez,39,19395137-8,Provida,Técnico,17,1801285,Diciembre,2022,Femenino
+Clara,Gonzalez,39,19395137-8,Provida,Técnico,17,1873336,Diciembre,2023,Femenino
+Clara,Gonzalez,39,19395137-8,Provida,Técnico,17,1967002,Enero,2022,Femenino
+Clara,Gonzalez,39,19395137-8,Provida,Técnico,17,2045682,Enero,2023,Femenino
+Clara,Gonzalez,39,19395137-8,Provida,Técnico,17,2147966,Febrero,2022,Femenino
+Clara,Gonzalez,39,19395137-8,Provida,Técnico,17,2233884,Febrero,2023,Femenino
+Clara,Gonzalez,39,19395137-8,Provida,Técnico,17,2345578,Julio,2022,Femenino
+Clara,Gonzalez,39,19395137-8,Provida,Técnico,17,2439401,Julio,2023,Femenino
+Clara,Gonzalez,39,19395137-8,Provida,Técnico,17,2561371,Junio,2023,Femenino
+Clara,Gonzalez,39,19395137-8,Provida,Técnico,17,2689439,Junio,2022,Femenino
+Clara,Gonzalez,39,19395137-8,Provida,Técnico,17,2797016,Marzo,2022,Femenino
+Clara,Gonzalez,39,19395137-8,Provida,Técnico,17,2908896,Marzo,2023,Femenino
+Clara,Gonzalez,39,19395137-8,Provida,Técnico,17,3054340,Mayo,2022,Femenino
+Clara,Gonzalez,39,19395137-8,Provida,Técnico,17,3176513,Mayo,2023,Femenino
+Clara,Gonzalez,39,19395137-8,Provida,Técnico,17,3335338,Noviembre,2022,Femenino
+Clara,Gonzalez,39,19395137-8,Provida,Técnico,17,3468751,Noviembre,2023,Femenino
+Clara,Gonzalez,39,19395137-8,Provida,Técnico,17,3642188,Octubre,2022,Femenino
+Clara,Gonzalez,39,19395137-8,Provida,Técnico,17,3787875,Octubre,2023,Femenino
+Clara,Gonzalez,39,19395137-8,Provida,Técnico,17,3977268,Septiembre,2022,Femenino
+Clara,Gonzalez,39,19395137-8,Provida,Técnico,17,4136358,Septiembre,2023,Femenino
+Clara,Martinez,29,4432890-4,Cuprum,Ingeniero,16,1961229,Abril,2023,Femenino
+Clara,Martinez,29,4432890-4,Cuprum,Ingeniero,16,2059290,Abril,2022,Femenino
+Clara,Martinez,29,4432890-4,Cuprum,Ingeniero,16,2141661,Agosto,2023,Femenino
+Clara,Martinez,29,4432890-4,Cuprum,Ingeniero,16,2248744,Agosto,2022,Femenino
+Clara,Martinez,29,4432890-4,Cuprum,Ingeniero,16,2338693,Diciembre,2021,Femenino
+Clara,Martinez,29,4432890-4,Cuprum,Ingeniero,16,2408853,Diciembre,2022,Femenino
+Clara,Martinez,29,4432890-4,Cuprum,Ingeniero,16,2505207,Diciembre,2023,Femenino
+Clara,Martinez,29,4432890-4,Cuprum,Ingeniero,16,2630467,Enero,2022,Femenino
+Clara,Martinez,29,4432890-4,Cuprum,Ingeniero,16,2735685,Enero,2023,Femenino
+Clara,Martinez,29,4432890-4,Cuprum,Ingeniero,16,2872469,Febrero,2022,Femenino
+Clara,Martinez,29,4432890-4,Cuprum,Ingeniero,16,2987367,Febrero,2023,Femenino
+Clara,Martinez,29,4432890-4,Cuprum,Ingeniero,16,3136735,Julio,2022,Femenino
+Clara,Martinez,29,4432890-4,Cuprum,Ingeniero,16,3262204,Julio,2023,Femenino
+Clara,Martinez,29,4432890-4,Cuprum,Ingeniero,16,3425314,Junio,2023,Femenino
+Clara,Martinez,29,4432890-4,Cuprum,Ingeniero,16,3596579,Junio,2022,Femenino
+Clara,Martinez,29,4432890-4,Cuprum,Ingeniero,16,3740442,Marzo,2022,Femenino
+Clara,Martinez,29,4432890-4,Cuprum,Ingeniero,16,3890059,Marzo,2023,Femenino
+Clara,Martinez,29,4432890-4,Cuprum,Ingeniero,16,4084561,Mayo,2022,Femenino
+Clara,Martinez,29,4432890-4,Cuprum,Ingeniero,16,4247943,Mayo,2023,Femenino
+Clara,Martinez,29,4432890-4,Cuprum,Ingeniero,16,4460340,Noviembre,2022,Femenino
+Clara,Martinez,29,4432890-4,Cuprum,Ingeniero,16,4638753,Noviembre,2023,Femenino
+Clara,Martinez,29,4432890-4,Cuprum,Ingeniero,16,4870690,Octubre,2022,Femenino
+Clara,Martinez,29,4432890-4,Cuprum,Ingeniero,16,5065517,Octubre,2023,Femenino
+Clara,Martinez,29,4432890-4,Cuprum,Ingeniero,16,5318792,Septiembre,2022,Femenino
+Clara,Martinez,29,4432890-4,Cuprum,Ingeniero,16,5531543,Septiembre,2023,Femenino
+Lucia,Gonzalez,43,14032436-9,PlanVital,Analista,9,1922617,Abril,2023,Femenino
+Lucia,Gonzalez,43,14032436-9,PlanVital,Analista,9,2018747,Abril,2022,Femenino
+Lucia,Gonzalez,43,14032436-9,PlanVital,Analista,9,2099496,Agosto,2023,Femenino
+Lucia,Gonzalez,43,14032436-9,PlanVital,Analista,9,2204470,Agosto,2022,Femenino
+Lucia,Gonzalez,43,14032436-9,PlanVital,Analista,9,2292648,Diciembre,2021,Femenino
+Lucia,Gonzalez,43,14032436-9,PlanVital,Analista,9,2361427,Diciembre,2022,Femenino
+Lucia,Gonzalez,43,14032436-9,PlanVital,Analista,9,2455884,Diciembre,2023,Femenino
+Lucia,Gonzalez,43,14032436-9,PlanVital,Analista,9,2578678,Enero,2022,Femenino
+Lucia,Gonzalez,43,14032436-9,PlanVital,Analista,9,2681825,Enero,2023,Femenino
+Lucia,Gonzalez,43,14032436-9,PlanVital,Analista,9,2815916,Febrero,2022,Femenino
+Lucia,Gonzalez,43,14032436-9,PlanVital,Analista,9,2928552,Febrero,2023,Femenino
+Lucia,Gonzalez,43,14032436-9,PlanVital,Analista,9,3074979,Julio,2022,Femenino
+Lucia,Gonzalez,43,14032436-9,PlanVital,Analista,9,3197978,Julio,2023,Femenino
+Lucia,Gonzalez,43,14032436-9,PlanVital,Analista,9,3357876,Junio,2023,Femenino
+Lucia,Gonzalez,43,14032436-9,PlanVital,Analista,9,3525769,Junio,2022,Femenino
+Lucia,Gonzalez,43,14032436-9,PlanVital,Analista,9,3666799,Marzo,2022,Femenino
+Lucia,Gonzalez,43,14032436-9,PlanVital,Analista,9,3813470,Marzo,2023,Femenino
+Lucia,Gonzalez,43,14032436-9,PlanVital,Analista,9,4004143,Mayo,2022,Femenino
+Lucia,Gonzalez,43,14032436-9,PlanVital,Analista,9,4164308,Mayo,2023,Femenino
+Lucia,Gonzalez,43,14032436-9,PlanVital,Analista,9,4372523,Noviembre,2022,Femenino
+Lucia,Gonzalez,43,14032436-9,PlanVital,Analista,9,4547423,Noviembre,2023,Femenino
+Lucia,Gonzalez,43,14032436-9,PlanVital,Analista,9,4774794,Octubre,2022,Femenino
+Lucia,Gonzalez,43,14032436-9,PlanVital,Analista,9,4965785,Octubre,2023,Femenino
+Lucia,Gonzalez,43,14032436-9,PlanVital,Analista,9,5214074,Septiembre,2022,Femenino
+Lucia,Gonzalez,43,14032436-9,PlanVital,Analista,9,5422636,Septiembre,2023,Femenino
+Ana,Ramirez,27,6231625-3,Cuprum,Técnico,20,1071732,Abril,2023,Femenino
+Ana,Ramirez,27,6231625-3,Cuprum,Técnico,20,1125318,Abril,2022,Femenino
+Ana,Ramirez,27,6231625-3,Cuprum,Técnico,20,1170330,Agosto,2023,Femenino
+Ana,Ramirez,27,6231625-3,Cuprum,Técnico,20,1228846,Agosto,2022,Femenino
+Ana,Ramirez,27,6231625-3,Cuprum,Técnico,20,1277999,Diciembre,2021,Femenino
+Ana,Ramirez,27,6231625-3,Cuprum,Técnico,20,1316338,Diciembre,2022,Femenino
+Ana,Ramirez,27,6231625-3,Cuprum,Técnico,20,1368991,Diciembre,2023,Femenino
+Ana,Ramirez,27,6231625-3,Cuprum,Técnico,20,1437440,Enero,2022,Femenino
+Ana,Ramirez,27,6231625-3,Cuprum,Técnico,20,1494937,Enero,2023,Femenino
+Ana,Ramirez,27,6231625-3,Cuprum,Técnico,20,1569683,Febrero,2022,Femenino
+Ana,Ramirez,27,6231625-3,Cuprum,Técnico,20,1632470,Febrero,2023,Femenino
+Ana,Ramirez,27,6231625-3,Cuprum,Técnico,20,1714093,Julio,2022,Femenino
+Ana,Ramirez,27,6231625-3,Cuprum,Técnico,20,1782656,Julio,2023,Femenino
+Ana,Ramirez,27,6231625-3,Cuprum,Técnico,20,1871788,Junio,2023,Femenino
+Ana,Ramirez,27,6231625-3,Cuprum,Técnico,20,1965377,Junio,2022,Femenino
+Ana,Ramirez,27,6231625-3,Cuprum,Técnico,20,2043992,Marzo,2022,Femenino
+Ana,Ramirez,27,6231625-3,Cuprum,Técnico,20,2125751,Marzo,2023,Femenino
+Ana,Ramirez,27,6231625-3,Cuprum,Técnico,20,2232038,Mayo,2022,Femenino
+Ana,Ramirez,27,6231625-3,Cuprum,Técnico,20,2321319,Mayo,2023,Femenino
+Ana,Ramirez,27,6231625-3,Cuprum,Técnico,20,2437384,Noviembre,2022,Femenino
+Ana,Ramirez,27,6231625-3,Cuprum,Técnico,20,2534879,Noviembre,2023,Femenino
+Ana,Ramirez,27,6231625-3,Cuprum,Técnico,20,2661622,Octubre,2022,Femenino
+Ana,Ramirez,27,6231625-3,Cuprum,Técnico,20,2768086,Octubre,2023,Femenino
+Ana,Ramirez,27,6231625-3,Cuprum,Técnico,20,2906490,Septiembre,2022,Femenino
+Ana,Ramirez,27,6231625-3,Cuprum,Técnico,20,3022749,Septiembre,2023,Femenino
+Lucia,Martinez,60,5531682-3,PlanVital,Gerente,19,855073,Abril,2023,Femenino
+Lucia,Martinez,60,5531682-3,PlanVital,Gerente,19,897826,Abril,2022,Femenino
+Lucia,Martinez,60,5531682-3,PlanVital,Gerente,19,933739,Agosto,2023,Femenino
+Lucia,Martinez,60,5531682-3,PlanVital,Gerente,19,980425,Agosto,2022,Femenino
+Lucia,Martinez,60,5531682-3,PlanVital,Gerente,19,1019642,Diciembre,2021,Femenino
+Lucia,Martinez,60,5531682-3,PlanVital,Gerente,19,1050231,Diciembre,2022,Femenino
+Lucia,Martinez,60,5531682-3,PlanVital,Gerente,19,1092240,Diciembre,2023,Femenino
+Lucia,Martinez,60,5531682-3,PlanVital,Gerente,19,1146852,Enero,2022,Femenino
+Lucia,Martinez,60,5531682-3,PlanVital,Gerente,19,1192726,Enero,2023,Femenino
+Lucia,Martinez,60,5531682-3,PlanVital,Gerente,19,1252362,Febrero,2022,Femenino
+Lucia,Martinez,60,5531682-3,PlanVital,Gerente,19,1302456,Febrero,2023,Femenino
+Lucia,Martinez,60,5531682-3,PlanVital,Gerente,19,1367578,Julio,2022,Femenino
+Lucia,Martinez,60,5531682-3,PlanVital,Gerente,19,1422281,Julio,2023,Femenino
+Lucia,Martinez,60,5531682-3,PlanVital,Gerente,19,1493395,Junio,2023,Femenino
+Lucia,Martinez,60,5531682-3,PlanVital,Gerente,19,1568064,Junio,2022,Femenino
+Lucia,Martinez,60,5531682-3,PlanVital,Gerente,19,1630786,Marzo,2022,Femenino
+Lucia,Martinez,60,5531682-3,PlanVital,Gerente,19,1696017,Marzo,2023,Femenino
+Lucia,Martinez,60,5531682-3,PlanVital,Gerente,19,1780817,Mayo,2022,Femenino
+Lucia,Martinez,60,5531682-3,PlanVital,Gerente,19,1852049,Mayo,2023,Femenino
+Lucia,Martinez,60,5531682-3,PlanVital,Gerente,19,1944651,Noviembre,2022,Femenino
+Lucia,Martinez,60,5531682-3,PlanVital,Gerente,19,2022437,Noviembre,2023,Femenino
+Lucia,Martinez,60,5531682-3,PlanVital,Gerente,19,2123558,Octubre,2022,Femenino
+Lucia,Martinez,60,5531682-3,PlanVital,Gerente,19,2208500,Octubre,2023,Femenino
+Lucia,Martinez,60,5531682-3,PlanVital,Gerente,19,2318925,Septiembre,2022,Femenino
+Lucia,Martinez,60,5531682-3,PlanVital,Gerente,19,2411682,Septiembre,2023,Femenino
+Carlos,Gonzalez,39,20216270-6,Cuprum,Analista,8,1517888,Abril,2023,Masculino
+Carlos,Gonzalez,39,20216270-6,Cuprum,Analista,8,1593782,Abril,2022,Masculino
+Carlos,Gonzalez,39,20216270-6,Cuprum,Analista,8,1657533,Agosto,2023,Masculino
+Carlos,Gonzalez,39,20216270-6,Cuprum,Analista,8,1740409,Agosto,2022,Masculino
+Carlos,Gonzalez,39,20216270-6,Cuprum,Analista,8,1810025,Diciembre,2021,Masculino
+Carlos,Gonzalez,39,20216270-6,Cuprum,Analista,8,1864325,Diciembre,2022,Masculino
+Carlos,Gonzalez,39,20216270-6,Cuprum,Analista,8,1938898,Diciembre,2023,Masculino
+Carlos,Gonzalez,39,20216270-6,Cuprum,Analista,8,2035842,Enero,2022,Masculino
+Carlos,Gonzalez,39,20216270-6,Cuprum,Analista,8,2117275,Enero,2023,Masculino
+Carlos,Gonzalez,39,20216270-6,Cuprum,Analista,8,2223138,Febrero,2022,Masculino
+Carlos,Gonzalez,39,20216270-6,Cuprum,Analista,8,2312063,Febrero,2023,Masculino
+Carlos,Gonzalez,39,20216270-6,Cuprum,Analista,8,2427666,Julio,2022,Masculino
+Carlos,Gonzalez,39,20216270-6,Cuprum,Analista,8,2524772,Julio,2023,Masculino
+Carlos,Gonzalez,39,20216270-6,Cuprum,Analista,8,2651010,Junio,2023,Masculino
+Carlos,Gonzalez,39,20216270-6,Cuprum,Analista,8,2783560,Junio,2022,Masculino
+Carlos,Gonzalez,39,20216270-6,Cuprum,Analista,8,2894902,Marzo,2022,Masculino
+Carlos,Gonzalez,39,20216270-6,Cuprum,Analista,8,3010698,Marzo,2023,Masculino
+Carlos,Gonzalez,39,20216270-6,Cuprum,Analista,8,3161232,Mayo,2022,Masculino
+Carlos,Gonzalez,39,20216270-6,Cuprum,Analista,8,3287681,Mayo,2023,Masculino
+Carlos,Gonzalez,39,20216270-6,Cuprum,Analista,8,3452065,Noviembre,2022,Masculino
+Carlos,Gonzalez,39,20216270-6,Cuprum,Analista,8,3590147,Noviembre,2023,Masculino
+Carlos,Gonzalez,39,20216270-6,Cuprum,Analista,8,3769654,Octubre,2022,Masculino
+Carlos,Gonzalez,39,20216270-6,Cuprum,Analista,8,3920440,Octubre,2023,Masculino
+Carlos,Gonzalez,39,20216270-6,Cuprum,Analista,8,4116462,Septiembre,2022,Masculino
+Carlos,Gonzalez,39,20216270-6,Cuprum,Analista,8,4281120,Septiembre,2023,Masculino
+Ana,Rodriguez,36,4036952-4,Modelo,Analista,4,1363439,Abril,2023,Femenino
+Ana,Rodriguez,36,4036952-4,Modelo,Analista,4,1431610,Abril,2022,Femenino
+Ana,Rodriguez,36,4036952-4,Modelo,Analista,4,1488874,Agosto,2023,Femenino
+Ana,Rodriguez,36,4036952-4,Modelo,Analista,4,1563317,Agosto,2022,Femenino
+Ana,Rodriguez,36,4036952-4,Modelo,Analista,4,1625849,Diciembre,2021,Femenino
+Ana,Rodriguez,36,4036952-4,Modelo,Analista,4,1674624,Diciembre,2022,Femenino
+Ana,Rodriguez,36,4036952-4,Modelo,Analista,4,1741608,Diciembre,2023,Femenino
+Ana,Rodriguez,36,4036952-4,Modelo,Analista,4,1828688,Enero,2022,Femenino
+Ana,Rodriguez,36,4036952-4,Modelo,Analista,4,1901835,Enero,2023,Femenino
+Ana,Rodriguez,36,4036952-4,Modelo,Analista,4,1996926,Febrero,2022,Femenino
+Ana,Rodriguez,36,4036952-4,Modelo,Analista,4,2076803,Febrero,2023,Femenino
+Ana,Rodriguez,36,4036952-4,Modelo,Analista,4,2180643,Julio,2022,Femenino
+Ana,Rodriguez,36,4036952-4,Modelo,Analista,4,2267868,Julio,2023,Femenino
+Ana,Rodriguez,36,4036952-4,Modelo,Analista,4,2381261,Junio,2023,Femenino
+Ana,Rodriguez,36,4036952-4,Modelo,Analista,4,2500324,Junio,2022,Femenino
+Ana,Rodriguez,36,4036952-4,Modelo,Analista,4,2600336,Marzo,2022,Femenino
+Ana,Rodriguez,36,4036952-4,Modelo,Analista,4,2704349,Marzo,2023,Femenino
+Ana,Rodriguez,36,4036952-4,Modelo,Analista,4,2839566,Mayo,2022,Femenino
+Ana,Rodriguez,36,4036952-4,Modelo,Analista,4,2953148,Mayo,2023,Femenino
+Ana,Rodriguez,36,4036952-4,Modelo,Analista,4,3100805,Noviembre,2022,Femenino
+Ana,Rodriguez,36,4036952-4,Modelo,Analista,4,3224837,Noviembre,2023,Femenino
+Ana,Rodriguez,36,4036952-4,Modelo,Analista,4,3386078,Octubre,2022,Femenino
+Ana,Rodriguez,36,4036952-4,Modelo,Analista,4,3521521,Octubre,2023,Femenino
+Ana,Rodriguez,36,4036952-4,Modelo,Analista,4,3697597,Septiembre,2022,Femenino
+Ana,Rodriguez,36,4036952-4,Modelo,Analista,4,3845500,Septiembre,2023,Femenino
+Ana,Gonzalez,49,19483511-2,Modelo,Analista,15,885324,Abril,2023,Femenino
+Ana,Gonzalez,49,19483511-2,Modelo,Analista,15,929590,Abril,2022,Femenino
+Ana,Gonzalez,49,19483511-2,Modelo,Analista,15,966773,Agosto,2023,Femenino
+Ana,Gonzalez,49,19483511-2,Modelo,Analista,15,1015111,Agosto,2022,Femenino
+Ana,Gonzalez,49,19483511-2,Modelo,Analista,15,1055715,Diciembre,2021,Femenino
+Ana,Gonzalez,49,19483511-2,Modelo,Analista,15,1087386,Diciembre,2022,Femenino
+Ana,Gonzalez,49,19483511-2,Modelo,Analista,15,1130881,Diciembre,2023,Femenino
+Ana,Gonzalez,49,19483511-2,Modelo,Analista,15,1187425,Enero,2022,Femenino
+Ana,Gonzalez,49,19483511-2,Modelo,Analista,15,1234922,Enero,2023,Femenino
+Ana,Gonzalez,49,19483511-2,Modelo,Analista,15,1296668,Febrero,2022,Femenino
+Ana,Gonzalez,49,19483511-2,Modelo,Analista,15,1348534,Febrero,2023,Femenino
+Ana,Gonzalez,49,19483511-2,Modelo,Analista,15,1415960,Julio,2022,Femenino
+Ana,Gonzalez,49,19483511-2,Modelo,Analista,15,1472598,Julio,2023,Femenino
+Ana,Gonzalez,49,19483511-2,Modelo,Analista,15,1546227,Junio,2023,Femenino
+Ana,Gonzalez,49,19483511-2,Modelo,Analista,15,1623538,Junio,2022,Femenino
+Ana,Gonzalez,49,19483511-2,Modelo,Analista,15,1688479,Marzo,2022,Femenino
+Ana,Gonzalez,49,19483511-2,Modelo,Analista,15,1756018,Marzo,2023,Femenino
+Ana,Gonzalez,49,19483511-2,Modelo,Analista,15,1843818,Mayo,2022,Femenino
+Ana,Gonzalez,49,19483511-2,Modelo,Analista,15,1917570,Mayo,2023,Femenino
+Ana,Gonzalez,49,19483511-2,Modelo,Analista,15,2013448,Noviembre,2022,Femenino
+Ana,Gonzalez,49,19483511-2,Modelo,Analista,15,2093985,Noviembre,2023,Femenino
+Ana,Gonzalez,49,19483511-2,Modelo,Analista,15,2198684,Octubre,2022,Femenino
+Ana,Gonzalez,49,19483511-2,Modelo,Analista,15,2286631,Octubre,2023,Femenino
+Ana,Gonzalez,49,19483511-2,Modelo,Analista,15,2400962,Septiembre,2022,Femenino
+Ana,Gonzalez,49,19483511-2,Modelo,Analista,15,2497000,Septiembre,2023,Femenino
+Clara,Lopez,45,18996506-5,Provida,Ingeniero,18,1593999,Abril,2023,Femenino
+Clara,Lopez,45,18996506-5,Provida,Ingeniero,18,1673698,Abril,2022,Femenino
+Clara,Lopez,45,18996506-5,Provida,Ingeniero,18,1740645,Agosto,2023,Femenino
+Clara,Lopez,45,18996506-5,Provida,Ingeniero,18,1827677,Agosto,2022,Femenino
+Clara,Lopez,45,18996506-5,Provida,Ingeniero,18,1900784,Diciembre,2021,Femenino
+Clara,Lopez,45,18996506-5,Provida,Ingeniero,18,1957807,Diciembre,2022,Femenino
+Clara,Lopez,45,18996506-5,Provida,Ingeniero,18,2036119,Diciembre,2023,Femenino
+Clara,Lopez,45,18996506-5,Provida,Ingeniero,18,2137924,Enero,2022,Femenino
+Clara,Lopez,45,18996506-5,Provida,Ingeniero,18,2223440,Enero,2023,Femenino
+Clara,Lopez,45,18996506-5,Provida,Ingeniero,18,2334612,Febrero,2022,Femenino
+Clara,Lopez,45,18996506-5,Provida,Ingeniero,18,2427996,Febrero,2023,Femenino
+Clara,Lopez,45,18996506-5,Provida,Ingeniero,18,2549395,Julio,2022,Femenino
+Clara,Lopez,45,18996506-5,Provida,Ingeniero,18,2651370,Julio,2023,Femenino
+Clara,Lopez,45,18996506-5,Provida,Ingeniero,18,2783938,Junio,2023,Femenino
+Clara,Lopez,45,18996506-5,Provida,Ingeniero,18,2923134,Junio,2022,Femenino
+Clara,Lopez,45,18996506-5,Provida,Ingeniero,18,3040059,Marzo,2022,Femenino
+Clara,Lopez,45,18996506-5,Provida,Ingeniero,18,3161661,Marzo,2023,Femenino
+Clara,Lopez,45,18996506-5,Provida,Ingeniero,18,3319744,Mayo,2022,Femenino
+Clara,Lopez,45,18996506-5,Provida,Ingeniero,18,3452533,Mayo,2023,Femenino
+Clara,Lopez,45,18996506-5,Provida,Ingeniero,18,3625159,Noviembre,2022,Femenino
+Clara,Lopez,45,18996506-5,Provida,Ingeniero,18,3770165,Noviembre,2023,Femenino
+Clara,Lopez,45,18996506-5,Provida,Ingeniero,18,3958673,Octubre,2022,Femenino
+Clara,Lopez,45,18996506-5,Provida,Ingeniero,18,4117019,Octubre,2023,Femenino
+Clara,Lopez,45,18996506-5,Provida,Ingeniero,18,4322869,Septiembre,2022,Femenino
+Clara,Lopez,45,18996506-5,Provida,Ingeniero,18,4495783,Septiembre,2023,Femenino
+Maria,Perez,52,13697235-8,Habitat,Jefe de Proyectos,1,1069027,Abril,2023,Femenino
+Maria,Perez,52,13697235-8,Habitat,Jefe de Proyectos,1,1122478,Agosto,2023,Femenino
+Maria,Perez,52,13697235-8,Habitat,Jefe de Proyectos,1,1178601,Diciembre,2023,Femenino
+Maria,Perez,52,13697235-8,Habitat,Jefe de Proyectos,1,1237531,Enero,2023,Femenino
+Maria,Perez,52,13697235-8,Habitat,Jefe de Proyectos,1,1299407,Febrero,2023,Femenino
+Maria,Perez,52,13697235-8,Habitat,Jefe de Proyectos,1,1364377,Julio,2023,Femenino
+Maria,Perez,52,13697235-8,Habitat,Jefe de Proyectos,1,1432595,Junio,2023,Femenino
+Maria,Perez,52,13697235-8,Habitat,Jefe de Proyectos,1,1504224,Marzo,2023,Femenino
+Maria,Perez,52,13697235-8,Habitat,Jefe de Proyectos,1,1579435,Mayo,2023,Femenino
+Maria,Perez,52,13697235-8,Habitat,Jefe de Proyectos,1,1658406,Noviembre,2023,Femenino
+Maria,Perez,52,13697235-8,Habitat,Jefe de Proyectos,1,1741326,Octubre,2023,Femenino
+Maria,Perez,52,13697235-8,Habitat,Jefe de Proyectos,1,1828392,Septiembre,2023,Femenino
+Luis,Sanchez,48,12131671-4,Provida,Analista,17,901272,Abril,2023,Masculino
+Luis,Sanchez,48,12131671-4,Provida,Analista,17,946335,Abril,2022,Masculino
+Luis,Sanchez,48,12131671-4,Provida,Analista,17,984188,Agosto,2023,Masculino
+Luis,Sanchez,48,12131671-4,Provida,Analista,17,1033397,Agosto,2022,Masculino
+Luis,Sanchez,48,12131671-4,Provida,Analista,17,1074732,Diciembre,2021,Masculino
+Luis,Sanchez,48,12131671-4,Provida,Analista,17,1106973,Diciembre,2022,Masculino
+Luis,Sanchez,48,12131671-4,Provida,Analista,17,1151251,Diciembre,2023,Masculino
+Luis,Sanchez,48,12131671-4,Provida,Analista,17,1208813,Enero,2022,Masculino
+Luis,Sanchez,48,12131671-4,Provida,Analista,17,1257165,Enero,2023,Masculino
+Luis,Sanchez,48,12131671-4,Provida,Analista,17,1320023,Febrero,2022,Masculino
+Luis,Sanchez,48,12131671-4,Provida,Analista,17,1372823,Febrero,2023,Masculino
+Luis,Sanchez,48,12131671-4,Provida,Analista,17,1441464,Julio,2022,Masculino
+Luis,Sanchez,48,12131671-4,Provida,Analista,17,1499122,Julio,2023,Masculino
+Luis,Sanchez,48,12131671-4,Provida,Analista,17,1574078,Junio,2023,Masculino
+Luis,Sanchez,48,12131671-4,Provida,Analista,17,1652781,Junio,2022,Masculino
+Luis,Sanchez,48,12131671-4,Provida,Analista,17,1718892,Marzo,2022,Masculino
+Luis,Sanchez,48,12131671-4,Provida,Analista,17,1787647,Marzo,2023,Masculino
+Luis,Sanchez,48,12131671-4,Provida,Analista,17,1877029,Mayo,2022,Masculino
+Luis,Sanchez,48,12131671-4,Provida,Analista,17,1952110,Mayo,2023,Masculino
+Luis,Sanchez,48,12131671-4,Provida,Analista,17,2049715,Noviembre,2022,Masculino
+Luis,Sanchez,48,12131671-4,Provida,Analista,17,2131703,Noviembre,2023,Masculino
+Luis,Sanchez,48,12131671-4,Provida,Analista,17,2238288,Octubre,2022,Masculino
+Luis,Sanchez,48,12131671-4,Provida,Analista,17,2327819,Octubre,2023,Masculino
+Luis,Sanchez,48,12131671-4,Provida,Analista,17,2444209,Septiembre,2022,Masculino
+Luis,Sanchez,48,12131671-4,Provida,Analista,17,2541977,Septiembre,2023,Masculino
+Ana,Ramirez,34,20733545-5,Capital,Jefe de Proyectos,8,1945090,Abril,2023,Femenino
+Ana,Ramirez,34,20733545-5,Capital,Jefe de Proyectos,8,2042344,Abril,2022,Femenino
+Ana,Ramirez,34,20733545-5,Capital,Jefe de Proyectos,8,2124037,Agosto,2023,Femenino
+Ana,Ramirez,34,20733545-5,Capital,Jefe de Proyectos,8,2230238,Agosto,2022,Femenino
+Ana,Ramirez,34,20733545-5,Capital,Jefe de Proyectos,8,2319447,Diciembre,2021,Femenino
+Ana,Ramirez,34,20733545-5,Capital,Jefe de Proyectos,8,2389030,Diciembre,2022,Femenino
+Ana,Ramirez,34,20733545-5,Capital,Jefe de Proyectos,8,2484591,Diciembre,2023,Femenino
+Ana,Ramirez,34,20733545-5,Capital,Jefe de Proyectos,8,2608820,Enero,2022,Femenino
+Ana,Ramirez,34,20733545-5,Capital,Jefe de Proyectos,8,2713172,Enero,2023,Femenino
+Ana,Ramirez,34,20733545-5,Capital,Jefe de Proyectos,8,2848830,Febrero,2022,Femenino
+Ana,Ramirez,34,20733545-5,Capital,Jefe de Proyectos,8,2962783,Febrero,2023,Femenino
+Ana,Ramirez,34,20733545-5,Capital,Jefe de Proyectos,8,3110922,Julio,2022,Femenino
+Ana,Ramirez,34,20733545-5,Capital,Jefe de Proyectos,8,3235358,Julio,2023,Femenino
+Ana,Ramirez,34,20733545-5,Capital,Jefe de Proyectos,8,3397125,Junio,2023,Femenino
+Ana,Ramirez,34,20733545-5,Capital,Jefe de Proyectos,8,3566981,Junio,2022,Femenino
+Ana,Ramirez,34,20733545-5,Capital,Jefe de Proyectos,8,3709660,Marzo,2022,Femenino
+Ana,Ramirez,34,20733545-5,Capital,Jefe de Proyectos,8,3858046,Marzo,2023,Femenino
+Ana,Ramirez,34,20733545-5,Capital,Jefe de Proyectos,8,4050948,Mayo,2022,Femenino
+Ana,Ramirez,34,20733545-5,Capital,Jefe de Proyectos,8,4212985,Mayo,2023,Femenino
+Ana,Ramirez,34,20733545-5,Capital,Jefe de Proyectos,8,4423634,Noviembre,2022,Femenino
+Ana,Ramirez,34,20733545-5,Capital,Jefe de Proyectos,8,4600579,Noviembre,2023,Femenino
+Ana,Ramirez,34,20733545-5,Capital,Jefe de Proyectos,8,4830607,Octubre,2022,Femenino
+Ana,Ramirez,34,20733545-5,Capital,Jefe de Proyectos,8,5023831,Octubre,2023,Femenino
+Ana,Ramirez,34,20733545-5,Capital,Jefe de Proyectos,8,5275022,Septiembre,2022,Femenino
+Ana,Ramirez,34,20733545-5,Capital,Jefe de Proyectos,8,5486022,Septiembre,2023,Femenino
+Carlos,Gonzalez,56,24849062-2,PlanVital,Analista,9,957140,Abril,2023,Masculino
+Carlos,Gonzalez,56,24849062-2,PlanVital,Analista,9,1004997,Abril,2022,Masculino
+Carlos,Gonzalez,56,24849062-2,PlanVital,Analista,9,1045196,Agosto,2023,Masculino
+Carlos,Gonzalez,56,24849062-2,PlanVital,Analista,9,1097455,Agosto,2022,Masculino
+Carlos,Gonzalez,56,24849062-2,PlanVital,Analista,9,1141353,Diciembre,2021,Masculino
+Carlos,Gonzalez,56,24849062-2,PlanVital,Analista,9,1175593,Diciembre,2022,Masculino
+Carlos,Gonzalez,56,24849062-2,PlanVital,Analista,9,1222616,Diciembre,2023,Masculino
+Carlos,Gonzalez,56,24849062-2,PlanVital,Analista,9,1283746,Enero,2022,Masculino
+Carlos,Gonzalez,56,24849062-2,PlanVital,Analista,9,1335095,Enero,2023,Masculino
+Carlos,Gonzalez,56,24849062-2,PlanVital,Analista,9,1401849,Febrero,2022,Masculino
+Carlos,Gonzalez,56,24849062-2,PlanVital,Analista,9,1457922,Febrero,2023,Masculino
+Carlos,Gonzalez,56,24849062-2,PlanVital,Analista,9,1530818,Julio,2022,Masculino
+Carlos,Gonzalez,56,24849062-2,PlanVital,Analista,9,1592050,Julio,2023,Masculino
+Carlos,Gonzalez,56,24849062-2,PlanVital,Analista,9,1671652,Junio,2023,Masculino
+Carlos,Gonzalez,56,24849062-2,PlanVital,Analista,9,1755234,Junio,2022,Masculino
+Carlos,Gonzalez,56,24849062-2,PlanVital,Analista,9,1825443,Marzo,2022,Masculino
+Carlos,Gonzalez,56,24849062-2,PlanVital,Analista,9,1898460,Marzo,2023,Masculino
+Carlos,Gonzalez,56,24849062-2,PlanVital,Analista,9,1993383,Mayo,2022,Masculino
+Carlos,Gonzalez,56,24849062-2,PlanVital,Analista,9,2073118,Mayo,2023,Masculino
+Carlos,Gonzalez,56,24849062-2,PlanVital,Analista,9,2176773,Noviembre,2022,Masculino
+Carlos,Gonzalez,56,24849062-2,PlanVital,Analista,9,2263843,Noviembre,2023,Masculino
+Carlos,Gonzalez,56,24849062-2,PlanVital,Analista,9,2377035,Octubre,2022,Masculino
+Carlos,Gonzalez,56,24849062-2,PlanVital,Analista,9,2472116,Octubre,2023,Masculino
+Carlos,Gonzalez,56,24849062-2,PlanVital,Analista,9,2595721,Septiembre,2022,Masculino
+Carlos,Gonzalez,56,24849062-2,PlanVital,Analista,9,2699549,Septiembre,2023,Masculino
+Ana,Sanchez,48,7561573-K,Provida,Ingeniero,10,1250596,Abril,2023,Femenino
+Ana,Sanchez,48,7561573-K,Provida,Ingeniero,10,1313125,Abril,2022,Femenino
+Ana,Sanchez,48,7561573-K,Provida,Ingeniero,10,1365650,Agosto,2023,Femenino
+Ana,Sanchez,48,7561573-K,Provida,Ingeniero,10,1433932,Agosto,2022,Femenino
+Ana,Sanchez,48,7561573-K,Provida,Ingeniero,10,1491289,Diciembre,2021,Femenino
+Ana,Sanchez,48,7561573-K,Provida,Ingeniero,10,1536027,Diciembre,2022,Femenino
+Ana,Sanchez,48,7561573-K,Provida,Ingeniero,10,1597468,Diciembre,2023,Femenino
+Ana,Sanchez,48,7561573-K,Provida,Ingeniero,10,1677341,Enero,2022,Femenino
+Ana,Sanchez,48,7561573-K,Provida,Ingeniero,10,1744434,Enero,2023,Femenino
+Ana,Sanchez,48,7561573-K,Provida,Ingeniero,10,1831655,Febrero,2022,Femenino
+Ana,Sanchez,48,7561573-K,Provida,Ingeniero,10,1904921,Febrero,2023,Femenino
+Ana,Sanchez,48,7561573-K,Provida,Ingeniero,10,2000167,Julio,2022,Femenino
+Ana,Sanchez,48,7561573-K,Provida,Ingeniero,10,2080173,Julio,2023,Femenino
+Ana,Sanchez,48,7561573-K,Provida,Ingeniero,10,2184181,Junio,2023,Femenino
+Ana,Sanchez,48,7561573-K,Provida,Ingeniero,10,2293390,Junio,2022,Femenino
+Ana,Sanchez,48,7561573-K,Provida,Ingeniero,10,2385125,Marzo,2022,Femenino
+Ana,Sanchez,48,7561573-K,Provida,Ingeniero,10,2480530,Marzo,2023,Femenino
+Ana,Sanchez,48,7561573-K,Provida,Ingeniero,10,2604556,Mayo,2022,Femenino
+Ana,Sanchez,48,7561573-K,Provida,Ingeniero,10,2708738,Mayo,2023,Femenino
+Ana,Sanchez,48,7561573-K,Provida,Ingeniero,10,2844174,Noviembre,2022,Femenino
+Ana,Sanchez,48,7561573-K,Provida,Ingeniero,10,2957940,Noviembre,2023,Femenino
+Ana,Sanchez,48,7561573-K,Provida,Ingeniero,10,3105837,Octubre,2022,Femenino
+Ana,Sanchez,48,7561573-K,Provida,Ingeniero,10,3230070,Octubre,2023,Femenino
+Ana,Sanchez,48,7561573-K,Provida,Ingeniero,10,3391573,Septiembre,2022,Femenino
+Ana,Sanchez,48,7561573-K,Provida,Ingeniero,10,3527235,Septiembre,2023,Femenino
+Ana,Perez,53,8542877-7,Capital,Analista,4,1450538,Abril,2023,Femenino
+Ana,Perez,53,8542877-7,Capital,Analista,4,1523064,Abril,2022,Femenino
+Ana,Perez,53,8542877-7,Capital,Analista,4,1583986,Agosto,2023,Femenino
+Ana,Perez,53,8542877-7,Capital,Analista,4,1663185,Agosto,2022,Femenino
+Ana,Perez,53,8542877-7,Capital,Analista,4,1729712,Diciembre,2021,Femenino
+Ana,Perez,53,8542877-7,Capital,Analista,4,1781603,Diciembre,2022,Femenino
+Ana,Perez,53,8542877-7,Capital,Analista,4,1852867,Diciembre,2023,Femenino
+Ana,Perez,53,8542877-7,Capital,Analista,4,1945510,Enero,2022,Femenino
+Ana,Perez,53,8542877-7,Capital,Analista,4,2023330,Enero,2023,Femenino
+Ana,Perez,53,8542877-7,Capital,Analista,4,2124496,Febrero,2022,Femenino
+Ana,Perez,53,8542877-7,Capital,Analista,4,2209475,Febrero,2023,Femenino
+Ana,Perez,53,8542877-7,Capital,Analista,4,2319948,Julio,2022,Femenino
+Ana,Perez,53,8542877-7,Capital,Analista,4,2412745,Julio,2023,Femenino
+Ana,Perez,53,8542877-7,Capital,Analista,4,2533382,Junio,2023,Femenino
+Ana,Perez,53,8542877-7,Capital,Analista,4,2660051,Junio,2022,Femenino
+Ana,Perez,53,8542877-7,Capital,Analista,4,2766453,Marzo,2022,Femenino
+Ana,Perez,53,8542877-7,Capital,Analista,4,2877111,Marzo,2023,Femenino
+Ana,Perez,53,8542877-7,Capital,Analista,4,3020966,Mayo,2022,Femenino
+Ana,Perez,53,8542877-7,Capital,Analista,4,3141804,Mayo,2023,Femenino
+Ana,Perez,53,8542877-7,Capital,Analista,4,3298894,Noviembre,2022,Femenino
+Ana,Perez,53,8542877-7,Capital,Analista,4,3430849,Noviembre,2023,Femenino
+Ana,Perez,53,8542877-7,Capital,Analista,4,3602391,Octubre,2022,Femenino
+Ana,Perez,53,8542877-7,Capital,Analista,4,3746486,Octubre,2023,Femenino
+Ana,Perez,53,8542877-7,Capital,Analista,4,3933810,Septiembre,2022,Femenino
+Ana,Perez,53,8542877-7,Capital,Analista,4,4091162,Septiembre,2023,Femenino
+Carlos,Martinez,35,14309009-7,PlanVital,Contador,1,1779352,Abril,2023,Masculino
+Carlos,Martinez,35,14309009-7,PlanVital,Contador,1,1868319,Agosto,2023,Masculino
+Carlos,Martinez,35,14309009-7,PlanVital,Contador,1,1961734,Diciembre,2023,Masculino
+Carlos,Martinez,35,14309009-7,PlanVital,Contador,1,2059820,Enero,2023,Masculino
+Carlos,Martinez,35,14309009-7,PlanVital,Contador,1,2162811,Febrero,2023,Masculino
+Carlos,Martinez,35,14309009-7,PlanVital,Contador,1,2270951,Julio,2023,Masculino
+Carlos,Martinez,35,14309009-7,PlanVital,Contador,1,2384498,Junio,2023,Masculino
+Carlos,Martinez,35,14309009-7,PlanVital,Contador,1,2503722,Marzo,2023,Masculino
+Carlos,Martinez,35,14309009-7,PlanVital,Contador,1,2628908,Mayo,2023,Masculino
+Carlos,Martinez,35,14309009-7,PlanVital,Contador,1,2760353,Noviembre,2023,Masculino
+Carlos,Martinez,35,14309009-7,PlanVital,Contador,1,2898370,Octubre,2023,Masculino
+Carlos,Martinez,35,14309009-7,PlanVital,Contador,1,3043288,Septiembre,2023,Masculino
+Carlos,Perez,51,4681011-3,PlanVital,Jefe de Proyectos,7,1543050,Abril,2023,Masculino
+Carlos,Perez,51,4681011-3,PlanVital,Jefe de Proyectos,7,1620202,Abril,2022,Masculino
+Carlos,Perez,51,4681011-3,PlanVital,Jefe de Proyectos,7,1685010,Agosto,2023,Masculino
+Carlos,Perez,51,4681011-3,PlanVital,Jefe de Proyectos,7,1769260,Agosto,2022,Masculino
+Carlos,Perez,51,4681011-3,PlanVital,Jefe de Proyectos,7,1840030,Diciembre,2021,Masculino
+Carlos,Perez,51,4681011-3,PlanVital,Jefe de Proyectos,7,1895230,Diciembre,2022,Masculino
+Carlos,Perez,51,4681011-3,PlanVital,Jefe de Proyectos,7,1971039,Diciembre,2023,Masculino
+Carlos,Perez,51,4681011-3,PlanVital,Jefe de Proyectos,7,2069590,Enero,2022,Masculino
+Carlos,Perez,51,4681011-3,PlanVital,Jefe de Proyectos,7,2152373,Enero,2023,Masculino
+Carlos,Perez,51,4681011-3,PlanVital,Jefe de Proyectos,7,2259991,Febrero,2022,Masculino
+Carlos,Perez,51,4681011-3,PlanVital,Jefe de Proyectos,7,2350390,Febrero,2023,Masculino
+Carlos,Perez,51,4681011-3,PlanVital,Jefe de Proyectos,7,2467909,Julio,2022,Masculino
+Carlos,Perez,51,4681011-3,PlanVital,Jefe de Proyectos,7,2566625,Julio,2023,Masculino
+Carlos,Perez,51,4681011-3,PlanVital,Jefe de Proyectos,7,2694956,Junio,2023,Masculino
+Carlos,Perez,51,4681011-3,PlanVital,Jefe de Proyectos,7,2829703,Junio,2022,Masculino
+Carlos,Perez,51,4681011-3,PlanVital,Jefe de Proyectos,7,2942891,Marzo,2022,Masculino
+Carlos,Perez,51,4681011-3,PlanVital,Jefe de Proyectos,7,3060606,Marzo,2023,Masculino
+Carlos,Perez,51,4681011-3,PlanVital,Jefe de Proyectos,7,3213636,Mayo,2022,Masculino
+Carlos,Perez,51,4681011-3,PlanVital,Jefe de Proyectos,7,3342181,Mayo,2023,Masculino
+Carlos,Perez,51,4681011-3,PlanVital,Jefe de Proyectos,7,3509290,Noviembre,2022,Masculino
+Carlos,Perez,51,4681011-3,PlanVital,Jefe de Proyectos,7,3649661,Noviembre,2023,Masculino
+Carlos,Perez,51,4681011-3,PlanVital,Jefe de Proyectos,7,3832144,Octubre,2022,Masculino
+Carlos,Perez,51,4681011-3,PlanVital,Jefe de Proyectos,7,3985429,Octubre,2023,Masculino
+Carlos,Perez,51,4681011-3,PlanVital,Jefe de Proyectos,7,4184700,Septiembre,2022,Masculino
+Carlos,Perez,51,4681011-3,PlanVital,Jefe de Proyectos,7,4352088,Septiembre,2023,Masculino
+Jorge,Lopez,31,4916895-3,Capital,Ingeniero,16,1557493,Abril,2023,Masculino
+Jorge,Lopez,31,4916895-3,Capital,Ingeniero,16,1635367,Abril,2022,Masculino
+Jorge,Lopez,31,4916895-3,Capital,Ingeniero,16,1700781,Agosto,2023,Masculino
+Jorge,Lopez,31,4916895-3,Capital,Ingeniero,16,1785820,Agosto,2022,Masculino
+Jorge,Lopez,31,4916895-3,Capital,Ingeniero,16,1857252,Diciembre,2021,Masculino
+Jorge,Lopez,31,4916895-3,Capital,Ingeniero,16,1912969,Diciembre,2022,Masculino
+Jorge,Lopez,31,4916895-3,Capital,Ingeniero,16,1989487,Diciembre,2023,Masculino
+Jorge,Lopez,31,4916895-3,Capital,Ingeniero,16,2088961,Enero,2022,Masculino
+Jorge,Lopez,31,4916895-3,Capital,Ingeniero,16,2172519,Enero,2023,Masculino
+Jorge,Lopez,31,4916895-3,Capital,Ingeniero,16,2281144,Febrero,2022,Masculino
+Jorge,Lopez,31,4916895-3,Capital,Ingeniero,16,2372389,Febrero,2023,Masculino
+Jorge,Lopez,31,4916895-3,Capital,Ingeniero,16,2491008,Julio,2022,Masculino
+Jorge,Lopez,31,4916895-3,Capital,Ingeniero,16,2590648,Julio,2023,Masculino
+Jorge,Lopez,31,4916895-3,Capital,Ingeniero,16,2720180,Junio,2023,Masculino
+Jorge,Lopez,31,4916895-3,Capital,Ingeniero,16,2856189,Junio,2022,Masculino
+Jorge,Lopez,31,4916895-3,Capital,Ingeniero,16,2970436,Marzo,2022,Masculino
+Jorge,Lopez,31,4916895-3,Capital,Ingeniero,16,3089253,Marzo,2023,Masculino
+Jorge,Lopez,31,4916895-3,Capital,Ingeniero,16,3243715,Mayo,2022,Masculino
+Jorge,Lopez,31,4916895-3,Capital,Ingeniero,16,3373463,Mayo,2023,Masculino
+Jorge,Lopez,31,4916895-3,Capital,Ingeniero,16,3542136,Noviembre,2022,Masculino
+Jorge,Lopez,31,4916895-3,Capital,Ingeniero,16,3683821,Noviembre,2023,Masculino
+Jorge,Lopez,31,4916895-3,Capital,Ingeniero,16,3868012,Octubre,2022,Masculino
+Jorge,Lopez,31,4916895-3,Capital,Ingeniero,16,4022732,Octubre,2023,Masculino
+Jorge,Lopez,31,4916895-3,Capital,Ingeniero,16,4223868,Septiembre,2022,Masculino
+Jorge,Lopez,31,4916895-3,Capital,Ingeniero,16,4392822,Septiembre,2023,Masculino
+Carlos,Diaz,45,24228923-3,PlanVital,Técnico,4,1855770,Abril,2023,Masculino
+Carlos,Diaz,45,24228923-3,PlanVital,Técnico,4,1948558,Abril,2022,Masculino
+Carlos,Diaz,45,24228923-3,PlanVital,Técnico,4,2026500,Agosto,2023,Masculino
+Carlos,Diaz,45,24228923-3,PlanVital,Técnico,4,2127825,Agosto,2022,Masculino
+Carlos,Diaz,45,24228923-3,PlanVital,Técnico,4,2212938,Diciembre,2021,Masculino
+Carlos,Diaz,45,24228923-3,PlanVital,Técnico,4,2279326,Diciembre,2022,Masculino
+Carlos,Diaz,45,24228923-3,PlanVital,Técnico,4,2370499,Diciembre,2023,Masculino
+Carlos,Diaz,45,24228923-3,PlanVital,Técnico,4,2489023,Enero,2022,Masculino
+Carlos,Diaz,45,24228923-3,PlanVital,Técnico,4,2588583,Enero,2023,Masculino
+Carlos,Diaz,45,24228923-3,PlanVital,Técnico,4,2718012,Febrero,2022,Masculino
+Carlos,Diaz,45,24228923-3,PlanVital,Técnico,4,2826732,Febrero,2023,Masculino
+Carlos,Diaz,45,24228923-3,PlanVital,Técnico,4,2968068,Julio,2022,Masculino
+Carlos,Diaz,45,24228923-3,PlanVital,Técnico,4,3086790,Julio,2023,Masculino
+Carlos,Diaz,45,24228923-3,PlanVital,Técnico,4,3241129,Junio,2023,Masculino
+Carlos,Diaz,45,24228923-3,PlanVital,Técnico,4,3403185,Junio,2022,Masculino
+Carlos,Diaz,45,24228923-3,PlanVital,Técnico,4,3539312,Marzo,2022,Masculino
+Carlos,Diaz,45,24228923-3,PlanVital,Técnico,4,3680884,Marzo,2023,Masculino
+Carlos,Diaz,45,24228923-3,PlanVital,Técnico,4,3864928,Mayo,2022,Masculino
+Carlos,Diaz,45,24228923-3,PlanVital,Técnico,4,4019525,Mayo,2023,Masculino
+Carlos,Diaz,45,24228923-3,PlanVital,Técnico,4,4220501,Noviembre,2022,Masculino
+Carlos,Diaz,45,24228923-3,PlanVital,Técnico,4,4389321,Noviembre,2023,Masculino
+Carlos,Diaz,45,24228923-3,PlanVital,Técnico,4,4608787,Octubre,2022,Masculino
+Carlos,Diaz,45,24228923-3,PlanVital,Técnico,4,4793138,Octubre,2023,Masculino
+Carlos,Diaz,45,24228923-3,PlanVital,Técnico,4,5032794,Septiembre,2022,Masculino
+Carlos,Diaz,45,24228923-3,PlanVital,Técnico,4,5234105,Septiembre,2023,Masculino
+Pedro,Martinez,52,15721444-4,Provida,Técnico,19,1928410,Abril,2023,Masculino
+Pedro,Martinez,52,15721444-4,Provida,Técnico,19,2024830,Abril,2022,Masculino
+Pedro,Martinez,52,15721444-4,Provida,Técnico,19,2105823,Agosto,2023,Masculino
+Pedro,Martinez,52,15721444-4,Provida,Técnico,19,2211114,Agosto,2022,Masculino
+Pedro,Martinez,52,15721444-4,Provida,Técnico,19,2299558,Diciembre,2021,Masculino
+Pedro,Martinez,52,15721444-4,Provida,Técnico,19,2368544,Diciembre,2022,Masculino
+Pedro,Martinez,52,15721444-4,Provida,Técnico,19,2463285,Diciembre,2023,Masculino
+Pedro,Martinez,52,15721444-4,Provida,Técnico,19,2586449,Enero,2022,Masculino
+Pedro,Martinez,52,15721444-4,Provida,Técnico,19,2689906,Enero,2023,Masculino
+Pedro,Martinez,52,15721444-4,Provida,Técnico,19,2824401,Febrero,2022,Masculino
+Pedro,Martinez,52,15721444-4,Provida,Técnico,19,2937377,Febrero,2023,Masculino
+Pedro,Martinez,52,15721444-4,Provida,Técnico,19,3084245,Julio,2022,Masculino
+Pedro,Martinez,52,15721444-4,Provida,Técnico,19,3207614,Julio,2023,Masculino
+Pedro,Martinez,52,15721444-4,Provida,Técnico,19,3367994,Junio,2023,Masculino
+Pedro,Martinez,52,15721444-4,Provida,Técnico,19,3536393,Junio,2022,Masculino
+Pedro,Martinez,52,15721444-4,Provida,Técnico,19,3677848,Marzo,2022,Masculino
+Pedro,Martinez,52,15721444-4,Provida,Técnico,19,3824961,Marzo,2023,Masculino
+Pedro,Martinez,52,15721444-4,Provida,Técnico,19,4016209,Mayo,2022,Masculino
+Pedro,Martinez,52,15721444-4,Provida,Técnico,19,4176857,Mayo,2023,Masculino
+Pedro,Martinez,52,15721444-4,Provida,Técnico,19,4385699,Noviembre,2022,Masculino
+Pedro,Martinez,52,15721444-4,Provida,Técnico,19,4561126,Noviembre,2023,Masculino
+Pedro,Martinez,52,15721444-4,Provida,Técnico,19,4789182,Octubre,2022,Masculino
+Pedro,Martinez,52,15721444-4,Provida,Técnico,19,4980749,Octubre,2023,Masculino
+Pedro,Martinez,52,15721444-4,Provida,Técnico,19,5229786,Septiembre,2022,Masculino
+Pedro,Martinez,52,15721444-4,Provida,Técnico,19,5438977,Septiembre,2023,Masculino
+Lucia,Diaz,32,14630581-8,PlanVital,Jefe de Proyectos,1,1629229,Abril,2023,Femenino
+Lucia,Diaz,32,14630581-8,PlanVital,Jefe de Proyectos,1,1710690,Agosto,2023,Femenino
+Lucia,Diaz,32,14630581-8,PlanVital,Jefe de Proyectos,1,1796224,Diciembre,2023,Femenino
+Lucia,Diaz,32,14630581-8,PlanVital,Jefe de Proyectos,1,1886035,Enero,2023,Femenino
+Lucia,Diaz,32,14630581-8,PlanVital,Jefe de Proyectos,1,1980336,Febrero,2023,Femenino
+Lucia,Diaz,32,14630581-8,PlanVital,Jefe de Proyectos,1,2079352,Julio,2023,Femenino
+Lucia,Diaz,32,14630581-8,PlanVital,Jefe de Proyectos,1,2183319,Junio,2023,Femenino
+Lucia,Diaz,32,14630581-8,PlanVital,Jefe de Proyectos,1,2292484,Marzo,2023,Femenino
+Lucia,Diaz,32,14630581-8,PlanVital,Jefe de Proyectos,1,2407108,Mayo,2023,Femenino
+Lucia,Diaz,32,14630581-8,PlanVital,Jefe de Proyectos,1,2527463,Noviembre,2023,Femenino
+Lucia,Diaz,32,14630581-8,PlanVital,Jefe de Proyectos,1,2653836,Octubre,2023,Femenino
+Lucia,Diaz,32,14630581-8,PlanVital,Jefe de Proyectos,1,2786527,Septiembre,2023,Femenino
+Maria,Diaz,39,22079269-9,PlanVital,Desarrollador,7,1901339,Abril,2023,Femenino
+Maria,Diaz,39,22079269-9,PlanVital,Desarrollador,7,1996405,Abril,2022,Femenino
+Maria,Diaz,39,22079269-9,PlanVital,Desarrollador,7,2076261,Agosto,2023,Femenino
+Maria,Diaz,39,22079269-9,PlanVital,Desarrollador,7,2180074,Agosto,2022,Femenino
+Maria,Diaz,39,22079269-9,PlanVital,Desarrollador,7,2267276,Diciembre,2021,Femenino
+Maria,Diaz,39,22079269-9,PlanVital,Desarrollador,7,2335294,Diciembre,2022,Femenino
+Maria,Diaz,39,22079269-9,PlanVital,Desarrollador,7,2428705,Diciembre,2023,Femenino
+Maria,Diaz,39,22079269-9,PlanVital,Desarrollador,7,2550140,Enero,2022,Femenino
+Maria,Diaz,39,22079269-9,PlanVital,Desarrollador,7,2652145,Enero,2023,Femenino
+Maria,Diaz,39,22079269-9,PlanVital,Desarrollador,7,2784752,Febrero,2022,Femenino
+Maria,Diaz,39,22079269-9,PlanVital,Desarrollador,7,2896142,Febrero,2023,Femenino
+Maria,Diaz,39,22079269-9,PlanVital,Desarrollador,7,3040949,Julio,2022,Femenino
+Maria,Diaz,39,22079269-9,PlanVital,Desarrollador,7,3162586,Julio,2023,Femenino
+Maria,Diaz,39,22079269-9,PlanVital,Desarrollador,7,3320715,Junio,2023,Femenino
+Maria,Diaz,39,22079269-9,PlanVital,Desarrollador,7,3486750,Junio,2022,Femenino
+Maria,Diaz,39,22079269-9,PlanVital,Desarrollador,7,3626220,Marzo,2022,Femenino
+Maria,Diaz,39,22079269-9,PlanVital,Desarrollador,7,3771268,Marzo,2023,Femenino
+Maria,Diaz,39,22079269-9,PlanVital,Desarrollador,7,3959831,Mayo,2022,Femenino
+Maria,Diaz,39,22079269-9,PlanVital,Desarrollador,7,4118224,Mayo,2023,Femenino
+Maria,Diaz,39,22079269-9,PlanVital,Desarrollador,7,4324135,Noviembre,2022,Femenino
+Maria,Diaz,39,22079269-9,PlanVital,Desarrollador,7,4497100,Noviembre,2023,Femenino
+Maria,Diaz,39,22079269-9,PlanVital,Desarrollador,7,4721955,Octubre,2022,Femenino
+Maria,Diaz,39,22079269-9,PlanVital,Desarrollador,7,4910833,Octubre,2023,Femenino
+Maria,Diaz,39,22079269-9,PlanVital,Desarrollador,7,5156374,Septiembre,2022,Femenino
+Maria,Diaz,39,22079269-9,PlanVital,Desarrollador,7,5362628,Septiembre,2023,Femenino
+Carlos,Martinez,48,6596392-K,Capital,Técnico,12,1491610,Abril,2023,Masculino
+Carlos,Martinez,48,6596392-K,Capital,Técnico,12,1566190,Abril,2022,Masculino
+Carlos,Martinez,48,6596392-K,Capital,Técnico,12,1628837,Agosto,2023,Masculino
+Carlos,Martinez,48,6596392-K,Capital,Técnico,12,1710278,Agosto,2022,Masculino
+Carlos,Martinez,48,6596392-K,Capital,Técnico,12,1778689,Diciembre,2021,Masculino
+Carlos,Martinez,48,6596392-K,Capital,Técnico,12,1832049,Diciembre,2022,Masculino
+Carlos,Martinez,48,6596392-K,Capital,Técnico,12,1905330,Diciembre,2023,Masculino
+Carlos,Martinez,48,6596392-K,Capital,Técnico,12,2000596,Enero,2022,Masculino
+Carlos,Martinez,48,6596392-K,Capital,Técnico,12,2080619,Enero,2023,Masculino
+Carlos,Martinez,48,6596392-K,Capital,Técnico,12,2184649,Febrero,2022,Masculino
+Carlos,Martinez,48,6596392-K,Capital,Técnico,12,2272034,Febrero,2023,Masculino
+Carlos,Martinez,48,6596392-K,Capital,Técnico,12,2385635,Julio,2022,Masculino
+Carlos,Martinez,48,6596392-K,Capital,Técnico,12,2481060,Julio,2023,Masculino
+Carlos,Martinez,48,6596392-K,Capital,Técnico,12,2605113,Junio,2023,Masculino
+Carlos,Martinez,48,6596392-K,Capital,Técnico,12,2735368,Junio,2022,Masculino
+Carlos,Martinez,48,6596392-K,Capital,Técnico,12,2844782,Marzo,2022,Masculino
+Carlos,Martinez,48,6596392-K,Capital,Técnico,12,2958573,Marzo,2023,Masculino
+Carlos,Martinez,48,6596392-K,Capital,Técnico,12,3106501,Mayo,2022,Masculino
+Carlos,Martinez,48,6596392-K,Capital,Técnico,12,3230761,Mayo,2023,Masculino
+Carlos,Martinez,48,6596392-K,Capital,Técnico,12,3392299,Noviembre,2022,Masculino
+Carlos,Martinez,48,6596392-K,Capital,Técnico,12,3527990,Noviembre,2023,Masculino
+Carlos,Martinez,48,6596392-K,Capital,Técnico,12,3704389,Octubre,2022,Masculino
+Carlos,Martinez,48,6596392-K,Capital,Técnico,12,3852564,Octubre,2023,Masculino
+Carlos,Martinez,48,6596392-K,Capital,Técnico,12,4045192,Septiembre,2022,Masculino
+Carlos,Martinez,48,6596392-K,Capital,Técnico,12,4206999,Septiembre,2023,Masculino
+Maria,Ramirez,56,5309075-5,Cuprum,Ingeniero,14,881089,Abril,2023,Femenino
+Maria,Ramirez,56,5309075-5,Cuprum,Ingeniero,14,925143,Abril,2022,Femenino
+Maria,Ramirez,56,5309075-5,Cuprum,Ingeniero,14,962148,Agosto,2023,Femenino
+Maria,Ramirez,56,5309075-5,Cuprum,Ingeniero,14,1010255,Agosto,2022,Femenino
+Maria,Ramirez,56,5309075-5,Cuprum,Ingeniero,14,1050665,Diciembre,2021,Femenino
+Maria,Ramirez,56,5309075-5,Cuprum,Ingeniero,14,1082184,Diciembre,2022,Femenino
+Maria,Ramirez,56,5309075-5,Cuprum,Ingeniero,14,1125471,Diciembre,2023,Femenino
+Maria,Ramirez,56,5309075-5,Cuprum,Ingeniero,14,1181744,Enero,2022,Femenino
+Maria,Ramirez,56,5309075-5,Cuprum,Ingeniero,14,1229013,Enero,2023,Femenino
+Maria,Ramirez,56,5309075-5,Cuprum,Ingeniero,14,1290463,Febrero,2022,Femenino
+Maria,Ramirez,56,5309075-5,Cuprum,Ingeniero,14,1342081,Febrero,2023,Femenino
+Maria,Ramirez,56,5309075-5,Cuprum,Ingeniero,14,1409185,Julio,2022,Femenino
+Maria,Ramirez,56,5309075-5,Cuprum,Ingeniero,14,1465552,Julio,2023,Femenino
+Maria,Ramirez,56,5309075-5,Cuprum,Ingeniero,14,1538829,Junio,2023,Femenino
+Maria,Ramirez,56,5309075-5,Cuprum,Ingeniero,14,1615770,Junio,2022,Femenino
+Maria,Ramirez,56,5309075-5,Cuprum,Ingeniero,14,1680400,Marzo,2022,Femenino
+Maria,Ramirez,56,5309075-5,Cuprum,Ingeniero,14,1747616,Marzo,2023,Femenino
+Maria,Ramirez,56,5309075-5,Cuprum,Ingeniero,14,1834996,Mayo,2022,Femenino
+Maria,Ramirez,56,5309075-5,Cuprum,Ingeniero,14,1908395,Mayo,2023,Femenino
+Maria,Ramirez,56,5309075-5,Cuprum,Ingeniero,14,2003814,Noviembre,2022,Femenino
+Maria,Ramirez,56,5309075-5,Cuprum,Ingeniero,14,2083966,Noviembre,2023,Femenino
+Maria,Ramirez,56,5309075-5,Cuprum,Ingeniero,14,2188164,Octubre,2022,Femenino
+Maria,Ramirez,56,5309075-5,Cuprum,Ingeniero,14,2275690,Octubre,2023,Femenino
+Maria,Ramirez,56,5309075-5,Cuprum,Ingeniero,14,2389474,Septiembre,2022,Femenino
+Maria,Ramirez,56,5309075-5,Cuprum,Ingeniero,14,2485052,Septiembre,2023,Femenino
+Jorge,Perez,30,15138317-0,Habitat,Desarrollador,16,1445500,Abril,2023,Masculino
+Jorge,Perez,30,15138317-0,Habitat,Desarrollador,16,1517775,Abril,2022,Masculino
+Jorge,Perez,30,15138317-0,Habitat,Desarrollador,16,1578486,Agosto,2023,Masculino
+Jorge,Perez,30,15138317-0,Habitat,Desarrollador,16,1657410,Agosto,2022,Masculino
+Jorge,Perez,30,15138317-0,Habitat,Desarrollador,16,1723706,Diciembre,2021,Masculino
+Jorge,Perez,30,15138317-0,Habitat,Desarrollador,16,1775417,Diciembre,2022,Masculino
+Jorge,Perez,30,15138317-0,Habitat,Desarrollador,16,1846433,Diciembre,2023,Masculino
+Jorge,Perez,30,15138317-0,Habitat,Desarrollador,16,1938754,Enero,2022,Masculino
+Jorge,Perez,30,15138317-0,Habitat,Desarrollador,16,2016304,Enero,2023,Masculino
+Jorge,Perez,30,15138317-0,Habitat,Desarrollador,16,2117119,Febrero,2022,Masculino
+Jorge,Perez,30,15138317-0,Habitat,Desarrollador,16,2201803,Febrero,2023,Masculino
+Jorge,Perez,30,15138317-0,Habitat,Desarrollador,16,2311893,Julio,2022,Masculino
+Jorge,Perez,30,15138317-0,Habitat,Desarrollador,16,2404368,Julio,2023,Masculino
+Jorge,Perez,30,15138317-0,Habitat,Desarrollador,16,2524586,Junio,2023,Masculino
+Jorge,Perez,30,15138317-0,Habitat,Desarrollador,16,2650815,Junio,2022,Masculino
+Jorge,Perez,30,15138317-0,Habitat,Desarrollador,16,2756847,Marzo,2022,Masculino
+Jorge,Perez,30,15138317-0,Habitat,Desarrollador,16,2867120,Marzo,2023,Masculino
+Jorge,Perez,30,15138317-0,Habitat,Desarrollador,16,3010476,Mayo,2022,Masculino
+Jorge,Perez,30,15138317-0,Habitat,Desarrollador,16,3130895,Mayo,2023,Masculino
+Jorge,Perez,30,15138317-0,Habitat,Desarrollador,16,3287439,Noviembre,2022,Masculino
+Jorge,Perez,30,15138317-0,Habitat,Desarrollador,16,3418936,Noviembre,2023,Masculino
+Jorge,Perez,30,15138317-0,Habitat,Desarrollador,16,3589882,Octubre,2022,Masculino
+Jorge,Perez,30,15138317-0,Habitat,Desarrollador,16,3733477,Octubre,2023,Masculino
+Jorge,Perez,30,15138317-0,Habitat,Desarrollador,16,3920150,Septiembre,2022,Masculino
+Jorge,Perez,30,15138317-0,Habitat,Desarrollador,16,4076956,Septiembre,2023,Masculino
+Maria,Sanchez,47,6959716-3,PlanVital,Analista,20,939690,Abril,2023,Femenino
+Maria,Sanchez,47,6959716-3,PlanVital,Analista,20,986674,Abril,2022,Femenino
+Maria,Sanchez,47,6959716-3,PlanVital,Analista,20,1026140,Agosto,2023,Femenino
+Maria,Sanchez,47,6959716-3,PlanVital,Analista,20,1077447,Agosto,2022,Femenino
+Maria,Sanchez,47,6959716-3,PlanVital,Analista,20,1120544,Diciembre,2021,Femenino
+Maria,Sanchez,47,6959716-3,PlanVital,Analista,20,1154160,Diciembre,2022,Femenino
+Maria,Sanchez,47,6959716-3,PlanVital,Analista,20,1200326,Diciembre,2023,Femenino
+Maria,Sanchez,47,6959716-3,PlanVital,Analista,20,1260342,Enero,2022,Femenino
+Maria,Sanchez,47,6959716-3,PlanVital,Analista,20,1310755,Enero,2023,Femenino
+Maria,Sanchez,47,6959716-3,PlanVital,Analista,20,1376292,Febrero,2022,Femenino
+Maria,Sanchez,47,6959716-3,PlanVital,Analista,20,1431343,Febrero,2023,Femenino
+Maria,Sanchez,47,6959716-3,PlanVital,Analista,20,1502910,Julio,2022,Femenino
+Maria,Sanchez,47,6959716-3,PlanVital,Analista,20,1563026,Julio,2023,Femenino
+Maria,Sanchez,47,6959716-3,PlanVital,Analista,20,1641177,Junio,2023,Femenino
+Maria,Sanchez,47,6959716-3,PlanVital,Analista,20,1723235,Junio,2022,Femenino
+Maria,Sanchez,47,6959716-3,PlanVital,Analista,20,1792164,Marzo,2022,Femenino
+Maria,Sanchez,47,6959716-3,PlanVital,Analista,20,1863850,Marzo,2023,Femenino
+Maria,Sanchez,47,6959716-3,PlanVital,Analista,20,1957042,Mayo,2022,Femenino
+Maria,Sanchez,47,6959716-3,PlanVital,Analista,20,2035323,Mayo,2023,Femenino
+Maria,Sanchez,47,6959716-3,PlanVital,Analista,20,2137089,Noviembre,2022,Femenino
+Maria,Sanchez,47,6959716-3,PlanVital,Analista,20,2222572,Noviembre,2023,Femenino
+Maria,Sanchez,47,6959716-3,PlanVital,Analista,20,2333700,Octubre,2022,Femenino
+Maria,Sanchez,47,6959716-3,PlanVital,Analista,20,2427048,Octubre,2023,Femenino
+Maria,Sanchez,47,6959716-3,PlanVital,Analista,20,2548400,Septiembre,2022,Femenino
+Maria,Sanchez,47,6959716-3,PlanVital,Analista,20,2650336,Septiembre,2023,Femenino
+Clara,Ramirez,47,12505503-9,PlanVital,Técnico,17,1122275,Abril,2023,Femenino
+Clara,Ramirez,47,12505503-9,PlanVital,Técnico,17,1178388,Abril,2022,Femenino
+Clara,Ramirez,47,12505503-9,PlanVital,Técnico,17,1225523,Agosto,2023,Femenino
+Clara,Ramirez,47,12505503-9,PlanVital,Técnico,17,1286799,Agosto,2022,Femenino
+Clara,Ramirez,47,12505503-9,PlanVital,Técnico,17,1338270,Diciembre,2021,Femenino
+Clara,Ramirez,47,12505503-9,PlanVital,Técnico,17,1378418,Diciembre,2022,Femenino
+Clara,Ramirez,47,12505503-9,PlanVital,Técnico,17,1433554,Diciembre,2023,Femenino
+Clara,Ramirez,47,12505503-9,PlanVital,Técnico,17,1505231,Enero,2022,Femenino
+Clara,Ramirez,47,12505503-9,PlanVital,Técnico,17,1565440,Enero,2023,Femenino
+Clara,Ramirez,47,12505503-9,PlanVital,Técnico,17,1643712,Febrero,2022,Femenino
+Clara,Ramirez,47,12505503-9,PlanVital,Técnico,17,1709460,Febrero,2023,Femenino
+Clara,Ramirez,47,12505503-9,PlanVital,Técnico,17,1794933,Julio,2022,Femenino
+Clara,Ramirez,47,12505503-9,PlanVital,Técnico,17,1866730,Julio,2023,Femenino
+Clara,Ramirez,47,12505503-9,PlanVital,Técnico,17,1960066,Junio,2023,Femenino
+Clara,Ramirez,47,12505503-9,PlanVital,Técnico,17,2058069,Junio,2022,Femenino
+Clara,Ramirez,47,12505503-9,PlanVital,Técnico,17,2140391,Marzo,2022,Femenino
+Clara,Ramirez,47,12505503-9,PlanVital,Técnico,17,2226006,Marzo,2023,Femenino
+Clara,Ramirez,47,12505503-9,PlanVital,Técnico,17,2337306,Mayo,2022,Femenino
+Clara,Ramirez,47,12505503-9,PlanVital,Técnico,17,2430798,Mayo,2023,Femenino
+Clara,Ramirez,47,12505503-9,PlanVital,Técnico,17,2552337,Noviembre,2022,Femenino
+Clara,Ramirez,47,12505503-9,PlanVital,Técnico,17,2654430,Noviembre,2023,Femenino
+Clara,Ramirez,47,12505503-9,PlanVital,Técnico,17,2787151,Octubre,2022,Femenino
+Clara,Ramirez,47,12505503-9,PlanVital,Técnico,17,2898637,Octubre,2023,Femenino
+Clara,Ramirez,47,12505503-9,PlanVital,Técnico,17,3043568,Septiembre,2022,Femenino
+Clara,Ramirez,47,12505503-9,PlanVital,Técnico,17,3165310,Septiembre,2023,Femenino
+Jorge,Diaz,37,9265756-8,Capital,Desarrollador,13,1267848,Abril,2023,Masculino
+Jorge,Diaz,37,9265756-8,Capital,Desarrollador,13,1331240,Abril,2022,Masculino
+Jorge,Diaz,37,9265756-8,Capital,Desarrollador,13,1384489,Agosto,2023,Masculino
+Jorge,Diaz,37,9265756-8,Capital,Desarrollador,13,1453713,Agosto,2022,Masculino
+Jorge,Diaz,37,9265756-8,Capital,Desarrollador,13,1511861,Diciembre,2021,Masculino
+Jorge,Diaz,37,9265756-8,Capital,Desarrollador,13,1557216,Diciembre,2022,Masculino
+Jorge,Diaz,37,9265756-8,Capital,Desarrollador,13,1619504,Diciembre,2023,Masculino
+Jorge,Diaz,37,9265756-8,Capital,Desarrollador,13,1700479,Enero,2022,Masculino
+Jorge,Diaz,37,9265756-8,Capital,Desarrollador,13,1768498,Enero,2023,Masculino
+Jorge,Diaz,37,9265756-8,Capital,Desarrollador,13,1856922,Febrero,2022,Masculino
+Jorge,Diaz,37,9265756-8,Capital,Desarrollador,13,1931198,Febrero,2023,Masculino
+Jorge,Diaz,37,9265756-8,Capital,Desarrollador,13,2027757,Julio,2022,Masculino
+Jorge,Diaz,37,9265756-8,Capital,Desarrollador,13,2108867,Julio,2023,Masculino
+Jorge,Diaz,37,9265756-8,Capital,Desarrollador,13,2214310,Junio,2023,Masculino
+Jorge,Diaz,37,9265756-8,Capital,Desarrollador,13,2325025,Junio,2022,Masculino
+Jorge,Diaz,37,9265756-8,Capital,Desarrollador,13,2418026,Marzo,2022,Masculino
+Jorge,Diaz,37,9265756-8,Capital,Desarrollador,13,2514747,Marzo,2023,Masculino
+Jorge,Diaz,37,9265756-8,Capital,Desarrollador,13,2640484,Mayo,2022,Masculino
+Jorge,Diaz,37,9265756-8,Capital,Desarrollador,13,2746103,Mayo,2023,Masculino
+Jorge,Diaz,37,9265756-8,Capital,Desarrollador,13,2883408,Noviembre,2022,Masculino
+Jorge,Diaz,37,9265756-8,Capital,Desarrollador,13,2998744,Noviembre,2023,Masculino
+Jorge,Diaz,37,9265756-8,Capital,Desarrollador,13,3148681,Octubre,2022,Masculino
+Jorge,Diaz,37,9265756-8,Capital,Desarrollador,13,3274628,Octubre,2023,Masculino
+Jorge,Diaz,37,9265756-8,Capital,Desarrollador,13,3438359,Septiembre,2022,Masculino
+Jorge,Diaz,37,9265756-8,Capital,Desarrollador,13,3575893,Septiembre,2023,Masculino
+Jorge,Ramirez,58,1477132-7,Capital,Desarrollador,12,1393905,Abril,2023,Masculino
+Jorge,Ramirez,58,1477132-7,Capital,Desarrollador,12,1463600,Abril,2022,Masculino
+Jorge,Ramirez,58,1477132-7,Capital,Desarrollador,12,1522144,Agosto,2023,Masculino
+Jorge,Ramirez,58,1477132-7,Capital,Desarrollador,12,1598251,Agosto,2022,Masculino
+Jorge,Ramirez,58,1477132-7,Capital,Desarrollador,12,1662181,Diciembre,2021,Masculino
+Jorge,Ramirez,58,1477132-7,Capital,Desarrollador,12,1712046,Diciembre,2022,Masculino
+Jorge,Ramirez,58,1477132-7,Capital,Desarrollador,12,1780527,Diciembre,2023,Masculino
+Jorge,Ramirez,58,1477132-7,Capital,Desarrollador,12,1869553,Enero,2022,Masculino
+Jorge,Ramirez,58,1477132-7,Capital,Desarrollador,12,1944335,Enero,2023,Masculino
+Jorge,Ramirez,58,1477132-7,Capital,Desarrollador,12,2041551,Febrero,2022,Masculino
+Jorge,Ramirez,58,1477132-7,Capital,Desarrollador,12,2123213,Febrero,2023,Masculino
+Jorge,Ramirez,58,1477132-7,Capital,Desarrollador,12,2229373,Julio,2022,Masculino
+Jorge,Ramirez,58,1477132-7,Capital,Desarrollador,12,2318547,Julio,2023,Masculino
+Jorge,Ramirez,58,1477132-7,Capital,Desarrollador,12,2434474,Junio,2023,Masculino
+Jorge,Ramirez,58,1477132-7,Capital,Desarrollador,12,2556197,Junio,2022,Masculino
+Jorge,Ramirez,58,1477132-7,Capital,Desarrollador,12,2658444,Marzo,2022,Masculino
+Jorge,Ramirez,58,1477132-7,Capital,Desarrollador,12,2764781,Marzo,2023,Masculino
+Jorge,Ramirez,58,1477132-7,Capital,Desarrollador,12,2903020,Mayo,2022,Masculino
+Jorge,Ramirez,58,1477132-7,Capital,Desarrollador,12,3019140,Mayo,2023,Masculino
+Jorge,Ramirez,58,1477132-7,Capital,Desarrollador,12,3170097,Noviembre,2022,Masculino
+Jorge,Ramirez,58,1477132-7,Capital,Desarrollador,12,3296900,Noviembre,2023,Masculino
+Jorge,Ramirez,58,1477132-7,Capital,Desarrollador,12,3461745,Octubre,2022,Masculino
+Jorge,Ramirez,58,1477132-7,Capital,Desarrollador,12,3600214,Octubre,2023,Masculino
+Jorge,Ramirez,58,1477132-7,Capital,Desarrollador,12,3780224,Septiembre,2022,Masculino
+Jorge,Ramirez,58,1477132-7,Capital,Desarrollador,12,3931432,Septiembre,2023,Masculino
+Luis,Rodriguez,43,21180508-8,Provida,Ingeniero,6,1082838,Abril,2023,Masculino
+Luis,Rodriguez,43,21180508-8,Provida,Ingeniero,6,1136979,Abril,2022,Masculino
+Luis,Rodriguez,43,21180508-8,Provida,Ingeniero,6,1182458,Agosto,2023,Masculino
+Luis,Rodriguez,43,21180508-8,Provida,Ingeniero,6,1241580,Agosto,2022,Masculino
+Luis,Rodriguez,43,21180508-8,Provida,Ingeniero,6,1291243,Diciembre,2021,Masculino
+Luis,Rodriguez,43,21180508-8,Provida,Ingeniero,6,1329980,Diciembre,2022,Masculino
+Luis,Rodriguez,43,21180508-8,Provida,Ingeniero,6,1383179,Diciembre,2023,Masculino
+Luis,Rodriguez,43,21180508-8,Provida,Ingeniero,6,1452337,Enero,2022,Masculino
+Luis,Rodriguez,43,21180508-8,Provida,Ingeniero,6,1510430,Enero,2023,Masculino
+Luis,Rodriguez,43,21180508-8,Provida,Ingeniero,6,1585951,Febrero,2022,Masculino
+Luis,Rodriguez,43,21180508-8,Provida,Ingeniero,6,1649389,Febrero,2023,Masculino
+Luis,Rodriguez,43,21180508-8,Provida,Ingeniero,6,1731858,Julio,2022,Masculino
+Luis,Rodriguez,43,21180508-8,Provida,Ingeniero,6,1801132,Julio,2023,Masculino
+Luis,Rodriguez,43,21180508-8,Provida,Ingeniero,6,1891188,Junio,2023,Masculino
+Luis,Rodriguez,43,21180508-8,Provida,Ingeniero,6,1985747,Junio,2022,Masculino
+Luis,Rodriguez,43,21180508-8,Provida,Ingeniero,6,2065176,Marzo,2022,Masculino
+Luis,Rodriguez,43,21180508-8,Provida,Ingeniero,6,2147783,Marzo,2023,Masculino
+Luis,Rodriguez,43,21180508-8,Provida,Ingeniero,6,2255172,Mayo,2022,Masculino
+Luis,Rodriguez,43,21180508-8,Provida,Ingeniero,6,2345378,Mayo,2023,Masculino
+Luis,Rodriguez,43,21180508-8,Provida,Ingeniero,6,2462646,Noviembre,2022,Masculino
+Luis,Rodriguez,43,21180508-8,Provida,Ingeniero,6,2561151,Noviembre,2023,Masculino
+Luis,Rodriguez,43,21180508-8,Provida,Ingeniero,6,2689208,Octubre,2022,Masculino
+Luis,Rodriguez,43,21180508-8,Provida,Ingeniero,6,2796776,Octubre,2023,Masculino
+Luis,Rodriguez,43,21180508-8,Provida,Ingeniero,6,2936614,Septiembre,2022,Masculino
+Luis,Rodriguez,43,21180508-8,Provida,Ingeniero,6,3054078,Septiembre,2023,Masculino
+Lucia,Rodriguez,31,21165297-0,Habitat,Ingeniero,11,1684672,Abril,2023,Femenino
+Lucia,Rodriguez,31,21165297-0,Habitat,Ingeniero,11,1768905,Abril,2022,Femenino
+Lucia,Rodriguez,31,21165297-0,Habitat,Ingeniero,11,1839661,Agosto,2023,Femenino
+Lucia,Rodriguez,31,21165297-0,Habitat,Ingeniero,11,1931644,Agosto,2022,Femenino
+Lucia,Rodriguez,31,21165297-0,Habitat,Ingeniero,11,2008909,Diciembre,2021,Femenino
+Lucia,Rodriguez,31,21165297-0,Habitat,Ingeniero,11,2069176,Diciembre,2022,Femenino
+Lucia,Rodriguez,31,21165297-0,Habitat,Ingeniero,11,2151943,Diciembre,2023,Femenino
+Lucia,Rodriguez,31,21165297-0,Habitat,Ingeniero,11,2259540,Enero,2022,Femenino
+Lucia,Rodriguez,31,21165297-0,Habitat,Ingeniero,11,2349921,Enero,2023,Femenino
+Lucia,Rodriguez,31,21165297-0,Habitat,Ingeniero,11,2467417,Febrero,2022,Femenino
+Lucia,Rodriguez,31,21165297-0,Habitat,Ingeniero,11,2566113,Febrero,2023,Femenino
+Lucia,Rodriguez,31,21165297-0,Habitat,Ingeniero,11,2694418,Julio,2022,Femenino
+Lucia,Rodriguez,31,21165297-0,Habitat,Ingeniero,11,2802194,Julio,2023,Femenino
+Lucia,Rodriguez,31,21165297-0,Habitat,Ingeniero,11,2942303,Junio,2023,Femenino
+Lucia,Rodriguez,31,21165297-0,Habitat,Ingeniero,11,3089418,Junio,2022,Femenino
+Lucia,Rodriguez,31,21165297-0,Habitat,Ingeniero,11,3212994,Marzo,2022,Femenino
+Lucia,Rodriguez,31,21165297-0,Habitat,Ingeniero,11,3341513,Marzo,2023,Femenino
+Lucia,Rodriguez,31,21165297-0,Habitat,Ingeniero,11,3508588,Mayo,2022,Femenino
+Lucia,Rodriguez,31,21165297-0,Habitat,Ingeniero,11,3648931,Mayo,2023,Femenino
+Lucia,Rodriguez,31,21165297-0,Habitat,Ingeniero,11,3831377,Noviembre,2022,Femenino
+Lucia,Rodriguez,31,21165297-0,Habitat,Ingeniero,11,3984632,Noviembre,2023,Femenino
+Lucia,Rodriguez,31,21165297-0,Habitat,Ingeniero,11,4183863,Octubre,2022,Femenino
+Lucia,Rodriguez,31,21165297-0,Habitat,Ingeniero,11,4351217,Octubre,2023,Femenino
+Lucia,Rodriguez,31,21165297-0,Habitat,Ingeniero,11,4568777,Septiembre,2022,Femenino
+Lucia,Rodriguez,31,21165297-0,Habitat,Ingeniero,11,4751528,Septiembre,2023,Femenino
+Maria,Rodriguez,28,1448970-0,PlanVital,Desarrollador,15,1681770,Abril,2023,Femenino
+Maria,Rodriguez,28,1448970-0,PlanVital,Desarrollador,15,1765858,Abril,2022,Femenino
+Maria,Rodriguez,28,1448970-0,PlanVital,Desarrollador,15,1836492,Agosto,2023,Femenino
+Maria,Rodriguez,28,1448970-0,PlanVital,Desarrollador,15,1928316,Agosto,2022,Femenino
+Maria,Rodriguez,28,1448970-0,PlanVital,Desarrollador,15,2005448,Diciembre,2021,Femenino
+Maria,Rodriguez,28,1448970-0,PlanVital,Desarrollador,15,2065611,Diciembre,2022,Femenino
+Maria,Rodriguez,28,1448970-0,PlanVital,Desarrollador,15,2148235,Diciembre,2023,Femenino
+Maria,Rodriguez,28,1448970-0,PlanVital,Desarrollador,15,2255646,Enero,2022,Femenino
+Maria,Rodriguez,28,1448970-0,PlanVital,Desarrollador,15,2345871,Enero,2023,Femenino
+Maria,Rodriguez,28,1448970-0,PlanVital,Desarrollador,15,2463164,Febrero,2022,Femenino
+Maria,Rodriguez,28,1448970-0,PlanVital,Desarrollador,15,2561690,Febrero,2023,Femenino
+Maria,Rodriguez,28,1448970-0,PlanVital,Desarrollador,15,2689774,Julio,2022,Femenino
+Maria,Rodriguez,28,1448970-0,PlanVital,Desarrollador,15,2797364,Julio,2023,Femenino
+Maria,Rodriguez,28,1448970-0,PlanVital,Desarrollador,15,2937232,Junio,2023,Femenino
+Maria,Rodriguez,28,1448970-0,PlanVital,Desarrollador,15,3084093,Junio,2022,Femenino
+Maria,Rodriguez,28,1448970-0,PlanVital,Desarrollador,15,3207456,Marzo,2022,Femenino
+Maria,Rodriguez,28,1448970-0,PlanVital,Desarrollador,15,3335754,Marzo,2023,Femenino
+Maria,Rodriguez,28,1448970-0,PlanVital,Desarrollador,15,3502541,Mayo,2022,Femenino
+Maria,Rodriguez,28,1448970-0,PlanVital,Desarrollador,15,3642642,Mayo,2023,Femenino
+Maria,Rodriguez,28,1448970-0,PlanVital,Desarrollador,15,3824774,Noviembre,2022,Femenino
+Maria,Rodriguez,28,1448970-0,PlanVital,Desarrollador,15,3977764,Noviembre,2023,Femenino
+Maria,Rodriguez,28,1448970-0,PlanVital,Desarrollador,15,4176652,Octubre,2022,Femenino
+Maria,Rodriguez,28,1448970-0,PlanVital,Desarrollador,15,4343718,Octubre,2023,Femenino
+Maria,Rodriguez,28,1448970-0,PlanVital,Desarrollador,15,4560903,Septiembre,2022,Femenino
+Maria,Rodriguez,28,1448970-0,PlanVital,Desarrollador,15,4743339,Septiembre,2023,Femenino
+Luis,Sanchez,31,20303592-2,PlanVital,Desarrollador,20,1786191,Abril,2023,Masculino
+Luis,Sanchez,31,20303592-2,PlanVital,Desarrollador,20,1875500,Abril,2022,Masculino
+Luis,Sanchez,31,20303592-2,PlanVital,Desarrollador,20,1950520,Agosto,2023,Masculino
+Luis,Sanchez,31,20303592-2,PlanVital,Desarrollador,20,2048046,Agosto,2022,Masculino
+Luis,Sanchez,31,20303592-2,PlanVital,Desarrollador,20,2129967,Diciembre,2021,Masculino
+Luis,Sanchez,31,20303592-2,PlanVital,Desarrollador,20,2193866,Diciembre,2022,Masculino
+Luis,Sanchez,31,20303592-2,PlanVital,Desarrollador,20,2281620,Diciembre,2023,Masculino
+Luis,Sanchez,31,20303592-2,PlanVital,Desarrollador,20,2395701,Enero,2022,Masculino
+Luis,Sanchez,31,20303592-2,PlanVital,Desarrollador,20,2491529,Enero,2023,Masculino
+Luis,Sanchez,31,20303592-2,PlanVital,Desarrollador,20,2616105,Febrero,2022,Masculino
+Luis,Sanchez,31,20303592-2,PlanVital,Desarrollador,20,2720749,Febrero,2023,Masculino
+Luis,Sanchez,31,20303592-2,PlanVital,Desarrollador,20,2856786,Julio,2022,Masculino
+Luis,Sanchez,31,20303592-2,PlanVital,Desarrollador,20,2971057,Julio,2023,Masculino
+Luis,Sanchez,31,20303592-2,PlanVital,Desarrollador,20,3119609,Junio,2023,Masculino
+Luis,Sanchez,31,20303592-2,PlanVital,Desarrollador,20,3275589,Junio,2022,Masculino
+Luis,Sanchez,31,20303592-2,PlanVital,Desarrollador,20,3406612,Marzo,2022,Masculino
+Luis,Sanchez,31,20303592-2,PlanVital,Desarrollador,20,3542876,Marzo,2023,Masculino
+Luis,Sanchez,31,20303592-2,PlanVital,Desarrollador,20,3720019,Mayo,2022,Masculino
+Luis,Sanchez,31,20303592-2,PlanVital,Desarrollador,20,3868819,Mayo,2023,Masculino
+Luis,Sanchez,31,20303592-2,PlanVital,Desarrollador,20,4062259,Noviembre,2022,Masculino
+Luis,Sanchez,31,20303592-2,PlanVital,Desarrollador,20,4224749,Noviembre,2023,Masculino
+Luis,Sanchez,31,20303592-2,PlanVital,Desarrollador,20,4435986,Octubre,2022,Masculino
+Luis,Sanchez,31,20303592-2,PlanVital,Desarrollador,20,4613425,Octubre,2023,Masculino
+Luis,Sanchez,31,20303592-2,PlanVital,Desarrollador,20,4844096,Septiembre,2022,Masculino
+Luis,Sanchez,31,20303592-2,PlanVital,Desarrollador,20,5037859,Septiembre,2023,Masculino
+Ana,Diaz,54,14707201-4,PlanVital,Gerente,2,1352651,Abril,2023,Femenino
+Ana,Diaz,54,14707201-4,PlanVital,Gerente,2,1420283,Abril,2022,Femenino
+Ana,Diaz,54,14707201-4,PlanVital,Gerente,2,1477094,Agosto,2023,Femenino
+Ana,Diaz,54,14707201-4,PlanVital,Gerente,2,1550948,Agosto,2022,Femenino
+Ana,Diaz,54,14707201-4,PlanVital,Gerente,2,1612985,Diciembre,2022,Femenino
+Ana,Diaz,54,14707201-4,PlanVital,Gerente,2,1677504,Diciembre,2023,Femenino
+Ana,Diaz,54,14707201-4,PlanVital,Gerente,2,1761379,Enero,2022,Femenino
+Ana,Diaz,54,14707201-4,PlanVital,Gerente,2,1831834,Enero,2023,Femenino
+Ana,Diaz,54,14707201-4,PlanVital,Gerente,2,1923425,Febrero,2022,Femenino
+Ana,Diaz,54,14707201-4,PlanVital,Gerente,2,2000362,Febrero,2023,Femenino
+Ana,Diaz,54,14707201-4,PlanVital,Gerente,2,2100380,Julio,2023,Femenino
+Ana,Diaz,54,14707201-4,PlanVital,Gerente,2,2205399,Julio,2022,Femenino
+Ana,Diaz,54,14707201-4,PlanVital,Gerente,2,2293614,Junio,2022,Femenino
+Ana,Diaz,54,14707201-4,PlanVital,Gerente,2,2385358,Junio,2023,Femenino
+Ana,Diaz,54,14707201-4,PlanVital,Gerente,2,2504625,Marzo,2022,Femenino
+Ana,Diaz,54,14707201-4,PlanVital,Gerente,2,2604810,Marzo,2023,Femenino
+Ana,Diaz,54,14707201-4,PlanVital,Gerente,2,2735050,Mayo,2023,Femenino
+Ana,Diaz,54,14707201-4,PlanVital,Gerente,2,2871802,Mayo,2022,Femenino
+Ana,Diaz,54,14707201-4,PlanVital,Gerente,2,2986674,Noviembre,2022,Femenino
+Ana,Diaz,54,14707201-4,PlanVital,Gerente,2,3106140,Noviembre,2023,Femenino
+Ana,Diaz,54,14707201-4,PlanVital,Gerente,2,3261447,Octubre,2022,Femenino
+Ana,Diaz,54,14707201-4,PlanVital,Gerente,2,3391904,Octubre,2023,Femenino
+Ana,Diaz,54,14707201-4,PlanVital,Gerente,2,3561499,Septiembre,2022,Femenino
+Ana,Diaz,54,14707201-4,PlanVital,Gerente,2,3703958,Septiembre,2023,Femenino
+Luis,Perez,30,19388768-5,Modelo,Contador,3,1813430,Abril,2023,Masculino
+Luis,Perez,30,19388768-5,Modelo,Contador,3,1904101,Abril,2022,Masculino
+Luis,Perez,30,19388768-5,Modelo,Contador,3,1980265,Agosto,2023,Masculino
+Luis,Perez,30,19388768-5,Modelo,Contador,3,2079278,Agosto,2022,Masculino
+Luis,Perez,30,19388768-5,Modelo,Contador,3,2162449,Diciembre,2021,Masculino
+Luis,Perez,30,19388768-5,Modelo,Contador,3,2227322,Diciembre,2022,Masculino
+Luis,Perez,30,19388768-5,Modelo,Contador,3,2316414,Diciembre,2023,Masculino
+Luis,Perez,30,19388768-5,Modelo,Contador,3,2432234,Enero,2022,Masculino
+Luis,Perez,30,19388768-5,Modelo,Contador,3,2529523,Enero,2023,Masculino
+Luis,Perez,30,19388768-5,Modelo,Contador,3,2655999,Febrero,2022,Masculino
+Luis,Perez,30,19388768-5,Modelo,Contador,3,2762238,Febrero,2023,Masculino
+Luis,Perez,30,19388768-5,Modelo,Contador,3,2900349,Julio,2022,Masculino
+Luis,Perez,30,19388768-5,Modelo,Contador,3,3016362,Julio,2023,Masculino
+Luis,Perez,30,19388768-5,Modelo,Contador,3,3167180,Junio,2023,Masculino
+Luis,Perez,30,19388768-5,Modelo,Contador,3,3325539,Junio,2022,Masculino
+Luis,Perez,30,19388768-5,Modelo,Contador,3,3458560,Marzo,2022,Masculino
+Luis,Perez,30,19388768-5,Modelo,Contador,3,3596902,Marzo,2023,Masculino
+Luis,Perez,30,19388768-5,Modelo,Contador,3,3776747,Mayo,2022,Masculino
+Luis,Perez,30,19388768-5,Modelo,Contador,3,3927816,Mayo,2023,Masculino
+Luis,Perez,30,19388768-5,Modelo,Contador,3,4124206,Noviembre,2022,Masculino
+Luis,Perez,30,19388768-5,Modelo,Contador,3,4289174,Noviembre,2023,Masculino
+Luis,Perez,30,19388768-5,Modelo,Contador,3,4503632,Octubre,2022,Masculino
+Luis,Perez,30,19388768-5,Modelo,Contador,3,4683777,Octubre,2023,Masculino
+Luis,Perez,30,19388768-5,Modelo,Contador,3,4917965,Septiembre,2022,Masculino
+Luis,Perez,30,19388768-5,Modelo,Contador,3,5114683,Septiembre,2023,Masculino
+Pedro,Ramirez,35,5043640-3,Habitat,Técnico,5,1245021,Abril,2023,Masculino
+Pedro,Ramirez,35,5043640-3,Habitat,Técnico,5,1307272,Abril,2022,Masculino
+Pedro,Ramirez,35,5043640-3,Habitat,Técnico,5,1359562,Agosto,2023,Masculino
+Pedro,Ramirez,35,5043640-3,Habitat,Técnico,5,1427540,Agosto,2022,Masculino
+Pedro,Ramirez,35,5043640-3,Habitat,Técnico,5,1484641,Diciembre,2021,Masculino
+Pedro,Ramirez,35,5043640-3,Habitat,Técnico,5,1529180,Diciembre,2022,Masculino
+Pedro,Ramirez,35,5043640-3,Habitat,Técnico,5,1590347,Diciembre,2023,Masculino
+Pedro,Ramirez,35,5043640-3,Habitat,Técnico,5,1669864,Enero,2022,Masculino
+Pedro,Ramirez,35,5043640-3,Habitat,Técnico,5,1736658,Enero,2023,Masculino
+Pedro,Ramirez,35,5043640-3,Habitat,Técnico,5,1823490,Febrero,2022,Masculino
+Pedro,Ramirez,35,5043640-3,Habitat,Técnico,5,1896429,Febrero,2023,Masculino
+Pedro,Ramirez,35,5043640-3,Habitat,Técnico,5,1991250,Julio,2022,Masculino
+Pedro,Ramirez,35,5043640-3,Habitat,Técnico,5,2070900,Julio,2023,Masculino
+Pedro,Ramirez,35,5043640-3,Habitat,Técnico,5,2174445,Junio,2023,Masculino
+Pedro,Ramirez,35,5043640-3,Habitat,Técnico,5,2283167,Junio,2022,Masculino
+Pedro,Ramirez,35,5043640-3,Habitat,Técnico,5,2374493,Marzo,2022,Masculino
+Pedro,Ramirez,35,5043640-3,Habitat,Técnico,5,2469472,Marzo,2023,Masculino
+Pedro,Ramirez,35,5043640-3,Habitat,Técnico,5,2592945,Mayo,2022,Masculino
+Pedro,Ramirez,35,5043640-3,Habitat,Técnico,5,2696662,Mayo,2023,Masculino
+Pedro,Ramirez,35,5043640-3,Habitat,Técnico,5,2831495,Noviembre,2022,Masculino
+Pedro,Ramirez,35,5043640-3,Habitat,Técnico,5,2944754,Noviembre,2023,Masculino
+Pedro,Ramirez,35,5043640-3,Habitat,Técnico,5,3091991,Octubre,2022,Masculino
+Pedro,Ramirez,35,5043640-3,Habitat,Técnico,5,3215670,Octubre,2023,Masculino
+Pedro,Ramirez,35,5043640-3,Habitat,Técnico,5,3376453,Septiembre,2022,Masculino
+Pedro,Ramirez,35,5043640-3,Habitat,Técnico,5,3511511,Septiembre,2023,Masculino
+Carlos,Lopez,42,1928284-5,PlanVital,Contador,8,1969745,Abril,2023,Masculino
+Carlos,Lopez,42,1928284-5,PlanVital,Contador,8,2068232,Abril,2022,Masculino
+Carlos,Lopez,42,1928284-5,PlanVital,Contador,8,2150961,Agosto,2023,Masculino
+Carlos,Lopez,42,1928284-5,PlanVital,Contador,8,2258509,Agosto,2022,Masculino
+Carlos,Lopez,42,1928284-5,PlanVital,Contador,8,2348849,Diciembre,2021,Masculino
+Carlos,Lopez,42,1928284-5,PlanVital,Contador,8,2419314,Diciembre,2022,Masculino
+Carlos,Lopez,42,1928284-5,PlanVital,Contador,8,2516086,Diciembre,2023,Masculino
+Carlos,Lopez,42,1928284-5,PlanVital,Contador,8,2641890,Enero,2022,Masculino
+Carlos,Lopez,42,1928284-5,PlanVital,Contador,8,2747565,Enero,2023,Masculino
+Carlos,Lopez,42,1928284-5,PlanVital,Contador,8,2884943,Febrero,2022,Masculino
+Carlos,Lopez,42,1928284-5,PlanVital,Contador,8,3000340,Febrero,2023,Masculino
+Carlos,Lopez,42,1928284-5,PlanVital,Contador,8,3150357,Julio,2022,Masculino
+Carlos,Lopez,42,1928284-5,PlanVital,Contador,8,3276371,Julio,2023,Masculino
+Carlos,Lopez,42,1928284-5,PlanVital,Contador,8,3440189,Junio,2023,Masculino
+Carlos,Lopez,42,1928284-5,PlanVital,Contador,8,3612198,Junio,2022,Masculino
+Carlos,Lopez,42,1928284-5,PlanVital,Contador,8,3756685,Marzo,2022,Masculino
+Carlos,Lopez,42,1928284-5,PlanVital,Contador,8,3906952,Marzo,2023,Masculino
+Carlos,Lopez,42,1928284-5,PlanVital,Contador,8,4102299,Mayo,2022,Masculino
+Carlos,Lopez,42,1928284-5,PlanVital,Contador,8,4266390,Mayo,2023,Masculino
+Carlos,Lopez,42,1928284-5,PlanVital,Contador,8,4479709,Noviembre,2022,Masculino
+Carlos,Lopez,42,1928284-5,PlanVital,Contador,8,4658897,Noviembre,2023,Masculino
+Carlos,Lopez,42,1928284-5,PlanVital,Contador,8,4891841,Octubre,2022,Masculino
+Carlos,Lopez,42,1928284-5,PlanVital,Contador,8,5087514,Octubre,2023,Masculino
+Carlos,Lopez,42,1928284-5,PlanVital,Contador,8,5341889,Septiembre,2022,Masculino
+Carlos,Lopez,42,1928284-5,PlanVital,Contador,8,5555564,Septiembre,2023,Masculino
+Maria,Sanchez,49,16266140-4,Cuprum,Ingeniero,19,1727485,Abril,2023,Femenino
+Maria,Sanchez,49,16266140-4,Cuprum,Ingeniero,19,1813859,Abril,2022,Femenino
+Maria,Sanchez,49,16266140-4,Cuprum,Ingeniero,19,1886413,Agosto,2023,Femenino
+Maria,Sanchez,49,16266140-4,Cuprum,Ingeniero,19,1980733,Agosto,2022,Femenino
+Maria,Sanchez,49,16266140-4,Cuprum,Ingeniero,19,2059962,Diciembre,2021,Femenino
+Maria,Sanchez,49,16266140-4,Cuprum,Ingeniero,19,2121760,Diciembre,2022,Femenino
+Maria,Sanchez,49,16266140-4,Cuprum,Ingeniero,19,2206630,Diciembre,2023,Femenino
+Maria,Sanchez,49,16266140-4,Cuprum,Ingeniero,19,2316961,Enero,2022,Femenino
+Maria,Sanchez,49,16266140-4,Cuprum,Ingeniero,19,2409639,Enero,2023,Femenino
+Maria,Sanchez,49,16266140-4,Cuprum,Ingeniero,19,2530120,Febrero,2022,Femenino
+Maria,Sanchez,49,16266140-4,Cuprum,Ingeniero,19,2631324,Febrero,2023,Femenino
+Maria,Sanchez,49,16266140-4,Cuprum,Ingeniero,19,2762890,Julio,2022,Femenino
+Maria,Sanchez,49,16266140-4,Cuprum,Ingeniero,19,2873405,Julio,2023,Femenino
+Maria,Sanchez,49,16266140-4,Cuprum,Ingeniero,19,3017075,Junio,2023,Femenino
+Maria,Sanchez,49,16266140-4,Cuprum,Ingeniero,19,3167928,Junio,2022,Femenino
+Maria,Sanchez,49,16266140-4,Cuprum,Ingeniero,19,3294645,Marzo,2022,Femenino
+Maria,Sanchez,49,16266140-4,Cuprum,Ingeniero,19,3426430,Marzo,2023,Femenino
+Maria,Sanchez,49,16266140-4,Cuprum,Ingeniero,19,3597751,Mayo,2022,Femenino
+Maria,Sanchez,49,16266140-4,Cuprum,Ingeniero,19,3741661,Mayo,2023,Femenino
+Maria,Sanchez,49,16266140-4,Cuprum,Ingeniero,19,3928744,Noviembre,2022,Femenino
+Maria,Sanchez,49,16266140-4,Cuprum,Ingeniero,19,4085893,Noviembre,2023,Femenino
+Maria,Sanchez,49,16266140-4,Cuprum,Ingeniero,19,4290187,Octubre,2022,Femenino
+Maria,Sanchez,49,16266140-4,Cuprum,Ingeniero,19,4461794,Octubre,2023,Femenino
+Maria,Sanchez,49,16266140-4,Cuprum,Ingeniero,19,4684883,Septiembre,2022,Femenino
+Maria,Sanchez,49,16266140-4,Cuprum,Ingeniero,19,4872278,Septiembre,2023,Femenino
+Carlos,Sanchez,27,23601246-3,PlanVital,Técnico,4,1623844,Abril,2023,Masculino
+Carlos,Sanchez,27,23601246-3,PlanVital,Técnico,4,1705036,Abril,2022,Masculino
+Carlos,Sanchez,27,23601246-3,PlanVital,Técnico,4,1773237,Agosto,2023,Masculino
+Carlos,Sanchez,27,23601246-3,PlanVital,Técnico,4,1861898,Agosto,2022,Masculino
+Carlos,Sanchez,27,23601246-3,PlanVital,Técnico,4,1936373,Diciembre,2021,Masculino
+Carlos,Sanchez,27,23601246-3,PlanVital,Técnico,4,1994464,Diciembre,2022,Masculino
+Carlos,Sanchez,27,23601246-3,PlanVital,Técnico,4,2074242,Diciembre,2023,Masculino
+Carlos,Sanchez,27,23601246-3,PlanVital,Técnico,4,2177954,Enero,2022,Masculino
+Carlos,Sanchez,27,23601246-3,PlanVital,Técnico,4,2265072,Enero,2023,Masculino
+Carlos,Sanchez,27,23601246-3,PlanVital,Técnico,4,2378325,Febrero,2022,Masculino
+Carlos,Sanchez,27,23601246-3,PlanVital,Técnico,4,2473458,Febrero,2023,Masculino
+Carlos,Sanchez,27,23601246-3,PlanVital,Técnico,4,2597130,Julio,2022,Masculino
+Carlos,Sanchez,27,23601246-3,PlanVital,Técnico,4,2701015,Julio,2023,Masculino
+Carlos,Sanchez,27,23601246-3,PlanVital,Técnico,4,2836065,Junio,2023,Masculino
+Carlos,Sanchez,27,23601246-3,PlanVital,Técnico,4,2977868,Junio,2022,Masculino
+Carlos,Sanchez,27,23601246-3,PlanVital,Técnico,4,3096982,Marzo,2022,Masculino
+Carlos,Sanchez,27,23601246-3,PlanVital,Técnico,4,3220861,Marzo,2023,Masculino
+Carlos,Sanchez,27,23601246-3,PlanVital,Técnico,4,3381904,Mayo,2022,Masculino
+Carlos,Sanchez,27,23601246-3,PlanVital,Técnico,4,3517180,Mayo,2023,Masculino
+Carlos,Sanchez,27,23601246-3,PlanVital,Técnico,4,3693039,Noviembre,2022,Masculino
+Carlos,Sanchez,27,23601246-3,PlanVital,Técnico,4,3840760,Noviembre,2023,Masculino
+Carlos,Sanchez,27,23601246-3,PlanVital,Técnico,4,4032798,Octubre,2022,Masculino
+Carlos,Sanchez,27,23601246-3,PlanVital,Técnico,4,4194109,Octubre,2023,Masculino
+Carlos,Sanchez,27,23601246-3,PlanVital,Técnico,4,4403814,Septiembre,2022,Masculino
+Carlos,Sanchez,27,23601246-3,PlanVital,Técnico,4,4579966,Septiembre,2023,Masculino
+Pedro,Rodriguez,34,4505671-9,Habitat,Jefe de Proyectos,13,1603703,Abril,2023,Masculino
+Pedro,Rodriguez,34,4505671-9,Habitat,Jefe de Proyectos,13,1683888,Abril,2022,Masculino
+Pedro,Rodriguez,34,4505671-9,Habitat,Jefe de Proyectos,13,1751243,Agosto,2023,Masculino
+Pedro,Rodriguez,34,4505671-9,Habitat,Jefe de Proyectos,13,1838805,Agosto,2022,Masculino
+Pedro,Rodriguez,34,4505671-9,Habitat,Jefe de Proyectos,13,1912357,Diciembre,2021,Masculino
+Pedro,Rodriguez,34,4505671-9,Habitat,Jefe de Proyectos,13,1969727,Diciembre,2022,Masculino
+Pedro,Rodriguez,34,4505671-9,Habitat,Jefe de Proyectos,13,2048516,Diciembre,2023,Masculino
+Pedro,Rodriguez,34,4505671-9,Habitat,Jefe de Proyectos,13,2150941,Enero,2022,Masculino
+Pedro,Rodriguez,34,4505671-9,Habitat,Jefe de Proyectos,13,2236978,Enero,2023,Masculino
+Pedro,Rodriguez,34,4505671-9,Habitat,Jefe de Proyectos,13,2348826,Febrero,2022,Masculino
+Pedro,Rodriguez,34,4505671-9,Habitat,Jefe de Proyectos,13,2442779,Febrero,2023,Masculino
+Pedro,Rodriguez,34,4505671-9,Habitat,Jefe de Proyectos,13,2564917,Julio,2022,Masculino
+Pedro,Rodriguez,34,4505671-9,Habitat,Jefe de Proyectos,13,2667513,Julio,2023,Masculino
+Pedro,Rodriguez,34,4505671-9,Habitat,Jefe de Proyectos,13,2800888,Junio,2023,Masculino
+Pedro,Rodriguez,34,4505671-9,Habitat,Jefe de Proyectos,13,2940932,Junio,2022,Masculino
+Pedro,Rodriguez,34,4505671-9,Habitat,Jefe de Proyectos,13,3058569,Marzo,2022,Masculino
+Pedro,Rodriguez,34,4505671-9,Habitat,Jefe de Proyectos,13,3180911,Marzo,2023,Masculino
+Pedro,Rodriguez,34,4505671-9,Habitat,Jefe de Proyectos,13,3339956,Mayo,2022,Masculino
+Pedro,Rodriguez,34,4505671-9,Habitat,Jefe de Proyectos,13,3473554,Mayo,2023,Masculino
+Pedro,Rodriguez,34,4505671-9,Habitat,Jefe de Proyectos,13,3647231,Noviembre,2022,Masculino
+Pedro,Rodriguez,34,4505671-9,Habitat,Jefe de Proyectos,13,3793120,Noviembre,2023,Masculino
+Pedro,Rodriguez,34,4505671-9,Habitat,Jefe de Proyectos,13,3982776,Octubre,2022,Masculino
+Pedro,Rodriguez,34,4505671-9,Habitat,Jefe de Proyectos,13,4142087,Octubre,2023,Masculino
+Pedro,Rodriguez,34,4505671-9,Habitat,Jefe de Proyectos,13,4349191,Septiembre,2022,Masculino
+Pedro,Rodriguez,34,4505671-9,Habitat,Jefe de Proyectos,13,4523158,Septiembre,2023,Masculino
+Luis,Martinez,27,8449014-3,Cuprum,Gerente,16,1095942,Abril,2023,Masculino
+Luis,Martinez,27,8449014-3,Cuprum,Gerente,16,1150739,Abril,2022,Masculino
+Luis,Martinez,27,8449014-3,Cuprum,Gerente,16,1196768,Agosto,2023,Masculino
+Luis,Martinez,27,8449014-3,Cuprum,Gerente,16,1256606,Agosto,2022,Masculino
+Luis,Martinez,27,8449014-3,Cuprum,Gerente,16,1306870,Diciembre,2021,Masculino
+Luis,Martinez,27,8449014-3,Cuprum,Gerente,16,1346076,Diciembre,2022,Masculino
+Luis,Martinez,27,8449014-3,Cuprum,Gerente,16,1399919,Diciembre,2023,Masculino
+Luis,Martinez,27,8449014-3,Cuprum,Gerente,16,1469914,Enero,2022,Masculino
+Luis,Martinez,27,8449014-3,Cuprum,Gerente,16,1528710,Enero,2023,Masculino
+Luis,Martinez,27,8449014-3,Cuprum,Gerente,16,1605145,Febrero,2022,Masculino
+Luis,Martinez,27,8449014-3,Cuprum,Gerente,16,1669350,Febrero,2023,Masculino
+Luis,Martinez,27,8449014-3,Cuprum,Gerente,16,1752817,Julio,2022,Masculino
+Luis,Martinez,27,8449014-3,Cuprum,Gerente,16,1822929,Julio,2023,Masculino
+Luis,Martinez,27,8449014-3,Cuprum,Gerente,16,1914075,Junio,2023,Masculino
+Luis,Martinez,27,8449014-3,Cuprum,Gerente,16,2009778,Junio,2022,Masculino
+Luis,Martinez,27,8449014-3,Cuprum,Gerente,16,2090169,Marzo,2022,Masculino
+Luis,Martinez,27,8449014-3,Cuprum,Gerente,16,2173775,Marzo,2023,Masculino
+Luis,Martinez,27,8449014-3,Cuprum,Gerente,16,2282463,Mayo,2022,Masculino
+Luis,Martinez,27,8449014-3,Cuprum,Gerente,16,2373761,Mayo,2023,Masculino
+Luis,Martinez,27,8449014-3,Cuprum,Gerente,16,2492449,Noviembre,2022,Masculino
+Luis,Martinez,27,8449014-3,Cuprum,Gerente,16,2592146,Noviembre,2023,Masculino
+Luis,Martinez,27,8449014-3,Cuprum,Gerente,16,2721753,Octubre,2022,Masculino
+Luis,Martinez,27,8449014-3,Cuprum,Gerente,16,2830623,Octubre,2023,Masculino
+Luis,Martinez,27,8449014-3,Cuprum,Gerente,16,2972154,Septiembre,2022,Masculino
+Luis,Martinez,27,8449014-3,Cuprum,Gerente,16,3091040,Septiembre,2023,Masculino
+Clara,Gonzalez,25,4145751-8,Cuprum,Desarrollador,8,1274640,Abril,2023,Femenino
+Clara,Gonzalez,25,4145751-8,Cuprum,Desarrollador,8,1338372,Abril,2022,Femenino
+Clara,Gonzalez,25,4145751-8,Cuprum,Desarrollador,8,1391906,Agosto,2023,Femenino
+Clara,Gonzalez,25,4145751-8,Cuprum,Desarrollador,8,1461501,Agosto,2022,Femenino
+Clara,Gonzalez,25,4145751-8,Cuprum,Desarrollador,8,1519961,Diciembre,2021,Femenino
+Clara,Gonzalez,25,4145751-8,Cuprum,Desarrollador,8,1565559,Diciembre,2022,Femenino
+Clara,Gonzalez,25,4145751-8,Cuprum,Desarrollador,8,1628181,Diciembre,2023,Femenino
+Clara,Gonzalez,25,4145751-8,Cuprum,Desarrollador,8,1709590,Enero,2022,Femenino
+Clara,Gonzalez,25,4145751-8,Cuprum,Desarrollador,8,1777973,Enero,2023,Femenino
+Clara,Gonzalez,25,4145751-8,Cuprum,Desarrollador,8,1866871,Febrero,2022,Femenino
+Clara,Gonzalez,25,4145751-8,Cuprum,Desarrollador,8,1941545,Febrero,2023,Femenino
+Clara,Gonzalez,25,4145751-8,Cuprum,Desarrollador,8,2038622,Julio,2022,Femenino
+Clara,Gonzalez,25,4145751-8,Cuprum,Desarrollador,8,2120166,Julio,2023,Femenino
+Clara,Gonzalez,25,4145751-8,Cuprum,Desarrollador,8,2226174,Junio,2023,Femenino
+Clara,Gonzalez,25,4145751-8,Cuprum,Desarrollador,8,2337482,Junio,2022,Femenino
+Clara,Gonzalez,25,4145751-8,Cuprum,Desarrollador,8,2430981,Marzo,2022,Femenino
+Clara,Gonzalez,25,4145751-8,Cuprum,Desarrollador,8,2528220,Marzo,2023,Femenino
+Clara,Gonzalez,25,4145751-8,Cuprum,Desarrollador,8,2654631,Mayo,2022,Femenino
+Clara,Gonzalez,25,4145751-8,Cuprum,Desarrollador,8,2760816,Mayo,2023,Femenino
+Clara,Gonzalez,25,4145751-8,Cuprum,Desarrollador,8,2898856,Noviembre,2022,Femenino
+Clara,Gonzalez,25,4145751-8,Cuprum,Desarrollador,8,3014810,Noviembre,2023,Femenino
+Clara,Gonzalez,25,4145751-8,Cuprum,Desarrollador,8,3165550,Octubre,2022,Femenino
+Clara,Gonzalez,25,4145751-8,Cuprum,Desarrollador,8,3292172,Octubre,2023,Femenino
+Clara,Gonzalez,25,4145751-8,Cuprum,Desarrollador,8,3456780,Septiembre,2022,Femenino
+Clara,Gonzalez,25,4145751-8,Cuprum,Desarrollador,8,3595051,Septiembre,2023,Femenino
+Maria,Lopez,30,4344612-4,Capital,Ingeniero,3,1750437,Abril,2023,Femenino
+Maria,Lopez,30,4344612-4,Capital,Ingeniero,3,1837958,Abril,2022,Femenino
+Maria,Lopez,30,4344612-4,Capital,Ingeniero,3,1911476,Agosto,2023,Femenino
+Maria,Lopez,30,4344612-4,Capital,Ingeniero,3,2007049,Agosto,2022,Femenino
+Maria,Lopez,30,4344612-4,Capital,Ingeniero,3,2087330,Diciembre,2021,Femenino
+Maria,Lopez,30,4344612-4,Capital,Ingeniero,3,2149949,Diciembre,2022,Femenino
+Maria,Lopez,30,4344612-4,Capital,Ingeniero,3,2235946,Diciembre,2023,Femenino
+Maria,Lopez,30,4344612-4,Capital,Ingeniero,3,2347743,Enero,2022,Femenino
+Maria,Lopez,30,4344612-4,Capital,Ingeniero,3,2441652,Enero,2023,Femenino
+Maria,Lopez,30,4344612-4,Capital,Ingeniero,3,2563734,Febrero,2022,Femenino
+Maria,Lopez,30,4344612-4,Capital,Ingeniero,3,2666283,Febrero,2023,Femenino
+Maria,Lopez,30,4344612-4,Capital,Ingeniero,3,2799597,Julio,2022,Femenino
+Maria,Lopez,30,4344612-4,Capital,Ingeniero,3,2911580,Julio,2023,Femenino
+Maria,Lopez,30,4344612-4,Capital,Ingeniero,3,3057159,Junio,2023,Femenino
+Maria,Lopez,30,4344612-4,Capital,Ingeniero,3,3210016,Junio,2022,Femenino
+Maria,Lopez,30,4344612-4,Capital,Ingeniero,3,3338416,Marzo,2022,Femenino
+Maria,Lopez,30,4344612-4,Capital,Ingeniero,3,3471952,Marzo,2023,Femenino
+Maria,Lopez,30,4344612-4,Capital,Ingeniero,3,3645549,Mayo,2022,Femenino
+Maria,Lopez,30,4344612-4,Capital,Ingeniero,3,3791370,Mayo,2023,Femenino
+Maria,Lopez,30,4344612-4,Capital,Ingeniero,3,3980938,Noviembre,2022,Femenino
+Maria,Lopez,30,4344612-4,Capital,Ingeniero,3,4140175,Noviembre,2023,Femenino
+Maria,Lopez,30,4344612-4,Capital,Ingeniero,3,4347183,Octubre,2022,Femenino
+Maria,Lopez,30,4344612-4,Capital,Ingeniero,3,4521070,Octubre,2023,Femenino
+Maria,Lopez,30,4344612-4,Capital,Ingeniero,3,4747123,Septiembre,2022,Femenino
+Maria,Lopez,30,4344612-4,Capital,Ingeniero,3,4937007,Septiembre,2023,Femenino
+Jorge,Martinez,41,16550375-8,Capital,Gerente,6,1122535,Abril,2023,Masculino
+Jorge,Martinez,41,16550375-8,Capital,Gerente,6,1178661,Abril,2022,Masculino
+Jorge,Martinez,41,16550375-8,Capital,Gerente,6,1225807,Agosto,2023,Masculino
+Jorge,Martinez,41,16550375-8,Capital,Gerente,6,1287097,Agosto,2022,Masculino
+Jorge,Martinez,41,16550375-8,Capital,Gerente,6,1338580,Diciembre,2021,Masculino
+Jorge,Martinez,41,16550375-8,Capital,Gerente,6,1378737,Diciembre,2022,Masculino
+Jorge,Martinez,41,16550375-8,Capital,Gerente,6,1433886,Diciembre,2023,Masculino
+Jorge,Martinez,41,16550375-8,Capital,Gerente,6,1505580,Enero,2022,Masculino
+Jorge,Martinez,41,16550375-8,Capital,Gerente,6,1565803,Enero,2023,Masculino
+Jorge,Martinez,41,16550375-8,Capital,Gerente,6,1644093,Febrero,2022,Masculino
+Jorge,Martinez,41,16550375-8,Capital,Gerente,6,1709856,Febrero,2023,Masculino
+Jorge,Martinez,41,16550375-8,Capital,Gerente,6,1795348,Julio,2022,Masculino
+Jorge,Martinez,41,16550375-8,Capital,Gerente,6,1867161,Julio,2023,Masculino
+Jorge,Martinez,41,16550375-8,Capital,Gerente,6,1960519,Junio,2023,Masculino
+Jorge,Martinez,41,16550375-8,Capital,Gerente,6,2058544,Junio,2022,Masculino
+Jorge,Martinez,41,16550375-8,Capital,Gerente,6,2140885,Marzo,2022,Masculino
+Jorge,Martinez,41,16550375-8,Capital,Gerente,6,2226520,Marzo,2023,Masculino
+Jorge,Martinez,41,16550375-8,Capital,Gerente,6,2337846,Mayo,2022,Masculino
+Jorge,Martinez,41,16550375-8,Capital,Gerente,6,2431359,Mayo,2023,Masculino
+Jorge,Martinez,41,16550375-8,Capital,Gerente,6,2552926,Noviembre,2022,Masculino
+Jorge,Martinez,41,16550375-8,Capital,Gerente,6,2655043,Noviembre,2023,Masculino
+Jorge,Martinez,41,16550375-8,Capital,Gerente,6,2787795,Octubre,2022,Masculino
+Jorge,Martinez,41,16550375-8,Capital,Gerente,6,2899306,Octubre,2023,Masculino
+Jorge,Martinez,41,16550375-8,Capital,Gerente,6,3044271,Septiembre,2022,Masculino
+Jorge,Martinez,41,16550375-8,Capital,Gerente,6,3166041,Septiembre,2023,Masculino
+Carlos,Ramirez,45,21223964-6,Cuprum,Ingeniero,5,1654875,Abril,2023,Masculino
+Carlos,Ramirez,45,21223964-6,Cuprum,Ingeniero,5,1737618,Abril,2022,Masculino
+Carlos,Ramirez,45,21223964-6,Cuprum,Ingeniero,5,1807122,Agosto,2023,Masculino
+Carlos,Ramirez,45,21223964-6,Cuprum,Ingeniero,5,1897478,Agosto,2022,Masculino
+Carlos,Ramirez,45,21223964-6,Cuprum,Ingeniero,5,1973377,Diciembre,2021,Masculino
+Carlos,Ramirez,45,21223964-6,Cuprum,Ingeniero,5,2032578,Diciembre,2022,Masculino
+Carlos,Ramirez,45,21223964-6,Cuprum,Ingeniero,5,2113881,Diciembre,2023,Masculino
+Carlos,Ramirez,45,21223964-6,Cuprum,Ingeniero,5,2219575,Enero,2022,Masculino
+Carlos,Ramirez,45,21223964-6,Cuprum,Ingeniero,5,2308358,Enero,2023,Masculino
+Carlos,Ramirez,45,21223964-6,Cuprum,Ingeniero,5,2423775,Febrero,2022,Masculino
+Carlos,Ramirez,45,21223964-6,Cuprum,Ingeniero,5,2520726,Febrero,2023,Masculino
+Carlos,Ramirez,45,21223964-6,Cuprum,Ingeniero,5,2646762,Julio,2022,Masculino
+Carlos,Ramirez,45,21223964-6,Cuprum,Ingeniero,5,2752632,Julio,2023,Masculino
+Carlos,Ramirez,45,21223964-6,Cuprum,Ingeniero,5,2890263,Junio,2023,Masculino
+Carlos,Ramirez,45,21223964-6,Cuprum,Ingeniero,5,3034776,Junio,2022,Masculino
+Carlos,Ramirez,45,21223964-6,Cuprum,Ingeniero,5,3156167,Marzo,2022,Masculino
+Carlos,Ramirez,45,21223964-6,Cuprum,Ingeniero,5,3282413,Marzo,2023,Masculino
+Carlos,Ramirez,45,21223964-6,Cuprum,Ingeniero,5,3446533,Mayo,2022,Masculino
+Carlos,Ramirez,45,21223964-6,Cuprum,Ingeniero,5,3584394,Mayo,2023,Masculino
+Carlos,Ramirez,45,21223964-6,Cuprum,Ingeniero,5,3763613,Noviembre,2022,Masculino
+Carlos,Ramirez,45,21223964-6,Cuprum,Ingeniero,5,3914157,Noviembre,2023,Masculino
+Carlos,Ramirez,45,21223964-6,Cuprum,Ingeniero,5,4109864,Octubre,2022,Masculino
+Carlos,Ramirez,45,21223964-6,Cuprum,Ingeniero,5,4274258,Octubre,2023,Masculino
+Carlos,Ramirez,45,21223964-6,Cuprum,Ingeniero,5,4487970,Septiembre,2022,Masculino
+Carlos,Ramirez,45,21223964-6,Cuprum,Ingeniero,5,4667488,Septiembre,2023,Masculino
+Jorge,Ramirez,52,11996141-4,PlanVital,Técnico,12,916124,Abril,2023,Masculino
+Jorge,Ramirez,52,11996141-4,PlanVital,Técnico,12,961930,Abril,2022,Masculino
+Jorge,Ramirez,52,11996141-4,PlanVital,Técnico,12,1000407,Agosto,2023,Masculino
+Jorge,Ramirez,52,11996141-4,PlanVital,Técnico,12,1050427,Agosto,2022,Masculino
+Jorge,Ramirez,52,11996141-4,PlanVital,Técnico,12,1092444,Diciembre,2021,Masculino
+Jorge,Ramirez,52,11996141-4,PlanVital,Técnico,12,1125217,Diciembre,2022,Masculino
+Jorge,Ramirez,52,11996141-4,PlanVital,Técnico,12,1170225,Diciembre,2023,Masculino
+Jorge,Ramirez,52,11996141-4,PlanVital,Técnico,12,1228736,Enero,2022,Masculino
+Jorge,Ramirez,52,11996141-4,PlanVital,Técnico,12,1277885,Enero,2023,Masculino
+Jorge,Ramirez,52,11996141-4,PlanVital,Técnico,12,1341779,Febrero,2022,Masculino
+Jorge,Ramirez,52,11996141-4,PlanVital,Técnico,12,1395450,Febrero,2023,Masculino
+Jorge,Ramirez,52,11996141-4,PlanVital,Técnico,12,1465222,Julio,2022,Masculino
+Jorge,Ramirez,52,11996141-4,PlanVital,Técnico,12,1523830,Julio,2023,Masculino
+Jorge,Ramirez,52,11996141-4,PlanVital,Técnico,12,1600021,Junio,2023,Masculino
+Jorge,Ramirez,52,11996141-4,PlanVital,Técnico,12,1680022,Junio,2022,Masculino
+Jorge,Ramirez,52,11996141-4,PlanVital,Técnico,12,1747222,Marzo,2022,Masculino
+Jorge,Ramirez,52,11996141-4,PlanVital,Técnico,12,1817110,Marzo,2023,Masculino
+Jorge,Ramirez,52,11996141-4,PlanVital,Técnico,12,1907965,Mayo,2022,Masculino
+Jorge,Ramirez,52,11996141-4,PlanVital,Técnico,12,1984283,Mayo,2023,Masculino
+Jorge,Ramirez,52,11996141-4,PlanVital,Técnico,12,2083497,Noviembre,2022,Masculino
+Jorge,Ramirez,52,11996141-4,PlanVital,Técnico,12,2166836,Noviembre,2023,Masculino
+Jorge,Ramirez,52,11996141-4,PlanVital,Técnico,12,2275177,Octubre,2022,Masculino
+Jorge,Ramirez,52,11996141-4,PlanVital,Técnico,12,2366184,Octubre,2023,Masculino
+Jorge,Ramirez,52,11996141-4,PlanVital,Técnico,12,2484493,Septiembre,2022,Masculino
+Jorge,Ramirez,52,11996141-4,PlanVital,Técnico,12,2583872,Septiembre,2023,Masculino
+Clara,Perez,48,20888142-5,Habitat,Jefe de Proyectos,11,1040799,Abril,2023,Femenino
+Clara,Perez,48,20888142-5,Habitat,Jefe de Proyectos,11,1092838,Abril,2022,Femenino
+Clara,Perez,48,20888142-5,Habitat,Jefe de Proyectos,11,1136551,Agosto,2023,Femenino
+Clara,Perez,48,20888142-5,Habitat,Jefe de Proyectos,11,1193378,Agosto,2022,Femenino
+Clara,Perez,48,20888142-5,Habitat,Jefe de Proyectos,11,1241113,Diciembre,2021,Femenino
+Clara,Perez,48,20888142-5,Habitat,Jefe de Proyectos,11,1278346,Diciembre,2022,Femenino
+Clara,Perez,48,20888142-5,Habitat,Jefe de Proyectos,11,1329479,Diciembre,2023,Femenino
+Clara,Perez,48,20888142-5,Habitat,Jefe de Proyectos,11,1395952,Enero,2022,Femenino
+Clara,Perez,48,20888142-5,Habitat,Jefe de Proyectos,11,1451790,Enero,2023,Femenino
+Clara,Perez,48,20888142-5,Habitat,Jefe de Proyectos,11,1524379,Febrero,2022,Femenino
+Clara,Perez,48,20888142-5,Habitat,Jefe de Proyectos,11,1585354,Febrero,2023,Femenino
+Clara,Perez,48,20888142-5,Habitat,Jefe de Proyectos,11,1664621,Julio,2022,Femenino
+Clara,Perez,48,20888142-5,Habitat,Jefe de Proyectos,11,1731205,Julio,2023,Femenino
+Clara,Perez,48,20888142-5,Habitat,Jefe de Proyectos,11,1817765,Junio,2023,Femenino
+Clara,Perez,48,20888142-5,Habitat,Jefe de Proyectos,11,1908653,Junio,2022,Femenino
+Clara,Perez,48,20888142-5,Habitat,Jefe de Proyectos,11,1984999,Marzo,2022,Femenino
+Clara,Perez,48,20888142-5,Habitat,Jefe de Proyectos,11,2064398,Marzo,2023,Femenino
+Clara,Perez,48,20888142-5,Habitat,Jefe de Proyectos,11,2167617,Mayo,2022,Femenino
+Clara,Perez,48,20888142-5,Habitat,Jefe de Proyectos,11,2254321,Mayo,2023,Femenino
+Clara,Perez,48,20888142-5,Habitat,Jefe de Proyectos,11,2367037,Noviembre,2022,Femenino
+Clara,Perez,48,20888142-5,Habitat,Jefe de Proyectos,11,2461718,Noviembre,2023,Femenino
+Clara,Perez,48,20888142-5,Habitat,Jefe de Proyectos,11,2584803,Octubre,2022,Femenino
+Clara,Perez,48,20888142-5,Habitat,Jefe de Proyectos,11,2688195,Octubre,2023,Femenino
+Clara,Perez,48,20888142-5,Habitat,Jefe de Proyectos,11,2822604,Septiembre,2022,Femenino
+Clara,Perez,48,20888142-5,Habitat,Jefe de Proyectos,11,2935508,Septiembre,2023,Femenino
+Luis,Martinez,45,14650322-1,Habitat,Desarrollador,1,1629476,Abril,2023,Masculino
+Luis,Martinez,45,14650322-1,Habitat,Desarrollador,1,1710949,Agosto,2023,Masculino
+Luis,Martinez,45,14650322-1,Habitat,Desarrollador,1,1796496,Diciembre,2023,Masculino
+Luis,Martinez,45,14650322-1,Habitat,Desarrollador,1,1886320,Enero,2023,Masculino
+Luis,Martinez,45,14650322-1,Habitat,Desarrollador,1,1980636,Febrero,2023,Masculino
+Luis,Martinez,45,14650322-1,Habitat,Desarrollador,1,2079667,Julio,2023,Masculino
+Luis,Martinez,45,14650322-1,Habitat,Desarrollador,1,2183650,Junio,2023,Masculino
+Luis,Martinez,45,14650322-1,Habitat,Desarrollador,1,2292832,Marzo,2023,Masculino
+Luis,Martinez,45,14650322-1,Habitat,Desarrollador,1,2407473,Mayo,2023,Masculino
+Luis,Martinez,45,14650322-1,Habitat,Desarrollador,1,2527846,Noviembre,2023,Masculino
+Luis,Martinez,45,14650322-1,Habitat,Desarrollador,1,2654238,Octubre,2023,Masculino
+Luis,Martinez,45,14650322-1,Habitat,Desarrollador,1,2786949,Septiembre,2023,Masculino
+Lucia,Martinez,58,16946774-6,Cuprum,Analista,5,1220122,Abril,2023,Femenino
+Lucia,Martinez,58,16946774-6,Cuprum,Analista,5,1281128,Abril,2022,Femenino
+Lucia,Martinez,58,16946774-6,Cuprum,Analista,5,1332373,Agosto,2023,Femenino
+Lucia,Martinez,58,16946774-6,Cuprum,Analista,5,1398991,Agosto,2022,Femenino
+Lucia,Martinez,58,16946774-6,Cuprum,Analista,5,1454950,Diciembre,2021,Femenino
+Lucia,Martinez,58,16946774-6,Cuprum,Analista,5,1498598,Diciembre,2022,Femenino
+Lucia,Martinez,58,16946774-6,Cuprum,Analista,5,1558541,Diciembre,2023,Femenino
+Lucia,Martinez,58,16946774-6,Cuprum,Analista,5,1636468,Enero,2022,Femenino
+Lucia,Martinez,58,16946774-6,Cuprum,Analista,5,1701926,Enero,2023,Femenino
+Lucia,Martinez,58,16946774-6,Cuprum,Analista,5,1787022,Febrero,2022,Femenino
+Lucia,Martinez,58,16946774-6,Cuprum,Analista,5,1858502,Febrero,2023,Femenino
+Lucia,Martinez,58,16946774-6,Cuprum,Analista,5,1951427,Julio,2022,Femenino
+Lucia,Martinez,58,16946774-6,Cuprum,Analista,5,2029484,Julio,2023,Femenino
+Lucia,Martinez,58,16946774-6,Cuprum,Analista,5,2130958,Junio,2023,Femenino
+Lucia,Martinez,58,16946774-6,Cuprum,Analista,5,2237505,Junio,2022,Femenino
+Lucia,Martinez,58,16946774-6,Cuprum,Analista,5,2327005,Marzo,2022,Femenino
+Lucia,Martinez,58,16946774-6,Cuprum,Analista,5,2420085,Marzo,2023,Femenino
+Lucia,Martinez,58,16946774-6,Cuprum,Analista,5,2541089,Mayo,2022,Femenino
+Lucia,Martinez,58,16946774-6,Cuprum,Analista,5,2642732,Mayo,2023,Femenino
+Lucia,Martinez,58,16946774-6,Cuprum,Analista,5,2774868,Noviembre,2022,Femenino
+Lucia,Martinez,58,16946774-6,Cuprum,Analista,5,2885862,Noviembre,2023,Femenino
+Lucia,Martinez,58,16946774-6,Cuprum,Analista,5,3030155,Octubre,2022,Femenino
+Lucia,Martinez,58,16946774-6,Cuprum,Analista,5,3151361,Octubre,2023,Femenino
+Lucia,Martinez,58,16946774-6,Cuprum,Analista,5,3308929,Septiembre,2022,Femenino
+Lucia,Martinez,58,16946774-6,Cuprum,Analista,5,3441286,Septiembre,2023,Femenino
+Luis,Ramirez,27,23562071-0,Habitat,Contador,3,1984130,Abril,2023,Masculino
+Luis,Ramirez,27,23562071-0,Habitat,Contador,3,2083336,Abril,2022,Masculino
+Luis,Ramirez,27,23562071-0,Habitat,Contador,3,2166669,Agosto,2023,Masculino
+Luis,Ramirez,27,23562071-0,Habitat,Contador,3,2275002,Agosto,2022,Masculino
+Luis,Ramirez,27,23562071-0,Habitat,Contador,3,2366002,Diciembre,2021,Masculino
+Luis,Ramirez,27,23562071-0,Habitat,Contador,3,2436982,Diciembre,2022,Masculino
+Luis,Ramirez,27,23562071-0,Habitat,Contador,3,2534461,Diciembre,2023,Masculino
+Luis,Ramirez,27,23562071-0,Habitat,Contador,3,2661184,Enero,2022,Masculino
+Luis,Ramirez,27,23562071-0,Habitat,Contador,3,2767631,Enero,2023,Masculino
+Luis,Ramirez,27,23562071-0,Habitat,Contador,3,2906012,Febrero,2022,Masculino
+Luis,Ramirez,27,23562071-0,Habitat,Contador,3,3022252,Febrero,2023,Masculino
+Luis,Ramirez,27,23562071-0,Habitat,Contador,3,3173364,Julio,2022,Masculino
+Luis,Ramirez,27,23562071-0,Habitat,Contador,3,3300298,Julio,2023,Masculino
+Luis,Ramirez,27,23562071-0,Habitat,Contador,3,3465312,Junio,2023,Masculino
+Luis,Ramirez,27,23562071-0,Habitat,Contador,3,3638577,Junio,2022,Masculino
+Luis,Ramirez,27,23562071-0,Habitat,Contador,3,3784120,Marzo,2022,Masculino
+Luis,Ramirez,27,23562071-0,Habitat,Contador,3,3935484,Marzo,2023,Masculino
+Luis,Ramirez,27,23562071-0,Habitat,Contador,3,4132258,Mayo,2022,Masculino
+Luis,Ramirez,27,23562071-0,Habitat,Contador,3,4297548,Mayo,2023,Masculino
+Luis,Ramirez,27,23562071-0,Habitat,Contador,3,4512425,Noviembre,2022,Masculino
+Luis,Ramirez,27,23562071-0,Habitat,Contador,3,4692922,Noviembre,2023,Masculino
+Luis,Ramirez,27,23562071-0,Habitat,Contador,3,4927568,Octubre,2022,Masculino
+Luis,Ramirez,27,23562071-0,Habitat,Contador,3,5124670,Octubre,2023,Masculino
+Luis,Ramirez,27,23562071-0,Habitat,Contador,3,5380903,Septiembre,2022,Masculino
+Luis,Ramirez,27,23562071-0,Habitat,Contador,3,5596139,Septiembre,2023,Masculino
+Lucia,Rodriguez,52,4936724-9,Modelo,Analista,13,1432597,Abril,2023,Femenino
+Lucia,Rodriguez,52,4936724-9,Modelo,Analista,13,1504226,Abril,2022,Femenino
+Lucia,Rodriguez,52,4936724-9,Modelo,Analista,13,1564395,Agosto,2023,Femenino
+Lucia,Rodriguez,52,4936724-9,Modelo,Analista,13,1642614,Agosto,2022,Femenino
+Lucia,Rodriguez,52,4936724-9,Modelo,Analista,13,1708318,Diciembre,2021,Femenino
+Lucia,Rodriguez,52,4936724-9,Modelo,Analista,13,1759567,Diciembre,2022,Femenino
+Lucia,Rodriguez,52,4936724-9,Modelo,Analista,13,1829949,Diciembre,2023,Femenino
+Lucia,Rodriguez,52,4936724-9,Modelo,Analista,13,1921446,Enero,2022,Femenino
+Lucia,Rodriguez,52,4936724-9,Modelo,Analista,13,1998303,Enero,2023,Femenino
+Lucia,Rodriguez,52,4936724-9,Modelo,Analista,13,2098218,Febrero,2022,Femenino
+Lucia,Rodriguez,52,4936724-9,Modelo,Analista,13,2182146,Febrero,2023,Femenino
+Lucia,Rodriguez,52,4936724-9,Modelo,Analista,13,2291253,Julio,2022,Femenino
+Lucia,Rodriguez,52,4936724-9,Modelo,Analista,13,2382903,Julio,2023,Femenino
+Lucia,Rodriguez,52,4936724-9,Modelo,Analista,13,2502048,Junio,2023,Femenino
+Lucia,Rodriguez,52,4936724-9,Modelo,Analista,13,2627150,Junio,2022,Femenino
+Lucia,Rodriguez,52,4936724-9,Modelo,Analista,13,2732236,Marzo,2022,Femenino
+Lucia,Rodriguez,52,4936724-9,Modelo,Analista,13,2841525,Marzo,2023,Femenino
+Lucia,Rodriguez,52,4936724-9,Modelo,Analista,13,2983601,Mayo,2022,Femenino
+Lucia,Rodriguez,52,4936724-9,Modelo,Analista,13,3102945,Mayo,2023,Femenino
+Lucia,Rodriguez,52,4936724-9,Modelo,Analista,13,3258092,Noviembre,2022,Femenino
+Lucia,Rodriguez,52,4936724-9,Modelo,Analista,13,3388415,Noviembre,2023,Femenino
+Lucia,Rodriguez,52,4936724-9,Modelo,Analista,13,3557835,Octubre,2022,Femenino
+Lucia,Rodriguez,52,4936724-9,Modelo,Analista,13,3700148,Octubre,2023,Femenino
+Lucia,Rodriguez,52,4936724-9,Modelo,Analista,13,3885155,Septiembre,2022,Femenino
+Lucia,Rodriguez,52,4936724-9,Modelo,Analista,13,4040561,Septiembre,2023,Femenino
+Pedro,Gonzalez,25,15739008-6,Capital,Desarrollador,6,1782304,Abril,2023,Masculino
+Pedro,Gonzalez,25,15739008-6,Capital,Desarrollador,6,1871419,Abril,2022,Masculino
+Pedro,Gonzalez,25,15739008-6,Capital,Desarrollador,6,1946275,Agosto,2023,Masculino
+Pedro,Gonzalez,25,15739008-6,Capital,Desarrollador,6,2043588,Agosto,2022,Masculino
+Pedro,Gonzalez,25,15739008-6,Capital,Desarrollador,6,2125331,Diciembre,2021,Masculino
+Pedro,Gonzalez,25,15739008-6,Capital,Desarrollador,6,2189090,Diciembre,2022,Masculino
+Pedro,Gonzalez,25,15739008-6,Capital,Desarrollador,6,2276653,Diciembre,2023,Masculino
+Pedro,Gonzalez,25,15739008-6,Capital,Desarrollador,6,2390485,Enero,2022,Masculino
+Pedro,Gonzalez,25,15739008-6,Capital,Desarrollador,6,2486104,Enero,2023,Masculino
+Pedro,Gonzalez,25,15739008-6,Capital,Desarrollador,6,2610409,Febrero,2022,Masculino
+Pedro,Gonzalez,25,15739008-6,Capital,Desarrollador,6,2714825,Febrero,2023,Masculino
+Pedro,Gonzalez,25,15739008-6,Capital,Desarrollador,6,2850566,Julio,2022,Masculino
+Pedro,Gonzalez,25,15739008-6,Capital,Desarrollador,6,2964588,Julio,2023,Masculino
+Pedro,Gonzalez,25,15739008-6,Capital,Desarrollador,6,3112817,Junio,2023,Masculino
+Pedro,Gonzalez,25,15739008-6,Capital,Desarrollador,6,3268457,Junio,2022,Masculino
+Pedro,Gonzalez,25,15739008-6,Capital,Desarrollador,6,3399195,Marzo,2022,Masculino
+Pedro,Gonzalez,25,15739008-6,Capital,Desarrollador,6,3535162,Marzo,2023,Masculino
+Pedro,Gonzalez,25,15739008-6,Capital,Desarrollador,6,3711920,Mayo,2022,Masculino
+Pedro,Gonzalez,25,15739008-6,Capital,Desarrollador,6,3860396,Mayo,2023,Masculino
+Pedro,Gonzalez,25,15739008-6,Capital,Desarrollador,6,4053415,Noviembre,2022,Masculino
+Pedro,Gonzalez,25,15739008-6,Capital,Desarrollador,6,4215551,Noviembre,2023,Masculino
+Pedro,Gonzalez,25,15739008-6,Capital,Desarrollador,6,4426328,Octubre,2022,Masculino
+Pedro,Gonzalez,25,15739008-6,Capital,Desarrollador,6,4603381,Octubre,2023,Masculino
+Pedro,Gonzalez,25,15739008-6,Capital,Desarrollador,6,4833550,Septiembre,2022,Masculino
+Pedro,Gonzalez,25,15739008-6,Capital,Desarrollador,6,5026892,Septiembre,2023,Masculino
+Ana,Perez,32,4507551-1,PlanVital,Contador,17,1570723,Abril,2023,Femenino
+Ana,Perez,32,4507551-1,PlanVital,Contador,17,1649259,Abril,2022,Femenino
+Ana,Perez,32,4507551-1,PlanVital,Contador,17,1715229,Agosto,2023,Femenino
+Ana,Perez,32,4507551-1,PlanVital,Contador,17,1800990,Agosto,2022,Femenino
+Ana,Perez,32,4507551-1,PlanVital,Contador,17,1873029,Diciembre,2021,Femenino
+Ana,Perez,32,4507551-1,PlanVital,Contador,17,1929219,Diciembre,2022,Femenino
+Ana,Perez,32,4507551-1,PlanVital,Contador,17,2006387,Diciembre,2023,Femenino
+Ana,Perez,32,4507551-1,PlanVital,Contador,17,2106706,Enero,2022,Femenino
+Ana,Perez,32,4507551-1,PlanVital,Contador,17,2190974,Enero,2023,Femenino
+Ana,Perez,32,4507551-1,PlanVital,Contador,17,2300522,Febrero,2022,Femenino
+Ana,Perez,32,4507551-1,PlanVital,Contador,17,2392542,Febrero,2023,Femenino
+Ana,Perez,32,4507551-1,PlanVital,Contador,17,2512169,Julio,2022,Femenino
+Ana,Perez,32,4507551-1,PlanVital,Contador,17,2612655,Julio,2023,Femenino
+Ana,Perez,32,4507551-1,PlanVital,Contador,17,2743287,Junio,2023,Femenino
+Ana,Perez,32,4507551-1,PlanVital,Contador,17,2880451,Junio,2022,Femenino
+Ana,Perez,32,4507551-1,PlanVital,Contador,17,2995669,Marzo,2022,Femenino
+Ana,Perez,32,4507551-1,PlanVital,Contador,17,3115495,Marzo,2023,Femenino
+Ana,Perez,32,4507551-1,PlanVital,Contador,17,3271269,Mayo,2022,Femenino
+Ana,Perez,32,4507551-1,PlanVital,Contador,17,3402119,Mayo,2023,Femenino
+Ana,Perez,32,4507551-1,PlanVital,Contador,17,3572224,Noviembre,2022,Femenino
+Ana,Perez,32,4507551-1,PlanVital,Contador,17,3715112,Noviembre,2023,Femenino
+Ana,Perez,32,4507551-1,PlanVital,Contador,17,3900867,Octubre,2022,Femenino
+Ana,Perez,32,4507551-1,PlanVital,Contador,17,4056901,Octubre,2023,Femenino
+Ana,Perez,32,4507551-1,PlanVital,Contador,17,4259746,Septiembre,2022,Femenino
+Ana,Perez,32,4507551-1,PlanVital,Contador,17,4430135,Septiembre,2023,Femenino
+Clara,Martinez,51,12546814-7,Cuprum,Ingeniero,8,1650938,Abril,2023,Femenino
+Clara,Martinez,51,12546814-7,Cuprum,Ingeniero,8,1733484,Abril,2022,Femenino
+Clara,Martinez,51,12546814-7,Cuprum,Ingeniero,8,1802823,Agosto,2023,Femenino
+Clara,Martinez,51,12546814-7,Cuprum,Ingeniero,8,1892964,Agosto,2022,Femenino
+Clara,Martinez,51,12546814-7,Cuprum,Ingeniero,8,1968682,Diciembre,2021,Femenino
+Clara,Martinez,51,12546814-7,Cuprum,Ingeniero,8,2027742,Diciembre,2022,Femenino
+Clara,Martinez,51,12546814-7,Cuprum,Ingeniero,8,2108851,Diciembre,2023,Femenino
+Clara,Martinez,51,12546814-7,Cuprum,Ingeniero,8,2214293,Enero,2022,Femenino
+Clara,Martinez,51,12546814-7,Cuprum,Ingeniero,8,2302864,Enero,2023,Femenino
+Clara,Martinez,51,12546814-7,Cuprum,Ingeniero,8,2418007,Febrero,2022,Femenino
+Clara,Martinez,51,12546814-7,Cuprum,Ingeniero,8,2514727,Febrero,2023,Femenino
+Clara,Martinez,51,12546814-7,Cuprum,Ingeniero,8,2640463,Julio,2022,Femenino
+Clara,Martinez,51,12546814-7,Cuprum,Ingeniero,8,2746081,Julio,2023,Femenino
+Clara,Martinez,51,12546814-7,Cuprum,Ingeniero,8,2883385,Junio,2023,Femenino
+Clara,Martinez,51,12546814-7,Cuprum,Ingeniero,8,3027554,Junio,2022,Femenino
+Clara,Martinez,51,12546814-7,Cuprum,Ingeniero,8,3148656,Marzo,2022,Femenino
+Clara,Martinez,51,12546814-7,Cuprum,Ingeniero,8,3274602,Marzo,2023,Femenino
+Clara,Martinez,51,12546814-7,Cuprum,Ingeniero,8,3438332,Mayo,2022,Femenino
+Clara,Martinez,51,12546814-7,Cuprum,Ingeniero,8,3575865,Mayo,2023,Femenino
+Clara,Martinez,51,12546814-7,Cuprum,Ingeniero,8,3754658,Noviembre,2022,Femenino
+Clara,Martinez,51,12546814-7,Cuprum,Ingeniero,8,3904844,Noviembre,2023,Femenino
+Clara,Martinez,51,12546814-7,Cuprum,Ingeniero,8,4100086,Octubre,2022,Femenino
+Clara,Martinez,51,12546814-7,Cuprum,Ingeniero,8,4264089,Octubre,2023,Femenino
+Clara,Martinez,51,12546814-7,Cuprum,Ingeniero,8,4477293,Septiembre,2022,Femenino
+Clara,Martinez,51,12546814-7,Cuprum,Ingeniero,8,4656384,Septiembre,2023,Femenino
+Carlos,Rodriguez,45,21365050-9,Capital,Desarrollador,6,1580597,Abril,2023,Masculino
+Carlos,Rodriguez,45,21365050-9,Capital,Desarrollador,6,1659626,Abril,2022,Masculino
+Carlos,Rodriguez,45,21365050-9,Capital,Desarrollador,6,1726011,Agosto,2023,Masculino
+Carlos,Rodriguez,45,21365050-9,Capital,Desarrollador,6,1812311,Agosto,2022,Masculino
+Carlos,Rodriguez,45,21365050-9,Capital,Desarrollador,6,1884803,Diciembre,2021,Masculino
+Carlos,Rodriguez,45,21365050-9,Capital,Desarrollador,6,1941347,Diciembre,2022,Masculino
+Carlos,Rodriguez,45,21365050-9,Capital,Desarrollador,6,2019000,Diciembre,2023,Masculino
+Carlos,Rodriguez,45,21365050-9,Capital,Desarrollador,6,2119950,Enero,2022,Masculino
+Carlos,Rodriguez,45,21365050-9,Capital,Desarrollador,6,2204748,Enero,2023,Masculino
+Carlos,Rodriguez,45,21365050-9,Capital,Desarrollador,6,2314985,Febrero,2022,Masculino
+Carlos,Rodriguez,45,21365050-9,Capital,Desarrollador,6,2407584,Febrero,2023,Masculino
+Carlos,Rodriguez,45,21365050-9,Capital,Desarrollador,6,2527963,Julio,2022,Masculino
+Carlos,Rodriguez,45,21365050-9,Capital,Desarrollador,6,2629081,Julio,2023,Masculino
+Carlos,Rodriguez,45,21365050-9,Capital,Desarrollador,6,2760535,Junio,2023,Masculino
+Carlos,Rodriguez,45,21365050-9,Capital,Desarrollador,6,2898561,Junio,2022,Masculino
+Carlos,Rodriguez,45,21365050-9,Capital,Desarrollador,6,3014503,Marzo,2022,Masculino
+Carlos,Rodriguez,45,21365050-9,Capital,Desarrollador,6,3135083,Marzo,2023,Masculino
+Carlos,Rodriguez,45,21365050-9,Capital,Desarrollador,6,3291837,Mayo,2022,Masculino
+Carlos,Rodriguez,45,21365050-9,Capital,Desarrollador,6,3423510,Mayo,2023,Masculino
+Carlos,Rodriguez,45,21365050-9,Capital,Desarrollador,6,3594685,Noviembre,2022,Masculino
+Carlos,Rodriguez,45,21365050-9,Capital,Desarrollador,6,3738472,Noviembre,2023,Masculino
+Carlos,Rodriguez,45,21365050-9,Capital,Desarrollador,6,3925395,Octubre,2022,Masculino
+Carlos,Rodriguez,45,21365050-9,Capital,Desarrollador,6,4082410,Octubre,2023,Masculino
+Carlos,Rodriguez,45,21365050-9,Capital,Desarrollador,6,4286530,Septiembre,2022,Masculino
+Carlos,Rodriguez,45,21365050-9,Capital,Desarrollador,6,4457991,Septiembre,2023,Masculino
+Pedro,Martinez,53,10854475-1,Capital,Contador,18,1548434,Abril,2023,Masculino
+Pedro,Martinez,53,10854475-1,Capital,Contador,18,1625855,Abril,2022,Masculino
+Pedro,Martinez,53,10854475-1,Capital,Contador,18,1690889,Agosto,2023,Masculino
+Pedro,Martinez,53,10854475-1,Capital,Contador,18,1775433,Agosto,2022,Masculino
+Pedro,Martinez,53,10854475-1,Capital,Contador,18,1846450,Diciembre,2021,Masculino
+Pedro,Martinez,53,10854475-1,Capital,Contador,18,1901843,Diciembre,2022,Masculino
+Pedro,Martinez,53,10854475-1,Capital,Contador,18,1977916,Diciembre,2023,Masculino
+Pedro,Martinez,53,10854475-1,Capital,Contador,18,2076811,Enero,2022,Masculino
+Pedro,Martinez,53,10854475-1,Capital,Contador,18,2159883,Enero,2023,Masculino
+Pedro,Martinez,53,10854475-1,Capital,Contador,18,2267877,Febrero,2022,Masculino
+Pedro,Martinez,53,10854475-1,Capital,Contador,18,2358592,Febrero,2023,Masculino
+Pedro,Martinez,53,10854475-1,Capital,Contador,18,2476521,Julio,2022,Masculino
+Pedro,Martinez,53,10854475-1,Capital,Contador,18,2575581,Julio,2023,Masculino
+Pedro,Martinez,53,10854475-1,Capital,Contador,18,2704360,Junio,2023,Masculino
+Pedro,Martinez,53,10854475-1,Capital,Contador,18,2839578,Junio,2022,Masculino
+Pedro,Martinez,53,10854475-1,Capital,Contador,18,2953161,Marzo,2022,Masculino
+Pedro,Martinez,53,10854475-1,Capital,Contador,18,3071287,Marzo,2023,Masculino
+Pedro,Martinez,53,10854475-1,Capital,Contador,18,3224851,Mayo,2022,Masculino
+Pedro,Martinez,53,10854475-1,Capital,Contador,18,3353845,Mayo,2023,Masculino
+Pedro,Martinez,53,10854475-1,Capital,Contador,18,3521537,Noviembre,2022,Masculino
+Pedro,Martinez,53,10854475-1,Capital,Contador,18,3662398,Noviembre,2023,Masculino
+Pedro,Martinez,53,10854475-1,Capital,Contador,18,3845517,Octubre,2022,Masculino
+Pedro,Martinez,53,10854475-1,Capital,Contador,18,3999337,Octubre,2023,Masculino
+Pedro,Martinez,53,10854475-1,Capital,Contador,18,4199303,Septiembre,2022,Masculino
+Pedro,Martinez,53,10854475-1,Capital,Contador,18,4367275,Septiembre,2023,Masculino
+Ana,Diaz,46,16437468-1,Provida,Técnico,14,1677672,Abril,2023,Femenino
+Ana,Diaz,46,16437468-1,Provida,Técnico,14,1761555,Abril,2022,Femenino
+Ana,Diaz,46,16437468-1,Provida,Técnico,14,1832017,Agosto,2023,Femenino
+Ana,Diaz,46,16437468-1,Provida,Técnico,14,1923617,Agosto,2022,Femenino
+Ana,Diaz,46,16437468-1,Provida,Técnico,14,2000561,Diciembre,2021,Femenino
+Ana,Diaz,46,16437468-1,Provida,Técnico,14,2060577,Diciembre,2022,Femenino
+Ana,Diaz,46,16437468-1,Provida,Técnico,14,2143000,Diciembre,2023,Femenino
+Ana,Diaz,46,16437468-1,Provida,Técnico,14,2250150,Enero,2022,Femenino
+Ana,Diaz,46,16437468-1,Provida,Técnico,14,2340156,Enero,2023,Femenino
+Ana,Diaz,46,16437468-1,Provida,Técnico,14,2457163,Febrero,2022,Femenino
+Ana,Diaz,46,16437468-1,Provida,Técnico,14,2555449,Febrero,2023,Femenino
+Ana,Diaz,46,16437468-1,Provida,Técnico,14,2683221,Julio,2022,Femenino
+Ana,Diaz,46,16437468-1,Provida,Técnico,14,2790549,Julio,2023,Femenino
+Ana,Diaz,46,16437468-1,Provida,Técnico,14,2930076,Junio,2023,Femenino
+Ana,Diaz,46,16437468-1,Provida,Técnico,14,3076579,Junio,2022,Femenino
+Ana,Diaz,46,16437468-1,Provida,Técnico,14,3199642,Marzo,2022,Femenino
+Ana,Diaz,46,16437468-1,Provida,Técnico,14,3327627,Marzo,2023,Femenino
+Ana,Diaz,46,16437468-1,Provida,Técnico,14,3494008,Mayo,2022,Femenino
+Ana,Diaz,46,16437468-1,Provida,Técnico,14,3633768,Mayo,2023,Femenino
+Ana,Diaz,46,16437468-1,Provida,Técnico,14,3815456,Noviembre,2022,Femenino
+Ana,Diaz,46,16437468-1,Provida,Técnico,14,3968074,Noviembre,2023,Femenino
+Ana,Diaz,46,16437468-1,Provida,Técnico,14,4166477,Octubre,2022,Femenino
+Ana,Diaz,46,16437468-1,Provida,Técnico,14,4333136,Octubre,2023,Femenino
+Ana,Diaz,46,16437468-1,Provida,Técnico,14,4549792,Septiembre,2022,Femenino
+Ana,Diaz,46,16437468-1,Provida,Técnico,14,4731783,Septiembre,2023,Femenino
+Maria,Ramirez,51,21646533-4,Capital,Analista,13,1416056,Abril,2023,Femenino
+Maria,Ramirez,51,21646533-4,Capital,Analista,13,1486858,Abril,2022,Femenino
+Maria,Ramirez,51,21646533-4,Capital,Analista,13,1546332,Agosto,2023,Femenino
+Maria,Ramirez,51,21646533-4,Capital,Analista,13,1623648,Agosto,2022,Femenino
+Maria,Ramirez,51,21646533-4,Capital,Analista,13,1688593,Diciembre,2021,Femenino
+Maria,Ramirez,51,21646533-4,Capital,Analista,13,1739250,Diciembre,2022,Femenino
+Maria,Ramirez,51,21646533-4,Capital,Analista,13,1808820,Diciembre,2023,Femenino
+Maria,Ramirez,51,21646533-4,Capital,Analista,13,1899261,Enero,2022,Femenino
+Maria,Ramirez,51,21646533-4,Capital,Analista,13,1975231,Enero,2023,Femenino
+Maria,Ramirez,51,21646533-4,Capital,Analista,13,2073992,Febrero,2022,Femenino
+Maria,Ramirez,51,21646533-4,Capital,Analista,13,2156951,Febrero,2023,Femenino
+Maria,Ramirez,51,21646533-4,Capital,Analista,13,2264798,Julio,2022,Femenino
+Maria,Ramirez,51,21646533-4,Capital,Analista,13,2355389,Julio,2023,Femenino
+Maria,Ramirez,51,21646533-4,Capital,Analista,13,2473158,Junio,2023,Femenino
+Maria,Ramirez,51,21646533-4,Capital,Analista,13,2596815,Junio,2022,Femenino
+Maria,Ramirez,51,21646533-4,Capital,Analista,13,2700687,Marzo,2022,Femenino
+Maria,Ramirez,51,21646533-4,Capital,Analista,13,2808714,Marzo,2023,Femenino
+Maria,Ramirez,51,21646533-4,Capital,Analista,13,2949149,Mayo,2022,Femenino
+Maria,Ramirez,51,21646533-4,Capital,Analista,13,3067114,Mayo,2023,Femenino
+Maria,Ramirez,51,21646533-4,Capital,Analista,13,3220469,Noviembre,2022,Femenino
+Maria,Ramirez,51,21646533-4,Capital,Analista,13,3349287,Noviembre,2023,Femenino
+Maria,Ramirez,51,21646533-4,Capital,Analista,13,3516751,Octubre,2022,Femenino
+Maria,Ramirez,51,21646533-4,Capital,Analista,13,3657421,Octubre,2023,Femenino
+Maria,Ramirez,51,21646533-4,Capital,Analista,13,3840292,Septiembre,2022,Femenino
+Maria,Ramirez,51,21646533-4,Capital,Analista,13,3993903,Septiembre,2023,Femenino
+Luis,Martinez,60,12160528-5,Provida,Jefe de Proyectos,10,985811,Abril,2023,Masculino
+Luis,Martinez,60,12160528-5,Provida,Jefe de Proyectos,10,1035101,Abril,2022,Masculino
+Luis,Martinez,60,12160528-5,Provida,Jefe de Proyectos,10,1076505,Agosto,2023,Masculino
+Luis,Martinez,60,12160528-5,Provida,Jefe de Proyectos,10,1130330,Agosto,2022,Masculino
+Luis,Martinez,60,12160528-5,Provida,Jefe de Proyectos,10,1175543,Diciembre,2021,Masculino
+Luis,Martinez,60,12160528-5,Provida,Jefe de Proyectos,10,1210809,Diciembre,2022,Masculino
+Luis,Martinez,60,12160528-5,Provida,Jefe de Proyectos,10,1259241,Diciembre,2023,Masculino
+Luis,Martinez,60,12160528-5,Provida,Jefe de Proyectos,10,1322203,Enero,2022,Masculino
+Luis,Martinez,60,12160528-5,Provida,Jefe de Proyectos,10,1375091,Enero,2023,Masculino
+Luis,Martinez,60,12160528-5,Provida,Jefe de Proyectos,10,1443845,Febrero,2022,Masculino
+Luis,Martinez,60,12160528-5,Provida,Jefe de Proyectos,10,1501598,Febrero,2023,Masculino
+Luis,Martinez,60,12160528-5,Provida,Jefe de Proyectos,10,1576677,Julio,2022,Masculino
+Luis,Martinez,60,12160528-5,Provida,Jefe de Proyectos,10,1639744,Julio,2023,Masculino
+Luis,Martinez,60,12160528-5,Provida,Jefe de Proyectos,10,1721731,Junio,2023,Masculino
+Luis,Martinez,60,12160528-5,Provida,Jefe de Proyectos,10,1807817,Junio,2022,Masculino
+Luis,Martinez,60,12160528-5,Provida,Jefe de Proyectos,10,1880129,Marzo,2022,Masculino
+Luis,Martinez,60,12160528-5,Provida,Jefe de Proyectos,10,1955334,Marzo,2023,Masculino
+Luis,Martinez,60,12160528-5,Provida,Jefe de Proyectos,10,2053100,Mayo,2022,Masculino
+Luis,Martinez,60,12160528-5,Provida,Jefe de Proyectos,10,2135224,Mayo,2023,Masculino
+Luis,Martinez,60,12160528-5,Provida,Jefe de Proyectos,10,2241985,Noviembre,2022,Masculino
+Luis,Martinez,60,12160528-5,Provida,Jefe de Proyectos,10,2331664,Noviembre,2023,Masculino
+Luis,Martinez,60,12160528-5,Provida,Jefe de Proyectos,10,2448247,Octubre,2022,Masculino
+Luis,Martinez,60,12160528-5,Provida,Jefe de Proyectos,10,2546176,Octubre,2023,Masculino
+Luis,Martinez,60,12160528-5,Provida,Jefe de Proyectos,10,2673484,Septiembre,2022,Masculino
+Luis,Martinez,60,12160528-5,Provida,Jefe de Proyectos,10,2780423,Septiembre,2023,Masculino
+Clara,Rodriguez,44,9523535-6,Capital,Jefe de Proyectos,3,1818058,Abril,2023,Femenino
+Clara,Rodriguez,44,9523535-6,Capital,Jefe de Proyectos,3,1908960,Abril,2022,Femenino
+Clara,Rodriguez,44,9523535-6,Capital,Jefe de Proyectos,3,1985318,Agosto,2023,Femenino
+Clara,Rodriguez,44,9523535-6,Capital,Jefe de Proyectos,3,2084583,Agosto,2022,Femenino
+Clara,Rodriguez,44,9523535-6,Capital,Jefe de Proyectos,3,2167966,Diciembre,2021,Femenino
+Clara,Rodriguez,44,9523535-6,Capital,Jefe de Proyectos,3,2233004,Diciembre,2022,Femenino
+Clara,Rodriguez,44,9523535-6,Capital,Jefe de Proyectos,3,2322324,Diciembre,2023,Femenino
+Clara,Rodriguez,44,9523535-6,Capital,Jefe de Proyectos,3,2438440,Enero,2022,Femenino
+Clara,Rodriguez,44,9523535-6,Capital,Jefe de Proyectos,3,2535977,Enero,2023,Femenino
+Clara,Rodriguez,44,9523535-6,Capital,Jefe de Proyectos,3,2662775,Febrero,2022,Femenino
+Clara,Rodriguez,44,9523535-6,Capital,Jefe de Proyectos,3,2769286,Febrero,2023,Femenino
+Clara,Rodriguez,44,9523535-6,Capital,Jefe de Proyectos,3,2907750,Julio,2022,Femenino
+Clara,Rodriguez,44,9523535-6,Capital,Jefe de Proyectos,3,3024060,Julio,2023,Femenino
+Clara,Rodriguez,44,9523535-6,Capital,Jefe de Proyectos,3,3175263,Junio,2023,Femenino
+Clara,Rodriguez,44,9523535-6,Capital,Jefe de Proyectos,3,3334026,Junio,2022,Femenino
+Clara,Rodriguez,44,9523535-6,Capital,Jefe de Proyectos,3,3467387,Marzo,2022,Femenino
+Clara,Rodriguez,44,9523535-6,Capital,Jefe de Proyectos,3,3606082,Marzo,2023,Femenino
+Clara,Rodriguez,44,9523535-6,Capital,Jefe de Proyectos,3,3786386,Mayo,2022,Femenino
+Clara,Rodriguez,44,9523535-6,Capital,Jefe de Proyectos,3,3937841,Mayo,2023,Femenino
+Clara,Rodriguez,44,9523535-6,Capital,Jefe de Proyectos,3,4134733,Noviembre,2022,Femenino
+Clara,Rodriguez,44,9523535-6,Capital,Jefe de Proyectos,3,4300122,Noviembre,2023,Femenino
+Clara,Rodriguez,44,9523535-6,Capital,Jefe de Proyectos,3,4515128,Octubre,2022,Femenino
+Clara,Rodriguez,44,9523535-6,Capital,Jefe de Proyectos,3,4695733,Octubre,2023,Femenino
+Clara,Rodriguez,44,9523535-6,Capital,Jefe de Proyectos,3,4930519,Septiembre,2022,Femenino
+Clara,Rodriguez,44,9523535-6,Capital,Jefe de Proyectos,3,5127739,Septiembre,2023,Femenino
+Carlos,Lopez,36,22267960-K,Provida,Jefe de Proyectos,20,1253905,Abril,2023,Masculino
+Carlos,Lopez,36,22267960-K,Provida,Jefe de Proyectos,20,1316600,Abril,2022,Masculino
+Carlos,Lopez,36,22267960-K,Provida,Jefe de Proyectos,20,1369264,Agosto,2023,Masculino
+Carlos,Lopez,36,22267960-K,Provida,Jefe de Proyectos,20,1437727,Agosto,2022,Masculino
+Carlos,Lopez,36,22267960-K,Provida,Jefe de Proyectos,20,1495236,Diciembre,2021,Masculino
+Carlos,Lopez,36,22267960-K,Provida,Jefe de Proyectos,20,1540093,Diciembre,2022,Masculino
+Carlos,Lopez,36,22267960-K,Provida,Jefe de Proyectos,20,1601696,Diciembre,2023,Masculino
+Carlos,Lopez,36,22267960-K,Provida,Jefe de Proyectos,20,1681780,Enero,2022,Masculino
+Carlos,Lopez,36,22267960-K,Provida,Jefe de Proyectos,20,1749051,Enero,2023,Masculino
+Carlos,Lopez,36,22267960-K,Provida,Jefe de Proyectos,20,1836503,Febrero,2022,Masculino
+Carlos,Lopez,36,22267960-K,Provida,Jefe de Proyectos,20,1909963,Febrero,2023,Masculino
+Carlos,Lopez,36,22267960-K,Provida,Jefe de Proyectos,20,2005461,Julio,2022,Masculino
+Carlos,Lopez,36,22267960-K,Provida,Jefe de Proyectos,20,2085679,Julio,2023,Masculino
+Carlos,Lopez,36,22267960-K,Provida,Jefe de Proyectos,20,2189962,Junio,2023,Masculino
+Carlos,Lopez,36,22267960-K,Provida,Jefe de Proyectos,20,2299460,Junio,2022,Masculino
+Carlos,Lopez,36,22267960-K,Provida,Jefe de Proyectos,20,2391438,Marzo,2022,Masculino
+Carlos,Lopez,36,22267960-K,Provida,Jefe de Proyectos,20,2487095,Marzo,2023,Masculino
+Carlos,Lopez,36,22267960-K,Provida,Jefe de Proyectos,20,2611449,Mayo,2022,Masculino
+Carlos,Lopez,36,22267960-K,Provida,Jefe de Proyectos,20,2715906,Mayo,2023,Masculino
+Carlos,Lopez,36,22267960-K,Provida,Jefe de Proyectos,20,2851701,Noviembre,2022,Masculino
+Carlos,Lopez,36,22267960-K,Provida,Jefe de Proyectos,20,2965769,Noviembre,2023,Masculino
+Carlos,Lopez,36,22267960-K,Provida,Jefe de Proyectos,20,3114057,Octubre,2022,Masculino
+Carlos,Lopez,36,22267960-K,Provida,Jefe de Proyectos,20,3238619,Octubre,2023,Masculino
+Carlos,Lopez,36,22267960-K,Provida,Jefe de Proyectos,20,3400549,Septiembre,2022,Masculino
+Carlos,Lopez,36,22267960-K,Provida,Jefe de Proyectos,20,3536570,Septiembre,2023,Masculino
+Jorge,Gonzalez,47,1787211-4,Habitat,Desarrollador,15,1863299,Abril,2023,Masculino
+Jorge,Gonzalez,47,1787211-4,Habitat,Desarrollador,15,1956463,Abril,2022,Masculino
+Jorge,Gonzalez,47,1787211-4,Habitat,Desarrollador,15,2034721,Agosto,2023,Masculino
+Jorge,Gonzalez,47,1787211-4,Habitat,Desarrollador,15,2136457,Agosto,2022,Masculino
+Jorge,Gonzalez,47,1787211-4,Habitat,Desarrollador,15,2221915,Diciembre,2021,Masculino
+Jorge,Gonzalez,47,1787211-4,Habitat,Desarrollador,15,2288572,Diciembre,2022,Masculino
+Jorge,Gonzalez,47,1787211-4,Habitat,Desarrollador,15,2380114,Diciembre,2023,Masculino
+Jorge,Gonzalez,47,1787211-4,Habitat,Desarrollador,15,2499119,Enero,2022,Masculino
+Jorge,Gonzalez,47,1787211-4,Habitat,Desarrollador,15,2599083,Enero,2023,Masculino
+Jorge,Gonzalez,47,1787211-4,Habitat,Desarrollador,15,2729037,Febrero,2022,Masculino
+Jorge,Gonzalez,47,1787211-4,Habitat,Desarrollador,15,2838198,Febrero,2023,Masculino
+Jorge,Gonzalez,47,1787211-4,Habitat,Desarrollador,15,2980107,Julio,2022,Masculino
+Jorge,Gonzalez,47,1787211-4,Habitat,Desarrollador,15,3099311,Julio,2023,Masculino
+Jorge,Gonzalez,47,1787211-4,Habitat,Desarrollador,15,3254276,Junio,2023,Masculino
+Jorge,Gonzalez,47,1787211-4,Habitat,Desarrollador,15,3416989,Junio,2022,Masculino
+Jorge,Gonzalez,47,1787211-4,Habitat,Desarrollador,15,3553668,Marzo,2022,Masculino
+Jorge,Gonzalez,47,1787211-4,Habitat,Desarrollador,15,3695814,Marzo,2023,Masculino
+Jorge,Gonzalez,47,1787211-4,Habitat,Desarrollador,15,3880604,Mayo,2022,Masculino
+Jorge,Gonzalez,47,1787211-4,Habitat,Desarrollador,15,4035828,Mayo,2023,Masculino
+Jorge,Gonzalez,47,1787211-4,Habitat,Desarrollador,15,4237619,Noviembre,2022,Masculino
+Jorge,Gonzalez,47,1787211-4,Habitat,Desarrollador,15,4407123,Noviembre,2023,Masculino
+Jorge,Gonzalez,47,1787211-4,Habitat,Desarrollador,15,4627479,Octubre,2022,Masculino
+Jorge,Gonzalez,47,1787211-4,Habitat,Desarrollador,15,4812578,Octubre,2023,Masculino
+Jorge,Gonzalez,47,1787211-4,Habitat,Desarrollador,15,5053206,Septiembre,2022,Masculino
+Jorge,Gonzalez,47,1787211-4,Habitat,Desarrollador,15,5255334,Septiembre,2023,Masculino
+Lucia,Perez,37,9038361-2,Capital,Técnico,9,1499420,Abril,2023,Femenino
+Lucia,Perez,37,9038361-2,Capital,Técnico,9,1574391,Abril,2022,Femenino
+Lucia,Perez,37,9038361-2,Capital,Técnico,9,1637366,Agosto,2023,Femenino
+Lucia,Perez,37,9038361-2,Capital,Técnico,9,1719234,Agosto,2022,Femenino
+Lucia,Perez,37,9038361-2,Capital,Técnico,9,1788003,Diciembre,2021,Femenino
+Lucia,Perez,37,9038361-2,Capital,Técnico,9,1841643,Diciembre,2022,Femenino
+Lucia,Perez,37,9038361-2,Capital,Técnico,9,1915308,Diciembre,2023,Femenino
+Lucia,Perez,37,9038361-2,Capital,Técnico,9,2011073,Enero,2022,Femenino
+Lucia,Perez,37,9038361-2,Capital,Técnico,9,2091515,Enero,2023,Femenino
+Lucia,Perez,37,9038361-2,Capital,Técnico,9,2196090,Febrero,2022,Femenino
+Lucia,Perez,37,9038361-2,Capital,Técnico,9,2283933,Febrero,2023,Femenino
+Lucia,Perez,37,9038361-2,Capital,Técnico,9,2398129,Julio,2022,Femenino
+Lucia,Perez,37,9038361-2,Capital,Técnico,9,2494054,Julio,2023,Femenino
+Lucia,Perez,37,9038361-2,Capital,Técnico,9,2618756,Junio,2023,Femenino
+Lucia,Perez,37,9038361-2,Capital,Técnico,9,2749693,Junio,2022,Femenino
+Lucia,Perez,37,9038361-2,Capital,Técnico,9,2859680,Marzo,2022,Femenino
+Lucia,Perez,37,9038361-2,Capital,Técnico,9,2974067,Marzo,2023,Femenino
+Lucia,Perez,37,9038361-2,Capital,Técnico,9,3122770,Mayo,2022,Femenino
+Lucia,Perez,37,9038361-2,Capital,Técnico,9,3247680,Mayo,2023,Femenino
+Lucia,Perez,37,9038361-2,Capital,Técnico,9,3410064,Noviembre,2022,Femenino
+Lucia,Perez,37,9038361-2,Capital,Técnico,9,3546466,Noviembre,2023,Femenino
+Lucia,Perez,37,9038361-2,Capital,Técnico,9,3723789,Octubre,2022,Femenino
+Lucia,Perez,37,9038361-2,Capital,Técnico,9,3872740,Octubre,2023,Femenino
+Lucia,Perez,37,9038361-2,Capital,Técnico,9,4066377,Septiembre,2022,Femenino
+Lucia,Perez,37,9038361-2,Capital,Técnico,9,4229032,Septiembre,2023,Femenino
+Pedro,Ramirez,55,19702168-K,Cuprum,Técnico,8,1671649,Abril,2023,Masculino
+Pedro,Ramirez,55,19702168-K,Cuprum,Técnico,8,1755231,Abril,2022,Masculino
+Pedro,Ramirez,55,19702168-K,Cuprum,Técnico,8,1825440,Agosto,2023,Masculino
+Pedro,Ramirez,55,19702168-K,Cuprum,Técnico,8,1916712,Agosto,2022,Masculino
+Pedro,Ramirez,55,19702168-K,Cuprum,Técnico,8,1993380,Diciembre,2021,Masculino
+Pedro,Ramirez,55,19702168-K,Cuprum,Técnico,8,2053181,Diciembre,2022,Masculino
+Pedro,Ramirez,55,19702168-K,Cuprum,Técnico,8,2135308,Diciembre,2023,Masculino
+Pedro,Ramirez,55,19702168-K,Cuprum,Técnico,8,2242073,Enero,2022,Masculino
+Pedro,Ramirez,55,19702168-K,Cuprum,Técnico,8,2331755,Enero,2023,Masculino
+Pedro,Ramirez,55,19702168-K,Cuprum,Técnico,8,2448342,Febrero,2022,Masculino
+Pedro,Ramirez,55,19702168-K,Cuprum,Técnico,8,2546275,Febrero,2023,Masculino
+Pedro,Ramirez,55,19702168-K,Cuprum,Técnico,8,2673588,Julio,2022,Masculino
+Pedro,Ramirez,55,19702168-K,Cuprum,Técnico,8,2780531,Julio,2023,Masculino
+Pedro,Ramirez,55,19702168-K,Cuprum,Técnico,8,2919557,Junio,2023,Masculino
+Pedro,Ramirez,55,19702168-K,Cuprum,Técnico,8,3065534,Junio,2022,Masculino
+Pedro,Ramirez,55,19702168-K,Cuprum,Técnico,8,3188155,Marzo,2022,Masculino
+Pedro,Ramirez,55,19702168-K,Cuprum,Técnico,8,3315681,Marzo,2023,Masculino
+Pedro,Ramirez,55,19702168-K,Cuprum,Técnico,8,3481465,Mayo,2022,Masculino
+Pedro,Ramirez,55,19702168-K,Cuprum,Técnico,8,3620723,Mayo,2023,Masculino
+Pedro,Ramirez,55,19702168-K,Cuprum,Técnico,8,3801759,Noviembre,2022,Masculino
+Pedro,Ramirez,55,19702168-K,Cuprum,Técnico,8,3953829,Noviembre,2023,Masculino
+Pedro,Ramirez,55,19702168-K,Cuprum,Técnico,8,4151520,Octubre,2022,Masculino
+Pedro,Ramirez,55,19702168-K,Cuprum,Técnico,8,4317580,Octubre,2023,Masculino
+Pedro,Ramirez,55,19702168-K,Cuprum,Técnico,8,4533459,Septiembre,2022,Masculino
+Pedro,Ramirez,55,19702168-K,Cuprum,Técnico,8,4714797,Septiembre,2023,Masculino
+Lucia,Gonzalez,31,20947726-7,Modelo,Desarrollador,10,1524715,Abril,2023,Femenino
+Lucia,Gonzalez,31,20947726-7,Modelo,Desarrollador,10,1600950,Abril,2022,Femenino
+Lucia,Gonzalez,31,20947726-7,Modelo,Desarrollador,10,1664988,Agosto,2023,Femenino
+Lucia,Gonzalez,31,20947726-7,Modelo,Desarrollador,10,1748237,Agosto,2022,Femenino
+Lucia,Gonzalez,31,20947726-7,Modelo,Desarrollador,10,1818166,Diciembre,2021,Femenino
+Lucia,Gonzalez,31,20947726-7,Modelo,Desarrollador,10,1872710,Diciembre,2022,Femenino
+Lucia,Gonzalez,31,20947726-7,Modelo,Desarrollador,10,1947618,Diciembre,2023,Femenino
+Lucia,Gonzalez,31,20947726-7,Modelo,Desarrollador,10,2044998,Enero,2022,Femenino
+Lucia,Gonzalez,31,20947726-7,Modelo,Desarrollador,10,2126797,Enero,2023,Femenino
+Lucia,Gonzalez,31,20947726-7,Modelo,Desarrollador,10,2233136,Febrero,2022,Femenino
+Lucia,Gonzalez,31,20947726-7,Modelo,Desarrollador,10,2322461,Febrero,2023,Femenino
+Lucia,Gonzalez,31,20947726-7,Modelo,Desarrollador,10,2438584,Julio,2022,Femenino
+Lucia,Gonzalez,31,20947726-7,Modelo,Desarrollador,10,2536127,Julio,2023,Femenino
+Lucia,Gonzalez,31,20947726-7,Modelo,Desarrollador,10,2662933,Junio,2023,Femenino
+Lucia,Gonzalez,31,20947726-7,Modelo,Desarrollador,10,2796079,Junio,2022,Femenino
+Lucia,Gonzalez,31,20947726-7,Modelo,Desarrollador,10,2907922,Marzo,2022,Femenino
+Lucia,Gonzalez,31,20947726-7,Modelo,Desarrollador,10,3024238,Marzo,2023,Femenino
+Lucia,Gonzalez,31,20947726-7,Modelo,Desarrollador,10,3175449,Mayo,2022,Femenino
+Lucia,Gonzalez,31,20947726-7,Modelo,Desarrollador,10,3302466,Mayo,2023,Femenino
+Lucia,Gonzalez,31,20947726-7,Modelo,Desarrollador,10,3467589,Noviembre,2022,Femenino
+Lucia,Gonzalez,31,20947726-7,Modelo,Desarrollador,10,3606292,Noviembre,2023,Femenino
+Lucia,Gonzalez,31,20947726-7,Modelo,Desarrollador,10,3786606,Octubre,2022,Femenino
+Lucia,Gonzalez,31,20947726-7,Modelo,Desarrollador,10,3938070,Octubre,2023,Femenino
+Lucia,Gonzalez,31,20947726-7,Modelo,Desarrollador,10,4134973,Septiembre,2022,Femenino
+Lucia,Gonzalez,31,20947726-7,Modelo,Desarrollador,10,4300371,Septiembre,2023,Femenino
+Maria,Perez,31,5720512-2,Cuprum,Técnico,7,1426015,Abril,2023,Femenino
+Maria,Perez,31,5720512-2,Cuprum,Técnico,7,1497315,Abril,2022,Femenino
+Maria,Perez,31,5720512-2,Cuprum,Técnico,7,1557207,Agosto,2023,Femenino
+Maria,Perez,31,5720512-2,Cuprum,Técnico,7,1635067,Agosto,2022,Femenino
+Maria,Perez,31,5720512-2,Cuprum,Técnico,7,1700469,Diciembre,2021,Femenino
+Maria,Perez,31,5720512-2,Cuprum,Técnico,7,1751483,Diciembre,2022,Femenino
+Maria,Perez,31,5720512-2,Cuprum,Técnico,7,1821542,Diciembre,2023,Femenino
+Maria,Perez,31,5720512-2,Cuprum,Técnico,7,1912619,Enero,2022,Femenino
+Maria,Perez,31,5720512-2,Cuprum,Técnico,7,1989123,Enero,2023,Femenino
+Maria,Perez,31,5720512-2,Cuprum,Técnico,7,2088579,Febrero,2022,Femenino
+Maria,Perez,31,5720512-2,Cuprum,Técnico,7,2172122,Febrero,2023,Femenino
+Maria,Perez,31,5720512-2,Cuprum,Técnico,7,2280728,Julio,2022,Femenino
+Maria,Perez,31,5720512-2,Cuprum,Técnico,7,2371957,Julio,2023,Femenino
+Maria,Perez,31,5720512-2,Cuprum,Técnico,7,2490554,Junio,2023,Femenino
+Maria,Perez,31,5720512-2,Cuprum,Técnico,7,2615081,Junio,2022,Femenino
+Maria,Perez,31,5720512-2,Cuprum,Técnico,7,2719684,Marzo,2022,Femenino
+Maria,Perez,31,5720512-2,Cuprum,Técnico,7,2828471,Marzo,2023,Femenino
+Maria,Perez,31,5720512-2,Cuprum,Técnico,7,2969894,Mayo,2022,Femenino
+Maria,Perez,31,5720512-2,Cuprum,Técnico,7,3088689,Mayo,2023,Femenino
+Maria,Perez,31,5720512-2,Cuprum,Técnico,7,3243123,Noviembre,2022,Femenino
+Maria,Perez,31,5720512-2,Cuprum,Técnico,7,3372847,Noviembre,2023,Femenino
+Maria,Perez,31,5720512-2,Cuprum,Técnico,7,3541489,Octubre,2022,Femenino
+Maria,Perez,31,5720512-2,Cuprum,Técnico,7,3683148,Octubre,2023,Femenino
+Maria,Perez,31,5720512-2,Cuprum,Técnico,7,3867305,Septiembre,2022,Femenino
+Maria,Perez,31,5720512-2,Cuprum,Técnico,7,4021997,Septiembre,2023,Femenino
+Lucia,Lopez,37,19540118-1,Cuprum,Desarrollador,3,1188666,Abril,2023,Femenino
+Lucia,Lopez,37,19540118-1,Cuprum,Desarrollador,3,1248099,Abril,2022,Femenino
+Lucia,Lopez,37,19540118-1,Cuprum,Desarrollador,3,1298022,Agosto,2023,Femenino
+Lucia,Lopez,37,19540118-1,Cuprum,Desarrollador,3,1362923,Agosto,2022,Femenino
+Lucia,Lopez,37,19540118-1,Cuprum,Desarrollador,3,1417439,Diciembre,2021,Femenino
+Lucia,Lopez,37,19540118-1,Cuprum,Desarrollador,3,1459962,Diciembre,2022,Femenino
+Lucia,Lopez,37,19540118-1,Cuprum,Desarrollador,3,1518360,Diciembre,2023,Femenino
+Lucia,Lopez,37,19540118-1,Cuprum,Desarrollador,3,1594278,Enero,2022,Femenino
+Lucia,Lopez,37,19540118-1,Cuprum,Desarrollador,3,1658049,Enero,2023,Femenino
+Lucia,Lopez,37,19540118-1,Cuprum,Desarrollador,3,1740951,Febrero,2022,Femenino
+Lucia,Lopez,37,19540118-1,Cuprum,Desarrollador,3,1810589,Febrero,2023,Femenino
+Lucia,Lopez,37,19540118-1,Cuprum,Desarrollador,3,1901118,Julio,2022,Femenino
+Lucia,Lopez,37,19540118-1,Cuprum,Desarrollador,3,1977162,Julio,2023,Femenino
+Lucia,Lopez,37,19540118-1,Cuprum,Desarrollador,3,2076020,Junio,2023,Femenino
+Lucia,Lopez,37,19540118-1,Cuprum,Desarrollador,3,2179821,Junio,2022,Femenino
+Lucia,Lopez,37,19540118-1,Cuprum,Desarrollador,3,2267013,Marzo,2022,Femenino
+Lucia,Lopez,37,19540118-1,Cuprum,Desarrollador,3,2357693,Marzo,2023,Femenino
+Lucia,Lopez,37,19540118-1,Cuprum,Desarrollador,3,2475577,Mayo,2022,Femenino
+Lucia,Lopez,37,19540118-1,Cuprum,Desarrollador,3,2574600,Mayo,2023,Femenino
+Lucia,Lopez,37,19540118-1,Cuprum,Desarrollador,3,2703330,Noviembre,2022,Femenino
+Lucia,Lopez,37,19540118-1,Cuprum,Desarrollador,3,2811463,Noviembre,2023,Femenino
+Lucia,Lopez,37,19540118-1,Cuprum,Desarrollador,3,2952036,Octubre,2022,Femenino
+Lucia,Lopez,37,19540118-1,Cuprum,Desarrollador,3,3070117,Octubre,2023,Femenino
+Lucia,Lopez,37,19540118-1,Cuprum,Desarrollador,3,3223622,Septiembre,2022,Femenino
+Lucia,Lopez,37,19540118-1,Cuprum,Desarrollador,3,3352566,Septiembre,2023,Femenino
+Carlos,Rodriguez,56,9555516-1,Capital,Contador,8,1282966,Abril,2023,Masculino
+Carlos,Rodriguez,56,9555516-1,Capital,Contador,8,1347114,Abril,2022,Masculino
+Carlos,Rodriguez,56,9555516-1,Capital,Contador,8,1400998,Agosto,2023,Masculino
+Carlos,Rodriguez,56,9555516-1,Capital,Contador,8,1471047,Agosto,2022,Masculino
+Carlos,Rodriguez,56,9555516-1,Capital,Contador,8,1529888,Diciembre,2021,Masculino
+Carlos,Rodriguez,56,9555516-1,Capital,Contador,8,1575784,Diciembre,2022,Masculino
+Carlos,Rodriguez,56,9555516-1,Capital,Contador,8,1638815,Diciembre,2023,Masculino
+Carlos,Rodriguez,56,9555516-1,Capital,Contador,8,1720755,Enero,2022,Masculino
+Carlos,Rodriguez,56,9555516-1,Capital,Contador,8,1789585,Enero,2023,Masculino
+Carlos,Rodriguez,56,9555516-1,Capital,Contador,8,1879064,Febrero,2022,Masculino
+Carlos,Rodriguez,56,9555516-1,Capital,Contador,8,1954226,Febrero,2023,Masculino
+Carlos,Rodriguez,56,9555516-1,Capital,Contador,8,2051937,Julio,2022,Masculino
+Carlos,Rodriguez,56,9555516-1,Capital,Contador,8,2134014,Julio,2023,Masculino
+Carlos,Rodriguez,56,9555516-1,Capital,Contador,8,2240714,Junio,2023,Masculino
+Carlos,Rodriguez,56,9555516-1,Capital,Contador,8,2352749,Junio,2022,Masculino
+Carlos,Rodriguez,56,9555516-1,Capital,Contador,8,2446858,Marzo,2022,Masculino
+Carlos,Rodriguez,56,9555516-1,Capital,Contador,8,2544732,Marzo,2023,Masculino
+Carlos,Rodriguez,56,9555516-1,Capital,Contador,8,2671968,Mayo,2022,Masculino
+Carlos,Rodriguez,56,9555516-1,Capital,Contador,8,2778846,Mayo,2023,Masculino
+Carlos,Rodriguez,56,9555516-1,Capital,Contador,8,2917788,Noviembre,2022,Masculino
+Carlos,Rodriguez,56,9555516-1,Capital,Contador,8,3034499,Noviembre,2023,Masculino
+Carlos,Rodriguez,56,9555516-1,Capital,Contador,8,3186223,Octubre,2022,Masculino
+Carlos,Rodriguez,56,9555516-1,Capital,Contador,8,3313671,Octubre,2023,Masculino
+Carlos,Rodriguez,56,9555516-1,Capital,Contador,8,3479354,Septiembre,2022,Masculino
+Carlos,Rodriguez,56,9555516-1,Capital,Contador,8,3618528,Septiembre,2023,Masculino
+Maria,Perez,53,2901703-1,Cuprum,Jefe de Proyectos,14,1732891,Abril,2023,Femenino
+Maria,Perez,53,2901703-1,Cuprum,Jefe de Proyectos,14,1819535,Abril,2022,Femenino
+Maria,Perez,53,2901703-1,Cuprum,Jefe de Proyectos,14,1892316,Agosto,2023,Femenino
+Maria,Perez,53,2901703-1,Cuprum,Jefe de Proyectos,14,1986931,Agosto,2022,Femenino
+Maria,Perez,53,2901703-1,Cuprum,Jefe de Proyectos,14,2066408,Diciembre,2021,Femenino
+Maria,Perez,53,2901703-1,Cuprum,Jefe de Proyectos,14,2128400,Diciembre,2022,Femenino
+Maria,Perez,53,2901703-1,Cuprum,Jefe de Proyectos,14,2213536,Diciembre,2023,Femenino
+Maria,Perez,53,2901703-1,Cuprum,Jefe de Proyectos,14,2324212,Enero,2022,Femenino
+Maria,Perez,53,2901703-1,Cuprum,Jefe de Proyectos,14,2417180,Enero,2023,Femenino
+Maria,Perez,53,2901703-1,Cuprum,Jefe de Proyectos,14,2538039,Febrero,2022,Femenino
+Maria,Perez,53,2901703-1,Cuprum,Jefe de Proyectos,14,2639560,Febrero,2023,Femenino
+Maria,Perez,53,2901703-1,Cuprum,Jefe de Proyectos,14,2771538,Julio,2022,Femenino
+Maria,Perez,53,2901703-1,Cuprum,Jefe de Proyectos,14,2882399,Julio,2023,Femenino
+Maria,Perez,53,2901703-1,Cuprum,Jefe de Proyectos,14,3026518,Junio,2023,Femenino
+Maria,Perez,53,2901703-1,Cuprum,Jefe de Proyectos,14,3177843,Junio,2022,Femenino
+Maria,Perez,53,2901703-1,Cuprum,Jefe de Proyectos,14,3304956,Marzo,2022,Femenino
+Maria,Perez,53,2901703-1,Cuprum,Jefe de Proyectos,14,3437154,Marzo,2023,Femenino
+Maria,Perez,53,2901703-1,Cuprum,Jefe de Proyectos,14,3609011,Mayo,2022,Femenino
+Maria,Perez,53,2901703-1,Cuprum,Jefe de Proyectos,14,3753371,Mayo,2023,Femenino
+Maria,Perez,53,2901703-1,Cuprum,Jefe de Proyectos,14,3941039,Noviembre,2022,Femenino
+Maria,Perez,53,2901703-1,Cuprum,Jefe de Proyectos,14,4098680,Noviembre,2023,Femenino
+Maria,Perez,53,2901703-1,Cuprum,Jefe de Proyectos,14,4303614,Octubre,2022,Femenino
+Maria,Perez,53,2901703-1,Cuprum,Jefe de Proyectos,14,4475758,Octubre,2023,Femenino
+Maria,Perez,53,2901703-1,Cuprum,Jefe de Proyectos,14,4699545,Septiembre,2022,Femenino
+Maria,Perez,53,2901703-1,Cuprum,Jefe de Proyectos,14,4887526,Septiembre,2023,Femenino
+Maria,Sanchez,55,4197200-8,Provida,Analista,14,1541294,Abril,2023,Femenino
+Maria,Sanchez,55,4197200-8,Provida,Analista,14,1618358,Abril,2022,Femenino
+Maria,Sanchez,55,4197200-8,Provida,Analista,14,1683092,Agosto,2023,Femenino
+Maria,Sanchez,55,4197200-8,Provida,Analista,14,1767246,Agosto,2022,Femenino
+Maria,Sanchez,55,4197200-8,Provida,Analista,14,1837935,Diciembre,2021,Femenino
+Maria,Sanchez,55,4197200-8,Provida,Analista,14,1893073,Diciembre,2022,Femenino
+Maria,Sanchez,55,4197200-8,Provida,Analista,14,1968795,Diciembre,2023,Femenino
+Maria,Sanchez,55,4197200-8,Provida,Analista,14,2067234,Enero,2022,Femenino
+Maria,Sanchez,55,4197200-8,Provida,Analista,14,2149923,Enero,2023,Femenino
+Maria,Sanchez,55,4197200-8,Provida,Analista,14,2257419,Febrero,2022,Femenino
+Maria,Sanchez,55,4197200-8,Provida,Analista,14,2347715,Febrero,2023,Femenino
+Maria,Sanchez,55,4197200-8,Provida,Analista,14,2465100,Julio,2022,Femenino
+Maria,Sanchez,55,4197200-8,Provida,Analista,14,2563704,Julio,2023,Femenino
+Maria,Sanchez,55,4197200-8,Provida,Analista,14,2691889,Junio,2023,Femenino
+Maria,Sanchez,55,4197200-8,Provida,Analista,14,2826483,Junio,2022,Femenino
+Maria,Sanchez,55,4197200-8,Provida,Analista,14,2939542,Marzo,2022,Femenino
+Maria,Sanchez,55,4197200-8,Provida,Analista,14,3057123,Marzo,2023,Femenino
+Maria,Sanchez,55,4197200-8,Provida,Analista,14,3209979,Mayo,2022,Femenino
+Maria,Sanchez,55,4197200-8,Provida,Analista,14,3338378,Mayo,2023,Femenino
+Maria,Sanchez,55,4197200-8,Provida,Analista,14,3505296,Noviembre,2022,Femenino
+Maria,Sanchez,55,4197200-8,Provida,Analista,14,3645507,Noviembre,2023,Femenino
+Maria,Sanchez,55,4197200-8,Provida,Analista,14,3827782,Octubre,2022,Femenino
+Maria,Sanchez,55,4197200-8,Provida,Analista,14,3980893,Octubre,2023,Femenino
+Maria,Sanchez,55,4197200-8,Provida,Analista,14,4179937,Septiembre,2022,Femenino
+Maria,Sanchez,55,4197200-8,Provida,Analista,14,4347134,Septiembre,2023,Femenino
+Luis,Ramirez,54,1931740-7,Provida,Jefe de Proyectos,8,1478009,Abril,2023,Masculino
+Luis,Ramirez,54,1931740-7,Provida,Jefe de Proyectos,8,1551909,Abril,2022,Masculino
+Luis,Ramirez,54,1931740-7,Provida,Jefe de Proyectos,8,1613985,Agosto,2023,Masculino
+Luis,Ramirez,54,1931740-7,Provida,Jefe de Proyectos,8,1694684,Agosto,2022,Masculino
+Luis,Ramirez,54,1931740-7,Provida,Jefe de Proyectos,8,1762471,Diciembre,2021,Masculino
+Luis,Ramirez,54,1931740-7,Provida,Jefe de Proyectos,8,1815345,Diciembre,2022,Masculino
+Luis,Ramirez,54,1931740-7,Provida,Jefe de Proyectos,8,1887958,Diciembre,2023,Masculino
+Luis,Ramirez,54,1931740-7,Provida,Jefe de Proyectos,8,1982355,Enero,2022,Masculino
+Luis,Ramirez,54,1931740-7,Provida,Jefe de Proyectos,8,2061649,Enero,2023,Masculino
+Luis,Ramirez,54,1931740-7,Provida,Jefe de Proyectos,8,2164731,Febrero,2022,Masculino
+Luis,Ramirez,54,1931740-7,Provida,Jefe de Proyectos,8,2251320,Febrero,2023,Masculino
+Luis,Ramirez,54,1931740-7,Provida,Jefe de Proyectos,8,2363886,Julio,2022,Masculino
+Luis,Ramirez,54,1931740-7,Provida,Jefe de Proyectos,8,2458441,Julio,2023,Masculino
+Luis,Ramirez,54,1931740-7,Provida,Jefe de Proyectos,8,2581363,Junio,2023,Masculino
+Luis,Ramirez,54,1931740-7,Provida,Jefe de Proyectos,8,2710431,Junio,2022,Masculino
+Luis,Ramirez,54,1931740-7,Provida,Jefe de Proyectos,8,2818848,Marzo,2022,Masculino
+Luis,Ramirez,54,1931740-7,Provida,Jefe de Proyectos,8,2931601,Marzo,2023,Masculino
+Luis,Ramirez,54,1931740-7,Provida,Jefe de Proyectos,8,3078181,Mayo,2022,Masculino
+Luis,Ramirez,54,1931740-7,Provida,Jefe de Proyectos,8,3201308,Mayo,2023,Masculino
+Luis,Ramirez,54,1931740-7,Provida,Jefe de Proyectos,8,3361373,Noviembre,2022,Masculino
+Luis,Ramirez,54,1931740-7,Provida,Jefe de Proyectos,8,3495827,Noviembre,2023,Masculino
+Luis,Ramirez,54,1931740-7,Provida,Jefe de Proyectos,8,3670618,Octubre,2022,Masculino
+Luis,Ramirez,54,1931740-7,Provida,Jefe de Proyectos,8,3817442,Octubre,2023,Masculino
+Luis,Ramirez,54,1931740-7,Provida,Jefe de Proyectos,8,4008314,Septiembre,2022,Masculino
+Luis,Ramirez,54,1931740-7,Provida,Jefe de Proyectos,8,4168646,Septiembre,2023,Masculino
+Pedro,Sanchez,29,13361757-K,Cuprum,Contador,17,1783499,Abril,2023,Masculino
+Pedro,Sanchez,29,13361757-K,Cuprum,Contador,17,1872673,Abril,2022,Masculino
+Pedro,Sanchez,29,13361757-K,Cuprum,Contador,17,1947579,Agosto,2023,Masculino
+Pedro,Sanchez,29,13361757-K,Cuprum,Contador,17,2044957,Agosto,2022,Masculino
+Pedro,Sanchez,29,13361757-K,Cuprum,Contador,17,2126755,Diciembre,2021,Masculino
+Pedro,Sanchez,29,13361757-K,Cuprum,Contador,17,2190557,Diciembre,2022,Masculino
+Pedro,Sanchez,29,13361757-K,Cuprum,Contador,17,2278179,Diciembre,2023,Masculino
+Pedro,Sanchez,29,13361757-K,Cuprum,Contador,17,2392087,Enero,2022,Masculino
+Pedro,Sanchez,29,13361757-K,Cuprum,Contador,17,2487770,Enero,2023,Masculino
+Pedro,Sanchez,29,13361757-K,Cuprum,Contador,17,2612158,Febrero,2022,Masculino
+Pedro,Sanchez,29,13361757-K,Cuprum,Contador,17,2716644,Febrero,2023,Masculino
+Pedro,Sanchez,29,13361757-K,Cuprum,Contador,17,2852476,Julio,2022,Masculino
+Pedro,Sanchez,29,13361757-K,Cuprum,Contador,17,2966575,Julio,2023,Masculino
+Pedro,Sanchez,29,13361757-K,Cuprum,Contador,17,3114903,Junio,2023,Masculino
+Pedro,Sanchez,29,13361757-K,Cuprum,Contador,17,3270648,Junio,2022,Masculino
+Pedro,Sanchez,29,13361757-K,Cuprum,Contador,17,3401473,Marzo,2022,Masculino
+Pedro,Sanchez,29,13361757-K,Cuprum,Contador,17,3537531,Marzo,2023,Masculino
+Pedro,Sanchez,29,13361757-K,Cuprum,Contador,17,3714407,Mayo,2022,Masculino
+Pedro,Sanchez,29,13361757-K,Cuprum,Contador,17,3862983,Mayo,2023,Masculino
+Pedro,Sanchez,29,13361757-K,Cuprum,Contador,17,4056132,Noviembre,2022,Masculino
+Pedro,Sanchez,29,13361757-K,Cuprum,Contador,17,4218377,Noviembre,2023,Masculino
+Pedro,Sanchez,29,13361757-K,Cuprum,Contador,17,4429295,Octubre,2022,Masculino
+Pedro,Sanchez,29,13361757-K,Cuprum,Contador,17,4606466,Octubre,2023,Masculino
+Pedro,Sanchez,29,13361757-K,Cuprum,Contador,17,4836789,Septiembre,2022,Masculino
+Pedro,Sanchez,29,13361757-K,Cuprum,Contador,17,5030260,Septiembre,2023,Masculino
