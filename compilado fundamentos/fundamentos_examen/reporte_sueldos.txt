@@ -1,0 +1,11 @@
+Nombre empleado	Sueldo Base	Descuento Salud	Descuento AFP	Sueldo Líquido
+Juan Pérez	1.827.550	127.928	219.306	1.480.316
+María García	585.060	40.954	70.207	473.899
+Carlos López	1.199.624	83.973	143.954	971.697
+Ana Martínez	1.688.908	118.223	202.668	1.368.017
+Pedro Rodríguez	870.634	60.944	104.476	705.214
+Laura Hernández	1.744.766	122.133	209.371	1.413.262
+Miguel Sánchez	535.997	37.519	64.319	434.159
+Isabel Gómez	1.401.223	98.085	168.146	1.134.992
+Francisco Díaz	2.140.478	149.833	256.857	1.733.788
+Elena Fernández	1.838.851	128.719	220.662	1.489.470
